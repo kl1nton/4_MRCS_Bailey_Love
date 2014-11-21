@@ -10,26 +10,48 @@ Section OLD
 A 21-year-old footballer presents to A&E with a stabbing pain above his right knee joint. He states the pain came on suddenly while he was sprinting. On examination he is unable to extend the leg and he walks with a limp. There is suprapatellar swelling and an absent knee jerk.
 
 What is the Likely diagnosis?
+    
     A. Fratire of patella
     B. Injury to posterior cruciate ligament (PCA)
     C. Tear of adductor magnus muscle
     D. Tear of biceps femoris muscle
 
-#### Answer: E. Tear of quadriceps tendon - TRUE
+#### Answer: E. Tear of quadriceps tendon - **TRUE**
 
-2. During strenuous exercise, what occurs apart from tachycardia?
+### Q2
+During strenuous exercise, what else occurs besides tachycardia?
 
-Answer - A: Rise in PaCO2 - FALSE
+    A. Rise in PaCO2
+    B. Increase stroke volume (SV)
+    C. Rise in mixed venous blood O2 saturation
+    D. No change to blood pressure
+    E. Increased renal blood flow
 
-3. A patient is found to have thrombophlebitis migrans. What other condition must be considered?
+#### Answer: A. Rise in PaCO2 - **FALSE**
 
-Answer - E: Beckwith-Wiedeman Syndrome - FALSE
+### Q3
+A patient is found to have thrombophlebitis migrans. What other condition must be considered?
 
-4. A 42-yo lady is involved in a RTA. She presents with dislocated shoulder
-Mx: shoulder is relocated by you in A&E
-Ax: afterwards you notice wingin of the scapula
-Q. Which nerve or muscle is likely to be damaged?
-Answer - D: Long thoracic nerve of Bell - TRUE
+    A. Venous insufficiency
+    B. Diabetes mellitus (DM)
+    C. Bronchial carcinoma
+    D. Lyme disease
+    E. Beckwith-Wiedemann syndrome
+
+#### Answer: E. Beckwith-Wiedeman Syndrome - **FALSE**
+
+### Q4
+A 42-yo lady is involved in a road traffic acident (RTA). She presents with dislocated shoulder. The shoulder is relocated by you in A&E but afterwards you notice winging of the scapula.
+
+Which nerve or muscle is likely to be damaged?
+
+    A. ?
+    B. ?
+    C. ?
+    D. ?
+    E. ?
+
+#### Answer: D. Long thoracic nerve of Bell - **TRUE**
 
 5. Which cells cannot regenerate?
 

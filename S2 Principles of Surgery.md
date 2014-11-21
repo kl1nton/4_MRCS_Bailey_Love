@@ -36,3 +36,23 @@ For each of the patients described below, select the signle best treatment from 
 9. A 32-year-old man presents complaining of a 'dragging' sensation in the left scrotum. On examination...
 10. A 21-year-old man presents with suddent onset of left testicular pain which came on 2-hours ago. When the doctor...
 
+## 3. Lumps in the Neck
+
+    A. Lymph node
+    B. Branchial cyst
+    C. Thyroglossal cyst
+    D. Cystic hygroma
+    E. Epidermal cyst
+    F. Salivary gland calculus
+    G. Warthin's tumour
+    H. Pleomorphic adenoma
+    I. Multinodular goitre
+
+For each of the patients described below, select the signle best treatment from the options listed above. Each option may be used once, more than once or not at all.
+
+11. A 34-year-old man present with a firm lump in the right side of his neck just below the mandible. The lump measures 3cm. The skin appears attached to the lump and there is a small punctum visible.
+12. A 25-year-old man has a small lump in the midline of his neck
+13. A 33-year-old woman is referred by her GP with a 3 cm firm lump on the right side of her neck. The lump moves on swallowing but does not move on protruding the tongue. Her mother had thyroid cancer.
+14. A 14-year-old girl presents with a 2 cm soft, fluctuant lump on the right side of her neck adjacent to the angle of the mandible. The lump transilluminates and is cystic on ultrasound.
+15. A 45-year-old man complains of an intermittent swelling that is sometimes painful on the left side of his face and upper jaw. He 
+    

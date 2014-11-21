@@ -7,13 +7,13 @@ Section OLD
 ## Questions 1-10
 
 ### Q1
-A 21-year-old footballer presents to A&E with a stabbing pain above his RIGHT Knee
-Hx
-pain came on suddenly while sprinting
-O/E
-unable to extend leg + walks with a limp
-suprapatellar swelling + absent knee jerk
-Q: Likely diagnosis?
+A 21-year-old footballer presents to A&E with a stabbing pain above his right knee joint. He states the pain came on suddenly while he was sprinting. On examination he is unable to extend the leg and he walks with a limp. There is suprapatellar swelling and an absent knee jerk.
+
+What is the Likely diagnosis?
+    A. Fratire of patella
+    B. Injury to posterior cruciate ligament (PCA)
+    C. Tear of adductor magnus muscle
+    D. Tear of biceps femoris muscle
 
 #### Answer: E. Tear of quadriceps tendon - TRUE
 

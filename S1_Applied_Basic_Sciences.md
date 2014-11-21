@@ -1,15 +1,12 @@
 Section 1 Applied Basic Sciences (SBA)
 ======================================
 
-Section OLD
------------
-
 ## Questions 1-10
 
 ### Q1
 A 21-year-old footballer presents to A&E with a _stabbing pain_ above his right _knee joint_. He states the pain _came on suddenly_ while he was sprinting. On examination, he is _unable to extend the leg_ and he _walks with a limp_. There is _suprapatellar swelling_ and an _absent knee jerk_. What is the likely diagnosis?
     
-    A. Fratire of patella
+    A. Frature of patella
     B. Injury to posterior cruciate ligament (PCA)
     C. Tear of adductor magnus muscle
     D. Tear of biceps femoris muscle
@@ -57,7 +54,7 @@ Which nerve or muscle is likely to be damaged?
     B. Teres major
     C. Radial nerve
     D. Long thoracic nerve of Bell
-    E. Beltoid
+    E. Deltoid
 
 #### Answer: D. Long thoracic nerve of Bell - **TRUE**
 

@@ -7,17 +7,18 @@ Section OLD
 ## Questions 1-10
 
 ### Q1
-A 21-year-old footballer presents to A&E with a stabbing pain above his right knee joint. He states the pain came on suddenly while he was sprinting. On examination he is unable to extend the leg and he walks with a limp. There is suprapatellar swelling and an absent knee jerk.
-
-What is the Likely diagnosis?
+A 21-year-old footballer presents to A&E with a _stabbing pain_ above his right _knee joint_. He states the pain _came on suddenly_ while he was sprinting. On examination, he is _unable to extend the leg_ and he _walks with a limp_. There is _suprapatellar swelling_ and an _absent knee jerk_. What is the likely diagnosis?
     
     A. Fratire of patella
     B. Injury to posterior cruciate ligament (PCA)
     C. Tear of adductor magnus muscle
     D. Tear of biceps femoris muscle
     E. Tear of quadriceps tendone
-
+    
 #### Answer: E. Tear of quadriceps tendon - **TRUE**
+- ?
+- ?
+- ?
 
 ### Q2
 During strenuous exercise, what else occurs besides tachycardia?
@@ -29,6 +30,9 @@ During strenuous exercise, what else occurs besides tachycardia?
     E. Increased renal blood flow
 
 #### Answer: A. Rise in PaCO2 - **FALSE**
+- ?
+- ?
+- ?
 
 ### Q3
 A patient is found to have thrombophlebitis migrans. What other condition must be considered?
@@ -40,6 +44,9 @@ A patient is found to have thrombophlebitis migrans. What other condition must b
     E. Beckwith-Wiedemann syndrome
 
 #### Answer: E. Beckwith-Wiedeman Syndrome - **FALSE**
+- ?
+- ?
+- ?
 
 ### Q4
 A 42-yo lady is involved in a road traffic acident (RTA). She presents with dislocated shoulder. The shoulder is relocated by you in A&E but afterwards you notice winging of the scapula.
@@ -77,7 +84,7 @@ Which of the following is a feature of metastatic spread?
 #### Answer: D. Prostatic carcinoma commonly spreads via the blood - **TRUE**
 
 ### Q7: TODO
-A 35-yo man is knocked off his bicycle and hits his head on the kerb
+A 35-year-old man is knocked off his bicycle and hits his head on the kerb
 PC: brought to hospital with a fluctuating score on the Glasgow Coma Scale (GCS)
 Ix: he underwent a CT-Head scan which shows a biconvex-shaped haematoma
 Q: which other finding is he most likely to have?
@@ -113,9 +120,7 @@ Which is a feature of adenoma?
 #### Answer: E. Does not contain dysplastic cells - **FALSE**
 
 ### Q10
-A singer complains of not being able to sing high notes following her thyroidectomy.
-
-What is the likely cause?
+A singer complains of not being able to sing high notes following her thyroidectomy. What is the likely cause?
 
     A. Damage to the recurrent laryngeal nerve
     B. Damage to the external laryngeal nerve
@@ -150,9 +155,7 @@ Radiotherapy can be the sole treatment for which type of cancers?
 #### Answer: E. Phylloides breast tumour - **FALSE**
 
 ### Q13
-A woman has a pleomorphic adenoma. She is undergoing a total parathyroidectomy.
-
-Which important vascular structure should the surgeon be most aware of?
+A woman has a pleomorphic adenoma. She is undergoing a total parathyroidectomy. Which important vascular structure should the surgeon be most aware of?
 
     A. Facial artery
     B. Facial vein
@@ -176,71 +179,87 @@ What is the cardiac index? - **TOTAL GUESS**
 ### Q15
 A patient is known to have expose to beta-naphthylamine. What is he/she at increased risk of developing?
 
-    A. 
+    A. Small-cell lung carcinoma
+    B. Bladder cancer
+    C. Breast cancer
+    D. Chemical pneumonitis
+    E. Lymphoma
 
 #### Answer: B. Bladder cancer - **TRUE**
 
-16. A 70-yo man suffers an ischiaemic stroke and develops a LEFT homonymous hemianopia. Where is the likely infarct?
+16. A 70-year-old man suffers an ischiaemic stroke and develops a LEFT homonymous hemianopia. Where is the likely infarct?
 
-Answer - D. Right occipital lobe - TRUE
+    A. Left frontal lobe
+    B. Right frontal lobe
+    C. Left occipital lobe
+    D. Right occipital lobe
+    E. Left temporal lobe
 
-17. When does the heart rate decrease?
+#### Answer: D. Right occipital lobe - **TRUE**
 
-Answer - A. After a meal - FALSE
+### Q17
+When does the heart rate decrease?
 
-18. Which of the following suggest that respiratory failure is chronic rather than acute?
+#### Answer: A. After a meal - **FALSE**
 
-Answer - A. Plasma bicarbonate of 39 mmol/L - TRUE
+### Q18
+Which of the following suggest that respiratory failure is chronic rather than acute?
 
-19. A 12-yo boy develops acute tonsillitis. He starts to complain of pain in the ear. Which nerve is likely to be involved?
+#### Answer: A. Plasma bicarbonate of 39 mmol/L - *TRUE*
 
-Answer - C. Facial - FALSE
+### Q19
+A 12-yo boy develops acute tonsillitis. He starts to complain of pain in the ear. Which nerve is likely to be involved?
 
-20. A man undergoes an open inguinal hernia repair. During the procedure the cord is visualised. What structures does is contain?
+#### Answer: C. Facial - FALSE
 
-Answer - E. Pampiniform plexus - TRUE
+### Q20
+A man undergoes an open inguinal hernia repair. During the procedure the cord is visualised. What structures does is contain?
+
+#### Answer: E. Pampiniform plexus - TRUE
 
 ## Questions 21-30
 
-21. When performing a LEFT Nephrectomy from a posterior approach, which if the following structures are encountered before reaching the kidney?
+### Q21
+When performing a LEFT Nephrectomy from a posterior approach, which if the following structures are encountered before reaching the kidney?
 
-Answer - C. Subcostal Nerve
+#### Answer - C. Subcostal Nerve
 
-22. When performing a RIGHT hemicolectomy, which of the following structures is encountered during dissection?
+### Q22
+When performing a RIGHT hemicolectomy, which of the following structures is encountered during dissection?
 
-Answer - E. First part of the duodenum
+#### Answer: E. First part of the duodenum
 
-23. What structure does the Pancrease overly?
+### Q23
+What structure does the Pancreas overly?
+#### Answer: D. LEFT Adrenal Gland
 
-Answer - D. LEFT Adrenal Gland
+### Q24
+What causes a reduction in pulmonary functional residual capacity?
+#### Answer: B. Pulmonary Fibrosis
 
-24. What causes a reduction in pulmonary functional residual capacity?
+### Q25
+Which is a feature of the physiology of Angiotensin II?
+#### Answer: E. Released in Hypovolaemia
 
-Answer - B. Pulmonary Fibrosis
+### Q26
+Which displaces the oxygen-haemoglobin curve to the left?
+#### Answer: B. Anaemia
 
-25. Which is a feature of the physiology of Angiotensin II?
+### Q27
+Which factor decreases coronary perfusion?
+#### Answer: C. Alpha stimulation
 
-Answer - E. Released in Hypovolaemia
+### Q2*
+Resection of the terminal ileum is associated with malabsorption of which of the following substances?
+#### Answer - B. Folic Acid
 
-26. Which displaces the oxygen-haemoglobin curve to the left?
+### Q29
+Which is a feature of the action of insulin?
+#### Answer: D. Promotes calcium release from bone 
 
-Answer - B. Anaemia
-
-27. Which factor decreases coronary perfusion?
-
-Answer - C. Alpha stimulation
-
-28. Resection of the terminal ileum is associated with malabsorption of which of the following substances?
-
-Answer - B. Folic Acid
-
-29. Which is a feature of the action of insulin?
-
-Answer - D. Promotes calcium release from bone 
-
-30. Which causes prolonged vomiting due to pyloric stenosis?
-
-Answer - D. A rise in serum chloride
+### Q30
+Which causes prolonged vomiting due to pyloric stenosis?
+#### Answer: D. A rise in serum chloride
 
 ## Questions 31-40
 
@@ -333,7 +352,7 @@ Answer - C. 30 per cent
 
 Answer - D. Maintains the structural, but not the functional integrity of the small bowel
 
-52. Which statement applies to the original Dukes’ classification for colorectal carcinoma?
+52. Which statement applies to the original Dukesb  classification for colorectal carcinoma?
 
 Answer - D. Does not take into account the presence of metastases
 
@@ -397,7 +416,7 @@ Answer - X. ?
 
 Answer - X. ?
 
-67. Which statement regarding Hodgkin’s disease is true?
+67. Which statement regarding Hodgkinb s disease is true?
 
 Answer - X. ?
 
@@ -420,7 +439,7 @@ Answer - X. ?
 
 Answer - X. ?
 
-72. Which is true of Sjogren’s syndrome?
+72. Which is true of Sjogrenb s syndrome?
 Answer - X. ?
 
 73. Which applies to rigid sigmoidoscopy?
@@ -447,7 +466,7 @@ Answer - X. ?
 
 Answer - X. ?
 
-80. Which of the following statements is true of Colles’ fracture?
+80. Which of the following statements is true of Collesb  fracture?
 Answer - X. ?
 
 

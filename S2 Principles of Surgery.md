@@ -36,7 +36,7 @@ For each of the patients described below, select the signle best treatment from 
 9. A 32-year-old man presents complaining of a 'dragging' sensation in the left scrotum. On examination...
 10. A 21-year-old man presents with suddent onset of left testicular pain which came on 2-hours ago. When the doctor...
 
-## 3. Lumps in the Neck
+## Q11-15. Lumps in the Neck
 
     A. Lymph node
     B. Branchial cyst
@@ -56,3 +56,104 @@ For each of the patients described below, select the signle best treatment from 
 14. A 14-year-old girl presents with a 2 cm soft, fluctuant lump on the right side of her neck adjacent to the angle of the mandible. The lump transilluminates and is cystic on ultrasound.
 15. A 45-year-old man complains of an intermittent swelling that is sometimes painful on the left side of his face and upper jaw. He 
     
+## Q16-20: 
+
+## Q21-25: 
+## Q26-29: 
+
+## Q30-34: 
+## Q35-39: 
+
+## Q40-45: 
+## Q46-50: 
+
+## Q51-52: 
+## Q53-54: 
+
+## Q55-56: 
+## Q57-59: 
+
+## Q60-61: 
+## Q62-63: 
+
+## Q64-66: 
+## Q67-68: 
+
+## Q69-70:
+## Q71-72:
+
+## Q73-76:
+## Q77-78:
+
+## Q79-81:
+## Q82-84:
+
+## Q85-86:
+## Q87-90:
+
+## Q91-93:
+## Q94-96:
+
+## Q97-100:
+## Q101-103:
+
+## Q104-108:
+## Q109-111:
+
+## Q112-114:
+## Q115-117:
+
+## Q118-121:
+## Q122-124:
+
+## Q125-127:
+## Q128-130:
+
+## Q130-133:
+## Q134-136:
+
+## Q137-139:
+## Q140-142:
+
+## Q143-145:
+## Q146-148:
+
+## Q149-151:
+## Q152-154:
+
+## Q155-157:
+## Q158-160:
+
+## Q161-163: 
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

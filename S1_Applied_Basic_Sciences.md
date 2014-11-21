@@ -15,6 +15,7 @@ What is the Likely diagnosis?
     B. Injury to posterior cruciate ligament (PCA)
     C. Tear of adductor magnus muscle
     D. Tear of biceps femoris muscle
+    E. Tear of quadriceps tendone
 
 #### Answer: E. Tear of quadriceps tendon - **TRUE**
 
@@ -45,61 +46,139 @@ A 42-yo lady is involved in a road traffic acident (RTA). She presents with disl
 
 Which nerve or muscle is likely to be damaged?
 
-    A. ?
-    B. ?
-    C. ?
-    D. ?
-    E. ?
+    A. Axillary nerve
+    B. Teres major
+    C. Radial nerve
+    D. Long thoracic nerve of Bell
+    E. Beltoid
 
 #### Answer: D. Long thoracic nerve of Bell - **TRUE**
 
-5. Which cells cannot regenerate?
+### Q5
+Which cells cannot regenerate?
 
-Answer - C: Renal tubular cells - TRUE 
+    A. Peripheral nerve cells
+    B. Schwann cells
+    C. Renal tubular cells
+    D. Mucosal cells
+    E. Liver cells
 
-6. Which of the following is a feature of metastatic spread?
+#### Answer: C. Renal tubular cells - **TRUE** 
 
-Answer - D: Prostatic carcinoma commonly spreads via the blood - TRUE
+### Q6
+Which of the following is a feature of metastatic spread?
 
-7. A 35-yo man is knocked off his bicycle and hits his head on the kerb
+    A. Commonly occurs transluminally
+    B. Basal cell carcinomas (BCC) commonly spread via lymphatics
+    C. Osteosarcomas commonly spread via lymphatics
+    D. Prostatic Carcinoma commonly spreads via the blood
+    E. Spread follows the pattern of venous drainage
+
+#### Answer: D. Prostatic carcinoma commonly spreads via the blood - **TRUE**
+
+### Q7: TODO
+A 35-yo man is knocked off his bicycle and hits his head on the kerb
 PC: brought to hospital with a fluctuating score on the Glasgow Coma Scale (GCS)
 Ix: he underwent a CT-Head scan which shows a biconvex-shaped haematoma
 Q: which other finding is he most likely to have?
-Answer - A. Midline shift - FALSE
 
-8. In wound healing, which cells are responsible for wound contraction?
+    A. Midline shift
+    B. Subdural haemorrhage
+    C. Skull fracture
+    D. Subarachnoid haemorrhage
+    E. Papilloedema
 
-Answer - A. Fibroblasts - TRUE
+#### Answer: A. Midline shift - **FALSE**
 
-9. Which is a feature of adenoma?
+### Q8
+In wound healing, which cells are responsible for wound contraction?
 
-Answer - E. Does not contain dysplastic cells - FALSE
+    A. Fibroblasts
+    B. Macrophages
+    C. Reticulocytes
+    D. Giant cells
+    E. Lymphocytes
 
-10. A singer complains of not being able to sing high notes following her thyroidectomy.
-Q. What is the likely cause?
-Answer - C. Damage to the Vagus Nerve - FALSE 
+#### Answer: A. Fibroblasts - **TRUE**
+
+### Q9
+Which is a feature of adenoma?
+
+    A. Typically encapsulated
+    B. Can arise in transitional cells
+    C. Typically invades the basement membrane
+    D. Typically annular lesions
+    E. Does not contain dysplastic cells
+
+#### Answer: E. Does not contain dysplastic cells - **FALSE**
+
+### Q10
+A singer complains of not being able to sing high notes following her thyroidectomy.
+
+What is the likely cause?
+
+    A. Damage to the recurrent laryngeal nerve
+    B. Damage to the external laryngeal nerve
+    C. Damage to the vagus nerve
+    D. Tracheal stenosis
+    E. Vocal cord hemiparalysis
+
+#### Answer: C. Damage to the Vagus Nerve - **FALSE** 
 
 ## Questions 11-20
 
-11. During fracture healing, what type of bone makes up the provisional callus?
+### Q11
+During fracture healing, what type of bone makes up the provisional callus?
 
-Answer - D. Woven bone - TRUE
+    A. Cortical bone
+    B. Cancellous
+    C. Cartilage
+    D. Woven bone
+    E. Lamellar bone
 
-12. Radiotherapy can be the sole treatment for which type of cancers?
+#### Answer: D. Woven bone - **TRUE**
 
-Answer - E. Phylloides breast tumour - FALSE
+### Q12
+Radiotherapy can be the sole treatment for which type of cancers?
 
-13. A woman has a pleomorphic adenoma. She is undergoing a total parathyroidectomy
-Q. Which important vascular structure should the surgeon be most aware of?
-Answer - E. External carotid artery - FALSE
+    A. Adenocarcinoam of the oesophagus
+    B. Rectal carcinoma
+    C. Anal cancer
+    D. Gastric carcinoma
+    E. Phylloides breast tumour
 
-14. What is the cardiac index? - TOTAL GUESS
+#### Answer: E. Phylloides breast tumour - **FALSE**
 
-Answer - C. Cardiac output divided by body weight - FALSE
+### Q13
+A woman has a pleomorphic adenoma. She is undergoing a total parathyroidectomy.
 
-15. A patient is known to have expose to beta-naphthylamine. What is he/she at increased risk of developing?
+Which important vascular structure should the surgeon be most aware of?
 
-Answer - B. Bladder cancer - TRUE 
+    A. Facial artery
+    B. Facial vein
+    C. External carotid artery (ECA)
+    D. Retromandibular vein
+    E. Internal jugular vein (IJV)
+
+#### Answer: E. External carotid artery - **FALSE**
+
+### Q14
+What is the cardiac index? - **TOTAL GUESS**
+
+    A. Stroke Volume (SV) x Heart Rate (HR)
+    B. Mean Arterial Pressure (MAP) x Systemic Vascular Resistance
+    C. Cardiac Output (CO) / Body weight
+    D. Cardiac Output (CO) / Heart rate (HR)
+    E. Cardiac Output (CO) / Body Surface Area
+
+#### Answer: C. Cardiac output divided by body weight - **FALSE**
+
+### Q15
+A patient is known to have expose to beta-naphthylamine. What is he/she at increased risk of developing?
+
+    A. 
+
+#### Answer: B. Bladder cancer - **TRUE**
 
 16. A 70-yo man suffers an ischiaemic stroke and develops a LEFT homonymous hemianopia. Where is the likely infarct?
 

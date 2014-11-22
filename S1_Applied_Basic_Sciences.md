@@ -29,7 +29,6 @@ During strenuous exercise, what else occurs besides tachycardia?
 #### Answer: A. Rise in PaCO2 - **FALSE**
 - ?
 - ?
-- ?
 
 ### Q3
 A patient is found to have thrombophlebitis migrans. What other condition must be considered?
@@ -41,7 +40,6 @@ A patient is found to have thrombophlebitis migrans. What other condition must b
     E. Beckwith-Wiedemann syndrome
 
 #### Answer: E. Beckwith-Wiedeman Syndrome - **FALSE**
-- ?
 - ?
 - ?
 
@@ -57,6 +55,8 @@ Which nerve or muscle is likely to be damaged?
     E. Deltoid
 
 #### Answer: D. Long thoracic nerve of Bell - **TRUE**
+- ?
+- ?
 
 ### Q5
 Which cells cannot regenerate?
@@ -68,6 +68,8 @@ Which cells cannot regenerate?
     E. Liver cells
 
 #### Answer: C. Renal tubular cells - **TRUE** 
+- ?
+- ?
 
 ### Q6
 Which of the following is a feature of metastatic spread?
@@ -79,6 +81,8 @@ Which of the following is a feature of metastatic spread?
     E. Spread follows the pattern of venous drainage
 
 #### Answer: D. Prostatic carcinoma commonly spreads via the blood - **TRUE**
+- ?
+- ?
 
 ### Q7: TODO
 A 35-year-old man is knocked off his bicycle and hits his head on the kerb
@@ -93,6 +97,8 @@ Q: which other finding is he most likely to have?
     E. Papilloedema
 
 #### Answer: A. Midline shift - **FALSE**
+- ?
+- ?
 
 ### Q8
 In wound healing, which cells are responsible for wound contraction?
@@ -104,6 +110,8 @@ In wound healing, which cells are responsible for wound contraction?
     E. Lymphocytes
 
 #### Answer: A. Fibroblasts - **TRUE**
+- ?
+- ?
 
 ### Q9
 Which is a feature of adenoma?
@@ -115,6 +123,8 @@ Which is a feature of adenoma?
     E. Does not contain dysplastic cells
 
 #### Answer: E. Does not contain dysplastic cells - **FALSE**
+- ?
+- ?
 
 ### Q10
 A singer complains of not being able to sing high notes following her thyroidectomy. What is the likely cause?
@@ -126,6 +136,8 @@ A singer complains of not being able to sing high notes following her thyroidect
     E. Vocal cord hemiparalysis
 
 #### Answer: C. Damage to the Vagus Nerve - **FALSE** 
+- ?
+- ?
 
 ## Questions 11-20
 
@@ -139,6 +151,8 @@ During fracture healing, what type of bone makes up the provisional callus?
     E. Lamellar bone
 
 #### Answer: D. Woven bone - **TRUE**
+- ?
+- ?
 
 ### Q12
 Radiotherapy can be the sole treatment for which type of cancers?
@@ -150,6 +164,8 @@ Radiotherapy can be the sole treatment for which type of cancers?
     E. Phylloides breast tumour
 
 #### Answer: E. Phylloides breast tumour - **FALSE**
+- ?
+- ?
 
 ### Q13
 A woman has a pleomorphic adenoma. She is undergoing a total parathyroidectomy. Which important vascular structure should the surgeon be most aware of?
@@ -161,6 +177,8 @@ A woman has a pleomorphic adenoma. She is undergoing a total parathyroidectomy. 
     E. Internal jugular vein (IJV)
 
 #### Answer: E. External carotid artery - **FALSE**
+- ?
+- ?
 
 ### Q14
 What is the cardiac index? - **TOTAL GUESS**
@@ -172,6 +190,8 @@ What is the cardiac index? - **TOTAL GUESS**
     E. Cardiac Output (CO) / Body Surface Area
 
 #### Answer: C. Cardiac output divided by body weight - **FALSE**
+- ?
+- ?
 
 ### Q15
 A patient is known to have expose to beta-naphthylamine. What is he/she at increased risk of developing?
@@ -183,6 +203,8 @@ A patient is known to have expose to beta-naphthylamine. What is he/she at incre
     E. Lymphoma
 
 #### Answer: B. Bladder cancer - **TRUE**
+- ?
+- ?
 
 16. A 70-year-old man suffers an ischiaemic stroke and develops a LEFT homonymous hemianopia. Where is the likely infarct?
 
@@ -193,26 +215,36 @@ A patient is known to have expose to beta-naphthylamine. What is he/she at incre
     E. Left temporal lobe
 
 #### Answer: D. Right occipital lobe - **TRUE**
+- ?
+- ?
 
 ### Q17
 When does the heart rate decrease?
 
 #### Answer: A. After a meal - **FALSE**
+- ?
+- ?
 
 ### Q18
 Which of the following suggest that respiratory failure is chronic rather than acute?
 
 #### Answer: A. Plasma bicarbonate of 39 mmol/L - *TRUE*
+- ?
+- ?
 
 ### Q19
 A 12-yo boy develops acute tonsillitis. He starts to complain of pain in the ear. Which nerve is likely to be involved?
 
 #### Answer: C. Facial - FALSE
+- ?
+- ?
 
 ### Q20
 A man undergoes an open inguinal hernia repair. During the procedure the cord is visualised. What structures does is contain?
 
 #### Answer: E. Pampiniform plexus - TRUE
+- ?
+- ?
 
 ## Questions 21-30
 
@@ -220,6 +252,8 @@ A man undergoes an open inguinal hernia repair. During the procedure the cord is
 When performing a LEFT Nephrectomy from a posterior approach, which if the following structures are encountered before reaching the kidney?
 
 #### Answer - C. Subcostal Nerve
+- ?
+- ?
 
 ### Q22
 When performing a RIGHT hemicolectomy, which of the following structures is encountered during dissection?
@@ -228,303 +262,436 @@ When performing a RIGHT hemicolectomy, which of the following structures is enco
 
 ### Q23
 What structure does the Pancreas overly?
+
 #### Answer: D. LEFT Adrenal Gland
+- ?
+- ?
 
 ### Q24
 What causes a reduction in pulmonary functional residual capacity?
+
 #### Answer: B. Pulmonary Fibrosis
+- ?
+- ?
 
 ### Q25
 Which is a feature of the physiology of Angiotensin II?
+
 #### Answer: E. Released in Hypovolaemia
+- ?
+- ?
 
 ### Q26
 Which displaces the oxygen-haemoglobin curve to the left?
+
 #### Answer: B. Anaemia
+- ?
+- ?
 
 ### Q27
 Which factor decreases coronary perfusion?
+
 #### Answer: C. Alpha stimulation
+- ?
+- ?
 
 ### Q2*
 Resection of the terminal ileum is associated with malabsorption of which of the following substances?
+
 #### Answer - B. Folic Acid
+- ?
+- ?
 
 ### Q29
 Which is a feature of the action of insulin?
+
 #### Answer: D. Promotes calcium release from bone 
+- ?
+- ?
 
 ### Q30
 Which causes prolonged vomiting due to pyloric stenosis?
+
 #### Answer: D. A rise in serum chloride
+- ?
+- ?
 
 ## Questions 31-40
 
-31. Extracellular fluid differs from intra cellular fluid by which of the following?
+### Q31 
+Extracellular fluid differs from intra cellular fluid by which of the following?
 
-Answer - D. Lower protein concentration
+#### Answer: D. Lower protein concentration
+- ?
+- ?
 
-32. Which is a feature of raised intracranial pressure?
+### Q32
+Which is a feature of raised intracranial pressure?
 
-Answer - E. Can lead to a rise on blood pressure (BP) and Bradycardia
+#### Answer: E. Can lead to a rise on blood pressure (BP) and Bradycardia
+- ?
+- ?
 
-33. Which is a feature of metabolic acidosis?
+### Q33
+Which is a feature of metabolic acidosis?
 
-Answer - A. There is negative base excess
+#### Answer: A. There is negative base excess
+- ?
+- ?
 
-34. Which is a feature of the posterior third of the tongue?
+### Q34
+Which is a feature of the posterior third of the tongue?
 
-Answer - E. Villiform papillae
+#### Answer: E. Villiform papillae
+- ?
+- ?
 
-35. Which is a feature of the knee joint?
+### Q35
+Which is a feature of the knee joint?
 
-Answer - A. The popliteus tendon is extracapsular
+#### Answer: A. The popliteus tendon is extracapsular
+- ?
+- ?
 
-36. Which is a feature Of the Hepatic Artery?
+### Q36
+Which is a feature Of the Hepatic Artery?
 
-Answer - E. Divides the Liver into anatomical segments.
+#### Answer: E. Divides the Liver into anatomical segments
+- ?
+- ?
 
-37. Metabolic alkalosis is commonly seen in patients with which of the following?
+### Q37
+Metabolic alkalosis is commonly seen in patients with which of the following?
 
-Answer - C. Protracted vomiting
+#### Answer: C. Protracted vomiting
+- ?
+- ?
 
-38. Osteomyelitis is most commonly caused by which microbe in adults?
+### Q38
+Osteomyelitis is most commonly caused by which microbe in adults?
 
-Answer - C. Staphylococcus epidermidis
+#### Answer: C. Staphylococcus epidermidis
+- ?
+- ?
 
-39. Which is a feature of a keloid scar?
+### Q39 Which is a feature of a keloid scar?
 
-Answer - A. May respond to pressure dressing
+#### Answer: A. May respond to pressure dressing
+- ?
+- ?
 
-40. Splenectomy patients are at particular risk of overwhelming sepsis from which organisms?
+### Q40
+Splenectomy patients are at particular risk of overwhelming sepsis from which organisms?
 
-Answer - C. Haemophila influenzae
+#### Answer: C. Haemophila influenzae
+- ?
+- ?
 
 ## Questions 41-50
 
-41. A boy is found to have haemophila B. What pathological problem does he have?
+### Q41
+A boy is found to have haemophila B. What pathological problem does he have?
 
-Answer - E. Deficiency of Factor XI
+#### Answer: E. Deficiency of Factor XI
+- ?
+- ?
 
-42. A patient is found to have chronic iron deficiency anaemia. What symptom might he also describe?
+### Q42
+A patient is found to have chronic iron deficiency anaemia. What symptom might he also describe?
 
-Answer - D. Dysuria
+#### Answer: D. Dysuria
+- ?
+- ?
 
-43. What features would you expect to find in a patient with haemorrhagic shock?
+### Q43
+What features would you expect to find in a patient with haemorrhagic shock?
 
-Answer - D. Increase in Tidal Ventilation (TD)
+#### Answer: D. Increase in Tidal Ventilation (TD)
+- ?
+- ?
 
-44. Gastrointestinal consequences of major burns include which of the following:
+### Q44
+Gastrointestinal consequences of major burns include which of the following:
 
-Answer - B. Acute gastric dilatation
+#### Answer: B. Acute gastric dilatation
+- ?
+- ?
 
-45. When is nitrogen balance positive?
+### Q45
+When is nitrogen balance positive?
 
-Answer - E. Following bone fractures
+#### Answer: E. Following bone fractures
+- ?
+- ?
 
-46. Hormones of the anterior pituitary include which of the following?
+### Q46
+Hormones of the anterior pituitary include which of the following?
 
-Answer - D. Antidiuretic hormone
+#### Answer: D. Antidiuretic hormone
+- ?
+- ?
 
-47. Which is a features of the scalenus anterior muscle?
+### Q47
+Which is a features of the scalenus anterior muscle?
 
-Answer - D. Has the subclavian artery passing anterior to it.
+#### Answer: D. Has the subclavian artery passing anterior to it.
+- ?
+- ?
 
-48. What is the normal glomerular filtration rate?
+### Q48
+What is the normal glomerular filtration rate?
 
-Answer - C. 100 mL/min
+#### Answer: C. 100 mL/min
+- ?
+- ?
 
-49. Which is the commonest cancer in the UK?
+### Q49
+Which is the commonest cancer in the UK?
 
-Answer - B. Lung Cancer
+#### Answer: B. Lung Cancer
+- ?
+- ?
 
-50. What is the 5-year survival of the pancreas?
+### Q50
+What is the 5-year survival of the pancreas?
 
-Answer - C. 30 per cent
-
+#### Answer: C. 30 per cent
+- ?
+- ?
 
 ## Questions 51-60
 
-51. Regarding enteral tube feeding, which statement is true?
+### Q51
+Regarding enteral tube feeding, which statement is true?
 
-Answer - D. Maintains the structural, but not the functional integrity of the small bowel
+#### Answer D. Maintains the structural, but not the functional integrity of the small bowel
 
-52. Which statement applies to the original Dukesb  classification for colorectal carcinoma?
+### Q52
+Which statement applies to the original Dukesb� classification for colorectal carcinoma?
 
-Answer - D. Does not take into account the presence of metastases
+#### Answer: D. Does not take into account the presence of metastases
 
-53. In acute osteomyelitis of a long bone, which statement applies?
+### Q53
+In acute osteomyelitis of a long bone, which statement applies?
 
-Answer - X. ?
+#### Answer: X. ?
 
-54. In intestinal anastomotic leaks, which statement applies
+### Q54
+In intestinal anastomotic leaks, which statement applies
 
-Answer - X. ?
+#### Answer: X. ?
 
-55. Which of the following chemotherapeutic drugs is an alkylating agent?
+### Q55
+Which of the following chemotherapeutic drugs is an alkylating agent?
 
-Answer - X. ?
+#### Answer: X. ?
 
-56. Which statement applies to metastatic calcification?
+### Q56
+Which statement applies to metastatic calcification?
 
-Answer - X. ?
+#### Answer: X. ?
 
-57. Complications of an above-knee amputation include which of the following?
+### Q57
+Complications of an above-knee amputation include which of the following?
 
-Answer - X. ?
+#### Answer: X. ?
 
-58. Which statement applies to the cephalic vein?
+### Q58
+Which statement applies to the cephalic vein?
 
-Answer - X. ?
+#### Answer: X. ?
 
-59. Thyrotoxicosis is characterised by which of the following?
+### Q59
+Thyrotoxicosis is characterised by which of the following?
 
-Answer - X. ?
+#### Answer: X. ?
 
-60. Which is a product of occlusion of the RIGHT posterior cerebral artery?
+### Q60
+Which is a product of occlusion of the RIGHT posterior cerebral artery?
 
-Answer - X. ?
-
+#### Answer: X. ?
 
 ## Questions 61-70
 
-61. The adductor (sub sartorial) canal contains which of the following?
+### Q61
+The adductor (sub sartorial) canal contains which of the following?
 
-Answer - X. ?
+#### Answer: X. ?
 
-62. Which is a feature of a cervical rib?
+### Q62
+Which is a feature of a cervical rib?
 
-Answer - X. ?
+#### Answer - X. ?
 
-63. Which statement applies to a 5cm abdominal aortic aneurysm?
+### Q63
+Which statement applies to a 5cm abdominal aortic aneurysm?
 
-Answer - X. ?
+#### Answer: X. ?
 
-64. Which statement applies to the hepatic portal vein?
+### Q64
+Which statement applies to the hepatic portal vein?
 
-Answer - X. ?
+#### Answer: X. ?
 
-65. Which statement applies to chronic lower limb ulceration?
+### Q65
+Which statement applies to chronic lower limb ulceration?
 
-Answer - X. ?
+#### Answer: X. ?
 
+### Q66
+Which statement applies to lymph oedema?
 
-66. Which statement applies to lymph oedema?
+#### Answer: X. ?
 
-Answer - X. ?
+### Q67
+Which statement regarding Hodgkinb�s disease is true?
 
-67. Which statement regarding Hodgkinb s disease is true?
+#### Answer: X. ?
 
-Answer - X. ?
+### Q68
+What is supplied by the facial nerve?
 
-68. What is supplied by the facial nerve?
+#### Answer: X. ?
 
-Answer - X. ?
+### Q69
+Which is a feature of the submandibular nerve?
 
-69. Which is a feature of the submandibular nerve?
+#### Answer: X. ?
 
-Answer - X. ?
+### Q70
+Which is a feature of the Eustachian tube in a child?
 
-70. Which is a feature of the Eustachian tube in a child?
-
-Answer - X. ?
-
+#### Answer: X. ?
 
 ## Questions 71-80
 
-71. In intussusception in children, which statement applies?
+### Q71 In intussusception in children, which statement applies?
 
-Answer - X. ?
+#### Answer: X. ?
 
-72. Which is true of Sjogrenb s syndrome?
-Answer - X. ?
+### Q72
+Which is true of Sjogrenb�s syndrome?
+#### Answer: X. ?
 
-73. Which applies to rigid sigmoidoscopy?
+### Q73
+Which applies to rigid sigmoidoscopy?
+#### Answer: X. ?
 
-Answer - X. ?
+### Q74
+Which of the following is associated with hyperparathyroidism?
+#### Answer: X. ?
 
-74. Which of the following is associated with hyperparathyroidism?
-Answer - X. ?
+### Q75
+Which statement applies to the posterior triangle of the neck?
+#### Answer: X. ?
 
-75. Which statement applies to the posterior triangle of the neck?
-Answer - X. ?
+### Q76
+Which statement applies to the tongue?
+#### Answer: X. ?
 
+### Q77
+Which statement is true of postcricoid carcinoma?
+#### Answer: X. ?
 
-76. Which statement applies to the tongue?
-Answer - X. ?
+### Q78
+In a 65-yo woman with a retrosternal goitre, which of the following statements is appropriate?
+#### Answer - X. ?
 
-77. Which statement is true of postcricoid carcinoma?
-Answer - X. ?
+### Q79
+Which of the following statement is true of salivary gland carcinoma?
+#### Answer: X. ?
 
-78. In a 65-yo woman with a retrosternal goitre, which of the following statements is appropriate?
-Answer - X. ?
-
-79. Which of the following statement is true of salivary gland carcinoma?
-
-Answer - X. ?
-
-80. Which of the following statements is true of Collesb  fracture?
-Answer - X. ?
-
+### Q80
+Which of the following statements is true of Collesb� fracture?
+#### Answer: X. ?
 
 ## Questions 81-90
 
-81. When a person lifts his RIGHT leg and stands unaided with only his left on the ground, the iliac crest on the RIGHT side does not descend (NEGATIVE Trendelenburg sign), provided that one of the following applies. Which?
+### Q81
+When a person lifts his RIGHT leg and stands unaided with only his left on the ground, the iliac crest on the RIGHT side does not descend (NEGATIVE Trendelenburg sign), provided that one of the following applies. Which?
 
-Answer - X. ?
+#### Answer: X. ?
 
-82. Which d the following describes laminar flow in a blood vessel?
+### Q82
+Which d the following describes laminar flow in a blood vessel?
 
-Answer - X. ?
+#### Answer: X. ?
 
-83. The clinical features of a lumbar disc pro laps affecting root S1 may include which of the following:
+### Q83
+The clinical features of a lumbar disc pro laps affecting root S1 may include which of the following:
 
-Answer - X. ?
+#### Answer: X. ?
 
-84. Which is true of umbilical hernias in children?
+### Q84
+Which is true of umbilical hernias in children?
 
-Answer - X. ?
+#### Answer: X. ?
 
-85. A patient is suspected of having a haemolytic transfusion reaction. How should the patient best be managed?
+### Q85
+A patient is suspected of having a haemolytic transfusion reaction. How should the patient best be managed?
 
-Answer - X. ?
+#### Answer: X. ?
 
-86. X
-Answer - X. ?
-87. X
-Answer - X. ?
-88. X
-Answer - X. ?
-89. X
-Answer - X. ?
-90. X
-Answer - X. ?
+### Q86
+X
+#### Answer - X. ?
 
+### Q87
+X
+#### Answer: X. ?
+
+### Q88
+X
+#### Answer: X. ?
+
+### Q89
+X
+#### Answer: X. ?
+
+### Q90. 
+X
+#### Answer - X. ?
 
 ## Questions 91-100
 
-91. X
-Answer - X. ?
-92. X
-Answer - X. ?
-93. X
-Answer - X. ?
-94. X
-Answer - X. ?
-95. X
-Answer - X. ?
+### Q91
+X
+#### Answer - X. ?
 
-96. X
-Answer - X. ?
-97. X
-Answer - X. ?
-98. X
-Answer - X. ?
+### Q92
+X
+#### Answer - X. ?
+
+### Q93
+X
+#### Answer - X. ?
+
+### Q94
+X
+#### Answer - X. ?
+
+### Q95 
+X
+#### Answer - X. ?
+
+### Q96
+X
+#### Answer - X. ?
+
+### Q97
+X
+#### Answer - X. ?
+
+### Q98
+X
+#### Answer - X. ?
 
 ### Q99
+X
 #### Answer: X. ?
 
 ### Q100
+X
 #### Answer: X. ?
 
 ## Questions 101-110

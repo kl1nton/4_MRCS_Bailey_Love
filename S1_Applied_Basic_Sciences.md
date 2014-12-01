@@ -862,81 +862,215 @@ A patient is diagnoses as having iron deficiency anaemia. Which of the following
 
 ## Questions 141-150
 
-### Q151
-### Q152
-### Q153
-### Q154
-### Q155
-### Q156
-### Q157
-### Q158
-### Q159
-### Q160
+### Q141
+Which one of the following diuretics acts mainly on the distal convoluted tubule to descrease water reabsorption?
+#### Answer: X. ?
+
+### Q142
+With regard to diaphramatic development:
+#### Answer: X. ?
+
+### Q143
+With regard to cerebrospinal fluid (CSF) composition:
+#### Answer: X. ?
+
+### Q144
+With regard to IgM antibodies
+#### Answer: X. ?
+
+### Q145
+Epinephrine is an endogenous catecholamine. Its effects include which one of the following?
+#### Answer: X. ?
+
+### Q146
+Whcih antibody acts by inhibiting protein synthesis?
+#### Answer: X. ?
+
+### Q147
+With regard to craniofacial development:
+#### Answer: X. ?
+
+### Q148
+The speed of nerve conduction decreases with:
+#### Answer: X. ?
+
+### Q149
+The human major histocompatibility complex (MHC):
+#### Answer: X. ?
+
+### Q150
+Which one of the following statements regarding von Willebrand's disease is true?
+#### Answer: X. ?
 
 ## Questions 151-160
 
-### Q161
-### Q162
-### Q163
-### Q164
-### Q165
-### Q166
-### Q167
-### Q168
-### Q169
-### Q170
+### Q151
+Which one of the following lipid-lowering agents acts by inhibiting HMG CoA reductase?
+#### Answer: X. ?
+
+### Q152
+Which regard to intestinal development:
+#### Answer: X. ?
+
+### Q153
+With regard to skeletal muscle fibres:
+#### Answer: X. ?
+
+### Q154
+With regard to the major histocompatibility complex (MHC):
+#### Answer: X. ?
+
+### Q155
+In acute inflammation, which is the predominant cell type involved?
+#### Answer: X. ?
+
+### Q156
+With anti-arrhythmic drug acts by inhibiting potassium channels?
+#### Answer: X. ?
+
+### Q157
+With regard to the branchial arches:
+#### Answer: X. ?
+
+### Q158
+With regard to nerve fibres:
+#### Answer: X. ?
+
+### Q159
+The classic pathway of complement activiation: 
+#### Answer: X. ?
+
+### Q160
+The plateau stage of cardiac action potential is causes by which one of the following mechanisms?
+#### Answer: X. ?
 
 ## Questions 161-170
 
 ### Q161
+#### Answer: X. ?
+
 ### Q162
+#### Answer: X. ?
+
 ### Q163
+#### Answer: X. ?
+
 ### Q164
+#### Answer: X. ?
+
 ### Q165
+#### Answer: X. ?
+
 ### Q166
+#### Answer: X. ?
+
 ### Q167
+#### Answer: X. ?
+
 ### Q168
+#### Answer: X. ?
+
 ### Q169
+#### Answer: X. ?
+
 ### Q170
+#### Answer: X. ?
 
 ## Questions 171-180
 
 ### Q171
+#### Answer: X. ?
+
 ### Q172
+#### Answer: X. ?
+
 ### Q173
+#### Answer: X. ?
+
 ### Q174
+#### Answer: X. ?
+
 ### Q175
+#### Answer: X. ?
+
 ### Q176
+#### Answer: X. ?
+
 ### Q177
+#### Answer: X. ?
+
 ### Q178
+#### Answer: X. ?
+
 ### Q179
+#### Answer: X. ?
+
 ### Q180
+#### Answer: X. ?
 
 ## Questions 181-190
 
 ### Q181
+#### Answer: X. ?
+
 ### Q182
+#### Answer: X. ?
+
 ### Q183
+#### Answer: X. ?
+
 ### Q184
+#### Answer: X. ?
+
 ### Q185
+#### Answer: X. ?
+
 ### Q186
+#### Answer: X. ?
+
 ### Q187
+#### Answer: X. ?
+
 ### Q188
+#### Answer: X. ?
+
 ### Q189
+#### Answer: X. ?
+
 ### Q190
+#### Answer: X. ?
 
 ## Questions 191-200
 
 ### Q191
+#### Answer: X. ?
+
 ### Q192
+#### Answer: X. ?
+
 ### Q193
+#### Answer: X. ?
+
 ### Q194
+#### Answer: X. ?
+
 ### Q195
+#### Answer: X. ?
+
 ### Q196
+#### Answer: X. ?
+
 ### Q197
+#### Answer: X. ?
+
 ### Q198
+#### Answer: X. ?
+
 ### Q199
+#### Answer: X. ?
+
 ### Q200
+#### Answer: X. ?
 
 ## Questions 201-210
 

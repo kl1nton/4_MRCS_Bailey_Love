@@ -947,65 +947,85 @@ The plateau stage of cardiac action potential is causes by which one of the foll
 ## Questions 161-170
 
 ### Q161
+Which of the following anti-Parkinsonian drugs is a COMT (catechol-O-methyltransferase) inhibitor?
 #### Answer: X. ?
 
 ### Q162
+With regard to development of the nervous system?
 #### Answer: X. ?
 
 ### Q163
+With regard to smooth (visceral) muscle:
 #### Answer: X. ?
 
 ### Q164
+A young man has a skull fracture involving the posterior cranial fossa. The fracture is most likely to have injured:
 #### Answer: X. ?
 
 ### Q165
+The incubation period for hepatitis A is:
 #### Answer: X. ?
 
 ### Q166
+In the treatment of asthma, the drug salbutamol principally acts by which of the followinf mechanisms?
 #### Answer: X. ?
 
 ### Q167
+A Meckel's diverticulum:
 #### Answer: X. ?
 
 ### Q168
+With regards to the structure of cardiac muscle:
 #### Answer: X. ?
 
 ### Q169
+With regard to the acute-phase response:
 #### Answer: X. ?
 
 ### Q170
+Which one of the following areas of central nervous system contains structures that are considered to be the phylogenically oldest parts of the brain:
 #### Answer: X. ?
 
 ## Questions 171-180
 
 ### Q171
+With regard to organelles:
 #### Answer: X. ?
 
 ### Q172
+Which one of the following cranial nerves carries parasympathetic fibres?
 #### Answer: X. ?
 
 ### Q173
+With regard to properties of cardiac muscle:
 #### Answer: X. ?
 
 ### Q174
+With regard to fever:
 #### Answer: X. ?
 
 ### Q175
+A patient presents with a torn medial collateral ligament (MCL) of his left knee. Which of the following signs may be elicited on physical examination?
 #### Answer: X. ?
 
 ### Q176
+Which of the following is a technique used to identify specific sequences of DNA?
 #### Answer: X. ?
 
 ### Q177
+Which one of the following is true concerning the larynx?
 #### Answer: X. ?
 
 ### Q178
+With regard to chemical neurotransmitters:
 #### Answer: X. ?
 
 ### Q179
+Which of the following is _not_ an immunologically privileged site?
 #### Answer: X. ?
 
 ### Q180
+Pathogenic bacteria enter the body by various routes, and entry mechanisms are critical for understanding the pathogenesis and tranmission of the each agent. Which pathogen is correctly linked with its mode of entry?
 #### Answer: X. ?
 
 ## Questions 181-190

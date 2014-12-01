@@ -1031,65 +1031,85 @@ Pathogenic bacteria enter the body by various routes, and entry mechanisms are c
 ## Questions 181-190
 
 ### Q181
+With regard to gene expression:
 #### Answer: X. ?
 
 ### Q182
+Concerning the thyroid gland, whihc one of the following is correct?
 #### Answer: X. ?
 
 ### Q183
+Opioids:
 #### Answer: X. ?
 
 ### Q184
+Type I hypersensitivity:
 #### Answer: X. ?
 
 ### Q185
+Which one of the following statements concernign referred pain is true?
 #### Answer: X. ?
 
 ### Q186
+With regard to cell division:
 #### Answer: X. ?
 
 ### Q187
+With regard to the tongue:
 #### Answer: X. ?
 
 ### Q188
+With regard to the relationship of the electrocardiogram to the cardiac cycle:
 #### Answer: X. ?
 
 ### Q189
+Type III hypersensitivity:
 #### Answer: X. ?
 
 ### Q190
+Which one of the following proteins binds to penicillin?
 #### Answer: X. ?
 
 ## Questions 191-200
 
 ### Q191
+With regards to DNA:
 #### Answer: X. ?
 
 ### Q192
+With regard to parathyroid glands:
 #### Answer: X. ?
 
 ### Q193
+A woman has warts caused by human papilloma virus (HPV). the infectious HPV is most likely to be found:
 #### Answer: X. ?
 
 ### Q194
+Hyperacute rejection:
 #### Answer: X. ?
 
 ### Q195
+A total of 100 hypertensive patients are followed over a 4-week period for the effects of a diuretic drug on potassium concentrations. The statistical test used to compare the potassium serum levels before and after mediciation is most likely to be:
 #### Answer: X. ?
 
 ### Q196
+Genre transcription is initiated by:
 #### Answer: X. ?
 
 ### Q197
+With regards to extra-ocular muscles:
 #### Answer: X. ?
 
 ### Q198
+Which of the following substances is a vasodilator:
 #### Answer: X. ?
 
 ### Q199
+Autoimmune diseases:
 #### Answer: X. ?
 
 ### Q200
+Hodgkin's lymphoma can be distinguished from other forms of lymphoma by the presence of:
 #### Answer: X. ?
 
 ## Questions 201-210

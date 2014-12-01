@@ -1753,161 +1753,211 @@ A research assistant is studying the production of an anthrax vaccine. He must d
 ## Questions 351-360
 
 ### Q351
+With regard to the greater omentum:
 #### Answer: X. ?
 
 ### Q352
+With regard to the endocrine pancreas:
 #### Answer: X. ?
 
 ### Q353
+Apoptosis:
 #### Answer: X. ?
 
 ### Q354
+The virus responsible for causing acquired immunodeficiency syndrome (AIDS) has which one of the following features:
 #### Answer: X. ?
 
 ### Q355
+With regard to the ureters:
 #### Answer: X. ?
 
 ### Q356
+Which one of the following is true of bile?
 #### Answer: X. ?
 
 ### Q357
+With regard to acute inflammation:
 #### Answer: X. ?
 
 ### Q358
+A man is bleeding from the carotid artery. In order to temporary control he bleeding, the surgeon should compress the artery against the anterior tubercle of which of the following?
 #### Answer: X. ?
 
 ### Q359
+With regard to the spermatic cord:
 #### Answer: X. ?
 
 ### Q360
+With regard to intenstinal absorption:
 #### Answer: X. ?
 
 ## Questions 361-370
 
 ### Q361
+The following are possible outcomes of acute inflammation, _except_:
 #### Answer: X. ?
 
 ### Q362
+A man falls on an outstretched hand. X-rays indicate an anterior dislocation of one of the carpal bones. Which carpal bone is most commonly dislocated?
 #### Answer: X. ?
 
 ### Q363
+With regard to the testis?
 #### Answer: X. ?
 
 ### Q364
+In the setting of starvation:
 #### Answer: X. ?
 
 ### Q365
+With regard to chronic inflammation:
 #### Answer: X. ?
 
 ### Q366
+Under normal conditions virtually 100 per cent of filtered load of glucose is reabsorbed by the kidney tubules. Which part of the nephron shown in Figure 1 is expected to have the highest reabsorption of glucose?
 #### Answer: X. ?
 
 ### Q367
+With regard to the ovary?
 #### Answer: X. ?
 
 ### Q368
+Which one of the following hormones is secreted by the anterior pituitary?
 #### Answer: X. ?
 
 ### Q369
+Which of the following inflammatory processes often involves granulomas?
 #### Answer: X. ?
 
 ### Q370
+An intravenous drug user presents with pyrexia and haematuria. Clinical examination demonstrates splenomegaly and splinter haemorrhages. Of which of the following heart valves would vegetations be expected?
 #### Answer: X. ?
 
 ## Questions 371-380
 
 ### Q371
+With regard to the rectum:
 #### Answer: X. ?
 
 ### Q372
+Which one of the these statements regarding type 2 diabetes mellitus is true?
 #### Answer: X. ?
 
 ### Q373
+With regard to wound healing
 #### Answer: X. ?
 
 ### Q374
+A 62-year-old industrial chemist presents with painless haematuria, urinary frequency and urgency. he is diagnosed with bladder cancer. Which is the most likely type?
 #### Answer: X. ?
 
 ### Q375
+With regard to the uterus:
 #### Answer: X. ?
 
 ### Q376
+In diabetes mellitus (DM):
 #### Answer: X. ?
 
 ### Q377
+Which one of the following tissues is likely to regenerate following damage?
 #### Answer: X. ?
 
 ### Q378
+Deficiencies of which of the following factors usually predispose to thrombosis rather than bleeding?
 #### Answer: X. ?
 
 ### Q379
+With regard to the blood supply of the stomach:
 #### Answer: X. ?
 
 ### Q380
+Which one of these statements regarding insulin is true?
 #### Answer: X. ?
 
 ## Questions 381-390
 
 ### Q381
+With regard to necrosis:
 #### Answer: X. ?
 
 ### Q382
+A Swan-Ganz catheeter is inserted into a patient with acute respiratory distress syndrome (ARDS). His pulmonary artery pressure is 6 mmHg. The same pressure would be expected in which of the following structures?
 #### Answer: X. ?
 
 ### Q383
+With regard to the femoral triangle, which of the following is correct?
 #### Answer: X. ?
 
 ### Q384
+With regard to the hypothalamo-pituitary axis:
 #### Answer: X. ?
 
 ### Q385
+Which one fo the following is the best definition of grangrene?
 #### Answer: X. ?
 
 ### Q386
+A woman has episodic abdominal pain wich is worse after fatty meals. Which hormone is responsible for her post-prandial worsening of symptoms?
 #### Answer: X. ?
 
 ### Q387
+With regard to the shoulder (glenohumeral) joint:
 #### Answer: X. ?
 
 ### Q388
+Which ine of the following is true of cortisol?
 #### Answer: X. ?
 
 ### Q389
+Which one of the following increases the risk of thrombosis?
 #### Answer: X. ?
 
 ### Q390
+When inserting a subclavian central line,m the first bony landmark that can be palpated below the inferior margin of the medial portion of the clavicle is:
 #### Answer: X. ?
 
 ## Questions 391-400
 
 ### Q391
+With regard to the hip joint, which of the following is true?
 #### Answer: X. ?
 
 ### Q392
+With regard to calcium homeostasis?
 #### Answer: X. ?
 
 ### Q393
+With regard to an embolus:
 #### Answer: X. ?
 
 ### Q394
+Which of the following veins emplites into the left renal vein?
 #### Answer: X. ?
 
 ### Q395
+With regard to the anatomical snuffbox:
 #### Answer: X. ?
 
 ### Q396
+With regard to thyroxine:
 #### Answer: X. ?
 
 ### Q397
+Ischaemia:
 #### Answer: X. ?
 
 ### Q398
+The Brunner glands secrete an alkaline produce that helps maintain an optimal pH for pancreatic enzyme activity. Where are these glands located?
 #### Answer: X. ?
 
 ### Q399
+With regard to the knee joint:
 #### Answer: X. ?
 
 ### Q400
+During diabetci keotacidosis:
 #### Answer: X. ?
 
 ## Questions 401-410

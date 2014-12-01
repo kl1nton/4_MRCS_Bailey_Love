@@ -779,28 +779,86 @@ Which one of the following gastrointestinal fluids is richest in potassium?
 ## Questions 121-130
 
 ### Q121
+Which one of the followin is the most potent inhibitor of gastric acid secretion?
+#### Answer: X. ?
+
 ### Q122
+The following changes occur at birth:
+#### Answer: X. ?
+
 ### Q123
+Which regard to phototransduction:
+#### Answer: X. ?
+
 ### Q124
+Which of the followin is a feature of the adaptive (acquired) immune response?
+#### Answer: X. ?
+
 ### Q125
+Which regard to the thyroid gland, which of the following is true?
+#### Answer: X. ?
+
 ### Q126
+Which one of the followin is a depolarizing neuromuscular blocker?
+#### Answer: X. ?
+
 ### Q127
+With regard to genital development:
+#### Answer: X. ?
+
 ### Q128
+With regard to visual field pathways:
+#### Answer: X. ?
+
 ### Q129
+With regard to neutrophils (polymorphonuclear (PMN) leucocytes):
+#### Answer: X. ?
+
 ### Q130
+Which one of the followin regarding myoglobin in skeletal muscle is correct?
+#### Answer: X. ?
 
 ## Questions 131-140
 
 ### Q131
+The following are classes of anti-hypertensive agents, _except_:
+#### Answer: X. ?
+
 ### Q132
+With regard to development of the limbs:
+#### Answer: X. ?
+
 ### Q133
+With regard to the organisation of the cerebral cortex:
+#### Answer: X. ?
+
 ### Q134
+The germinal centre of a lymph node:
+#### Answer: X. ?
+
 ### Q135
+All eukarotic cells have membrane-bound organelles. Which one of the following organelles is self-replicating?
+#### Answer: X. ?
+
 ### Q136
+With regard to antidiabetic agents, which drugs stimulates release of insulin from the pancreas?
+#### Answer: X. ?
+
 ### Q137
+With regard to development of the kidney?
+#### Answer: X. ?
+
 ### Q138
+With regard to cerebrospinal fluid (CSF):
+#### Answer: X. ?
+
 ### Q139
+With regards to antibodies (immunoglobulins):
+#### Answer: X. ?
+
 ### Q140
+A patient is diagnoses as having iron deficiency anaemia. Which of the following is the peripheral blood film likely to show?
+#### Answer: X. ?
 
 ## Questions 141-150
 

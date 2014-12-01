@@ -1535,161 +1535,219 @@ A 73-year-old man works in a plastics factory and is exposed to vinyl chloride. 
 ## Questions 301-310
 
 ### Q301
+In a certain trial, the mean +/- standard error is 0.5 +/- 0.2, with a p-value under 0.005. This emplies that:
 #### Answer: X. ?
 
 ### Q302
+With regard to the inguinal canal:
 #### Answer: X. ?
 
 ### Q303
+With regard to the juxtaglomerular apparatus:
 #### Answer: X. ?
 
 ### Q304
+Which of the following malignant neoplasms rarely metastasizes to distant sites:
 #### Answer: X. ?
 
 ### Q305
+A 56-year-old man presents with a productive cough and weight-loss. Chest X-ray demonstrates a large hilar mass. Sputum cytology shows oval cells with hyperchromatism, paucity of cytoplasm and inconspicuous nuclei. These malignanyc cells are most likely associated with:
 #### Answer: X. ?
 
 ### Q306
+The following table shows the results for a screening test for pancreatic cancer in 100 people:
+
+--------------|------------------|-----------------
+              | Disease Positive | Disease Negative
+--------------|------------------|-----------------
+Test Positive |                4 |                5
+Test Negative |                1 |               90
+
+Which of the following is true
 #### Answer: X. ?
 
 ### Q307
+With regard to the epiploic foramen (or Winslow), which of the following is true?
 #### Answer: X. ?
 
 ### Q308
+With regard to antidiuretic hormone (arginine vasopressin):
 #### Answer: X. ?
 
 ### Q309
+Sarcomas:
 #### Answer: X. ?
 
 ### Q310
+One sensitive indicator of heavy alcohol dependence is:
 #### Answer: X. ?
 
 ## Questions 311-320
 
 ### Q311
+Which of the following are features of the small bowel?
 #### Answer: X. ?
 
 ### Q312
+With regard to acid-base balance:
 #### Answer: X. ?
 
 ### Q313
+Which is true of tumour kinetics?
 #### Answer: X. ?
 
 ### Q314
+The activity of what structure in the pons is suppressed by opiates, clonidine and GABA, and produces the most noradrenergic input to the brain?
 #### Answer: X. ?
 
 ### Q315
+With regard to the gall bladder:
 #### Answer: X. ?
 
 ### Q316
+With regard to renal blood flow:
 #### Answer: X. ?
 
 ### Q317
+With regard to angiogenesis:
 #### Answer: X. ?
 
 ### Q318
+Serum electrolytes reveal sodium 150 mEq/L and potassium 5.2 mEq/L. The most likely diagnosis is:
 #### Answer: X. ?
 
 ### Q319
+With regard to gall bladder disease:
 #### Answer: X. ?
 
 ### Q320
+With regard to glomerular filtration:
 #### Answer: X. ?
 
 ## Questions 321-330
 
 ### Q321
+An increased frequency of tumours causes by occupational carcinogen exposure has been proven in the following groups, _except_:
 #### Answer: X. ?
 
 ### Q322
+Which of the following decreases insulin resistance:
 #### Answer: X. ?
 
 ### Q323
+With regard to the liver:
 #### Answer: X. ?
 
 ### Q324
+With rehard to tubular function:
 #### Answer: X. ?
 
 ### Q325
+For which one of the following tumours is there an association with Epstein-Barr virus (EBV) infection?
 #### Answer: X. ?
 
 ### Q326
+Which of the following is the most common thyroid neoplasm in the UK?
 #### Answer: X. ?
 
 ### Q327
+With regard to portosystemic anastomoses:
 #### Answer: X. ?
 
 ### Q328
+With regard to saliva:
 #### Answer: X. ?
 
 ### Q329
+With regard to oncogenes:
 #### Answer: X. ?
 
 ### Q330
+The neurotransmitter released from the cerebellar Pukinke cells is:
 #### Answer: X. ?
 
 ## Questions 331-340
 
 ### Q331
+With regard to the spleen:
 #### Answer: X. ?
 
 ### Q332
+With of the follow cells secretes intrinsic factor?
 #### Answer: X. ?
 
 ### Q333
+With regard to tumour suppressor genes:
 #### Answer: X. ?
 
 ### Q334
+Which one of the following muscles is innervated by the facial nerve?
 #### Answer: X. ?
 
 ### Q335
+With regard to the transpyloric plane (of Addison):
 #### Answer: X. ?
 
 ### Q336
+With regard to gastric acid secretion:
 #### Answer: X. ?
 
 ### Q337
+Retinoblastoma:
 #### Answer: X. ?
 
 ### Q338
+From which branchial (pharyngeal) pouch does the inferior parathyroid gland arise?
 #### Answer: X. ?
 
 ### Q339
+With regard to the adrenal gland (suprarenal gland):
 #### Answer: X. ?
 
 ### Q340
+Which one of the following is true of gastrin?
 #### Answer: X. ?
 
 ## Questions 341-350
 
 ### Q341
+Lung carcinoma:
 #### Answer: X. ?
 
 ### Q342
+Prokaryotes differ from eukaryotes in that prokaryotes have:
 #### Answer: X. ?
 
 ### Q343
+With regard to the veriform appendix:
 #### Answer: X. ?
 
 ### Q344
+With regard to the exocrine pancreas:
 #### Answer: X. ?
 
 ### Q345
+Which one of the following is the commonest intracerebral neoplasm:
 #### Answer: X. ?
 
 ### Q346
+A 67-year-old male undergoes an eleective right colectomy for adenocarcinoma of the caecum. If distant non-nodal metastases are discovered, which organ would be affected first?
 #### Answer: X. ?
 
 ### Q347
+With regard to acute appendicitis:
 #### Answer: X. ?
 
 ### Q348
+Which one of the following is true of pancreatic enzymes:
 #### Answer: X. ?
 
 ### Q349
+Which one of the following is the commonest malignant tumour of bone?
 #### Answer: X. ?
 
 ### Q350
+A research assistant is studying the production of an anthrax vaccine. He must destroy all vegetative cells and spores of Bacillus anthracis that have contaminated the pipette. What agent should he use?
 #### Answer: X. ?
 
 ## Questions 351-360

@@ -1957,71 +1957,92 @@ With regard to the knee joint:
 #### Answer: X. ?
 
 ### Q400
-During diabetci keotacidosis:
+During diabetic keotacidosis:
 #### Answer: X. ?
 
 ## Questions 401-410
 
 ### Q401
+With regard to acute myocardial infarction:
 #### Answer: X. ?
 
 ### Q402
+A woman sprains her ankle while running down a flight of stairs. Which ligament did she most likely injure?
 #### Answer: X. ?
 
 ### Q403
+With regard to the brachial plexus?
 #### Answer: X. ?
 
 ### Q404
+With regard to adrenal gland disorders:
 #### Answer: X. ?
 
 ### Q405
+Atherosclerosis:
 #### Answer: X. ?
 
 ### Q406
+What structure is involvd in tarsal tunnel syndrome with heel pain?
 #### Answer: X. ?
 
 ### Q407
+With regard to the brachial plexus:
 #### Answer: X. ?
 
 ### Q408
+Which one of the following is true of testosterone?
 #### Answer: X. ?
 
 ### Q409
+Which of the following regarding local anaesthetics is true?
 #### Answer: X. ?
 
 ### Q410
+A surgeon's finger is placed in the epiploic Foramen of Winslow. The superior margin is:
 #### Answer: X. ?
 
 ## Questions 411-420
 
 ### Q411
+With regard to the carpal tunnel:
 #### Answer: X. ?
 
 ### Q412
+With regard to the female reproductive system:
 #### Answer: X. ?
 
 ### Q413
+Aspirin (acetylsalicyclic acid):
 #### Answer: X. ?
 
 ### Q414
+Cancer of the testis most likely metastases to which set of lymph nodes?
 #### Answer: X. ?
 
 ### Q415
+With regard to the arterial supply of the lower limb:
 #### Answer: X. ?
 
 ### Q416
+With regard to thermoregulation:
 #### Answer: X. ?
 
 ### Q417
+Aspirin damages the gastric mucosa through which of the following mechanisms?
 #### Answer: X. ?
 
 ### Q418
+Internal haemorrhoids are painless and only sensitive to stretch. They are formed from folds of the mucous membrane and the submucosa of the anal canal which contain varicose branches of the:
 #### Answer: X. ?
 
 ### Q419
+With regard to the superficial veins of the extremities:
+
 #### Answer: X. ?
 
 ### Q420
+With regard to antiemetics:
 #### Answer: X. ?
 
 ## Questions 421-423

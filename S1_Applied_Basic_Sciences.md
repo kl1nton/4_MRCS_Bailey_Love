@@ -1325,161 +1325,211 @@ Nitric oxide (NO) results in induction of vascular smooth muscle relaxation in r
 ## Questions 251-260
 
 ### Q251
+With regard to ABO blood grouping:
 #### Answer: X. ?
 
 ### Q252
+With regard to the intercostal spaces:
 #### Answer: X. ?
 
 ### Q253
+With regard to chemoreceptors:
 #### Answer: X. ?
 
 ### Q254
+With regard to malaria:
 #### Answer: X. ?
 
 ### Q255
+The neurotransmitters adrenaline, noradrenaline and dopamine are derived from which amino acid?
 #### Answer: X. ?
 
 ### Q256
+Adult polycystic kidney disease:
 #### Answer: X. ?
 
 ### Q257
+With regard to the oesophagus:
 #### Answer: X. ?
 
 ### Q258
+With regard to carbon dioxide transport:
 #### Answer: X. ?
 
 ### Q259
+With regard to the malaria life cycle:
 #### Answer: X. ?
 
 ### Q260
+A 42-year-old woman has a genetic defect and cannot produce J-chains that are important in the structure of immunoglobulins. Most likely she will have:
 #### Answer: X. ?
 
 ## Questions 261-270
 
 ### Q261
+The decline in incidence of serious infections during the nineteenth and twentieth centuries is mainly due to:
 #### Answer: X. ?
 
 ### Q262
+With regard to oesophageal constrictions:
 #### Answer: X. ?
 
 ### Q263
+Which one of the following is true of the haemoglobin/oxygen dissociation curve?
 #### Answer: X. ?
 
 ### Q264
+With regard to schistosomiasis:
 #### Answer: X. ?
 
 ### Q265
+An 83-year-old man has chest pain, breathlessness and ankle oedema. On clinical examination, cardiomegaly is identified and a subsequent diagnosis of viral myocarditis is made. Which of the following micro-organisms is most likely responsible for this illness:
 #### Answer: X. ?
 
 ### Q266
+Which one fo the following changes in diease patterns have occurred in Europe and North America over the past 50 years?
 #### Answer: X. ?
 
 ### Q267
+With regard to the diaphragm:
 #### Answer: X. ?
 
 ### Q268
+At high altitude when the atmospheric pressure is halved, which one of the following changes occurs?
 #### Answer: X. ?
 
 ### Q269
+Prions:
 #### Answer: X. ?
 
 ### Q270
+Which of the following is the best neutrophil and macrophage chemotactant?
 #### Answer: X. ?
 
 ## Questions 271-280
 
 ### Q271
+The most common cause of death from cancer in women is currently:
 #### Answer: X. ?
 
 ### Q272
+With regard to diaphragmatic openings:
 #### Answer: X. ?
 
 ### Q273
+With regard to gas exchange:
 #### Answer: X. ?
 
 ### Q274
+Which of the following definitions is correct?
 #### Answer: X. ?
 
 ### Q275
+A 92-year-old man has died secondary to lobar pneumonia. At post-mortem he is diagnosed with red hepatization. What pathological process within the lung was responsible?
 #### Answer: X. ?
 
 ### Q276
+Which one of the following dieases is water-borne?
 #### Answer: X. ?
 
 ### Q277
+With regard to the thoracic duct:
 #### Answer: X. ?
 
 ### Q278
+With regard to the mechanics of respiration:
 #### Answer: X. ?
 
 ### Q279
+Which one of the following statements is true?
 #### Answer: X. ?
 
 ### Q280
+Budd-Chiari syndrome is:
 #### Answer: X. ?
 
 ## Questions 281-290
 
 ### Q281
+Which one of the following is true concernign retrospective and prospective studies?
 #### Answer: X. ?
 
 ### Q282
+With regard to the lungs:
 #### Answer: X. ?
 
 ### Q283
+Which one of the following is true of haemoglobin?
 #### Answer: X. ?
 
 ### Q284
+With regard to metaplasia:
 #### Answer: X. ?
 
 ### Q285
+A 52-year-old man presents with episodic hypertension, an adrenal mass and elevated catacholamines. The most likely diagnosis is:
 #### Answer: X. ?
 
 ### Q286
+Which one of the following studies is regarded as the gold standard in epidemiological research?
 #### Answer: X. ?
 
 ### Q287
+With regard to the pleura:
 #### Answer: X. ?
 
 ### Q288
+Which one of the following is true of erythropoietin?
 #### Answer: X. ?
 
 ### Q289
+Which of the following is a defining characterisitc of a malignant tumour?
 #### Answer: X. ?
 
 ### Q290
+Following a lethal overdose of paracetamol, the post-mortem will demonstrate:
 #### Answer: X. ?
 
 ## Questions 291-300
 
 ### Q291
+You are involved in running a diabetes screening service. Two thousand people aged between 60 and 75 are screened. Both the mean and median random glucose measurement is 9.5 and the standard deviation is 1.4. Which statement is correct?
 #### Answer: X. ?
 
 ### Q292
+With regard to the pericardium:
 #### Answer: X. ?
 
 ### Q293
+Which one of the following is true of aldosterone?
 #### Answer: X. ?
 
 ### Q294
+Which of the following are cytological features of malignancy?
 #### Answer: X. ?
 
 ### Q295
+A 63-year-old male has a progressive history of congestive cardiac failure. At post-mortm, the heart demonstrates extensive replacement of the myocardium by an acellular, eosinophillic material. This material is most likely to be:
 #### Answer: X. ?
 
 ### Q296
+Which one of the following statements is true?
 #### Answer: X. ?
 
 ### Q297
+Whcih of the following regarding the coronary arteries is correct:
 #### Answer: X. ?
 
 ### Q298
+With regard to the the renin-angiontensin system:
 #### Answer: X. ?
 
 ### Q299
+Carcinomas most often metastasize by which of the following routes?
 #### Answer: X. ?
 
 ### Q300
+A 73-year-old man works in a plastics factory and is exposed to vinyl chloride. This industrial exposure has increased his likelihood of developing:
 #### Answer: X. ?
 
 ## Questions 301-310

@@ -564,12 +564,13 @@ Which is a feature of the Eustachian tube in a child?
 
 ## Questions 71-80
 
-### Q71 In intussusception in children, which statement applies?
+### Q71 
+In intussusception in children, which statement applies?
 
 #### Answer: X. ?
 
 ### Q72
-Which is true of Sjogrenb�s syndrome?
+Which is true of Sjogren's syndrome?
 #### Answer: X. ?
 
 ### Q73
@@ -608,7 +609,6 @@ Which of the following statements is true of Collesb� fracture?
 
 ### Q81
 When a person lifts his RIGHT leg and stands unaided with only his left on the ground, the iliac crest on the RIGHT side does not descend (NEGATIVE Trendelenburg sign), provided that one of the following applies. Which?
-
 #### Answer: X. ?
 
 ### Q82
@@ -628,72 +628,72 @@ Which is true of umbilical hernias in children?
 
 ### Q85
 A patient is suspected of having a haemolytic transfusion reaction. How should the patient best be managed?
-
 #### Answer: X. ?
 
 ### Q86
-X
+Which of the following statements concerning access to the abdomen is true?
 #### Answer - X. ?
 
 ### Q87
-X
+Which of the following is true of pseudomembranous colitis?
 #### Answer: X. ?
 
 ### Q88
-X
+the diagnosis of acute cholecystitis can be reliably confirmed by which of the following?
 #### Answer: X. ?
 
 ### Q89
-X
+According to the modified Glasgow scoring system, indices of poor prognosis in severe pancreatitis at 48 hours include whioch of the following?
 #### Answer: X. ?
 
-### Q90. 
-X
+### Q90
+Which statement is true of the rectum?
 #### Answer - X. ?
 
 ## Questions 91-100
 
 ### Q91
-X
+What is a characteristic feature of the liver?
 #### Answer - X. ?
 
 ### Q92
-X
+Which statement regarding choledochal cysts is true?
 #### Answer - X. ?
 
 ### Q93
-X
+Which of the following is true of _talipes equinovarus_?
 #### Answer - X. ?
 
 ### Q94
-X
+Concerning bone tumours, which is true?
 #### Answer - X. ?
 
 ### Q95 
-X
+The posterior relations of the kidney include which structure?
 #### Answer - X. ?
 
 ### Q96
-X
+Which statement is true of Meckel's diverticulum?
 #### Answer - X. ?
 
 ### Q97
-X
+Which of the following is a recognised curative treatment option for localised carcinoma of the prostate?
 #### Answer - X. ?
 
 ### Q98
-X
+Which of the following statement is true for a patient who has been maintained on haemodialysis for 10 years?
 #### Answer - X. ?
 
 ### Q99
-X
+In relation to breast carcinoma, which statement is true?
 #### Answer: X. ?
 
 ### Q100
-X
+Concerning statistical analysis of a population with a normal (Gaussian) distribution, which is true?
 #### Answer: X. ?
 
 ## Questions 101-110
+
 ## Questions 111-120
 ## Questions 121-130
 ## Questions 131-140

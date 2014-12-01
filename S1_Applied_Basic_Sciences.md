@@ -1115,288 +1115,756 @@ Hodgkin's lymphoma can be distinguished from other forms of lymphoma by the pres
 ## Questions 201-210
 
 ### Q201
+A disease inherited as an autosomal dominant disorder:
+#### Answer: X. ?
+
 ### Q202
+With regard to the Palatine tonsil:
+#### Answer: X. ?
+
 ### Q203
+With regard to coronary blood flow:
+#### Answer: X. ?
+
 ### Q204
+With regard to bacterial structure and classification:
+#### Answer: X. ?
+
 ### Q205
+Derivatives of the hindgut are typically supplied by the:
+#### Answer: X. ?
+
 ### Q206
+Which one of the following is an autosomal dominant disorder:
+#### Answer: X. ?
+
 ### Q207
+The spinal accessory nerve supplies which of the following muscles:
+#### Answer: X. ?
+
 ### Q208
+With regard to cardiac conducting tissue:
+#### Answer: X. ?
+
 ### Q209
+Splenectomy increase susceptibility to which of the following organisms:
+#### Answer: X. ?
+
 ### Q210
+During a cholecystectomy, the cystic artery must be located and ligated. The arterial supply most commonoly arises from the:
+#### Answer: X. ?
 
 ## Questions 211-220
 
 ### Q211
+A teenager would like genetic counselling. His mother has phenylketonuria, or PKU (which is inherited as autosomal recessive). He has a brother with PKU. What is the chance that he is a carrier of the disease?
+#### Answer: X. ?
+
 ### Q212
+With regard to the parotid gland:
+#### Answer: X. ?
+
 ### Q213
+With regard to circulating red blood cells (erythrocytes):
+#### Answer: X. ?
+
 ### Q214
+With regard to Helicobacter pylori (H. pylori):
+#### Answer: X. ?
+
 ### Q215
+Cells in the pancreas that secrete glucagen and insulin are:
+#### Answer: X. ?
+
 ### Q216
+Which one of the following karyotypes is associated with short stature:
+#### Answer: X. ?
+
 ### Q217
+With regard to the cavernous sinus:
+#### Answer: X. ?
+
 ### Q218
+Which of the following is true of erythrocytes?
+#### Answer: X. ?
+
 ### Q219
+Cholera:
+#### Answer: X. ?
+
 ### Q220
+The glossophatyngeal nerve provides the parasympathetic innervation of the:
+#### Answer: X. ?
 
 ## Questions 221-230
 
 ### Q221
+With regard to Down's syndrome:
+#### Answer: X. ?
+
 ### Q222
+Which of the following muscles is _not_ a muscle of mastication?
+#### Answer: X. ?
+
 ### Q223
+With regard to blood clotting?
+#### Answer: X. ?
+
 ### Q224
+With regard to hepatitis B:
+#### Answer: X. ?
+
 ### Q225
+A skydiver lands forcefully on his right lower limb and suffers a fracture of the acetabulum, with a dislocation of the femoral head into the pelvis. The acetabulum is formed by the ilium, ischium and pubis. These three bones are completely fused by:
+#### Answer: X. ?
+
 ### Q226
+Huntington's disease (Huntington's chorea):
+#### Answer: X. ?
+
 ### Q227
+With regard to the Circle of Willis (_circulus arteriosus_):
+#### Answer: X. ?
+
 ### Q228
+With regard to the microcirculation and formation of lymph:
+#### Answer: X. ?
+
 ### Q229
+Human immunodeficiency virus (HIV):
+#### Answer: X. ?
+
 ### Q230
+Typical physical and laboratory findings in hyperthyroidism include which of the following:
+#### Answer: X. ?
 
 ## Questions 231-240
 
 ### Q231
+With regard to cystic fibrosis:
+#### Answer: X. ?
+
 ### Q232
+With regard to cranial meninges:
+#### Answer: X. ?
+
 ### Q233
+With regard to the cerebral circulation:
+#### Answer: X. ?
+
 ### Q234
+With regard to influenza:
+#### Answer: X. ?
+
 ### Q235
+Risk factors for developing osteoporosis include:
+#### Answer: X. ?
+
 ### Q236
+Haemophilia A:
+#### Answer: X. ?
+
 ### Q237
+With regard to the facial nerve:
+#### Answer: X. ?
+
 ### Q238
+Which one of the following statements concerning lung volumes is true?
+#### Answer: X. ?
+
 ### Q239
+The pathogenicity of the tubercle bacillus is primarily due to which one of the following:
+#### Answer: X. ?
+
 ### Q240
+A 36-year-old man has a neck tumour. Is has damaged his left cervical sympathetic chain ganglion. Which of the following physical signs would you expect:
+#### Answer: X. ?
 
 ## Questions 241-250
 
 ### Q241
+With regard to sickle cell anaemia:
+#### Answer: X. ?
+
 ### Q242
+With regard to the spinal cord and vertebral column:
+#### Answer: X. ?
+
 ### Q243
+With regard tio surfactant:
+#### Answer: X. ?
+
 ### Q244
+_Mycobacterium_ tuberculosis:
+#### Answer: X. ?
+
 ### Q245
+What are the insensible losses of water (i.e skin and lung) over 24 hours in a typical adult male at room temperature?
+#### Answer: X. ?
+
 ### Q246
+With regard to disorders of haemoglobin:
+#### Answer: X. ?
+
 ### Q247
+With regard to the breast:
+#### Answer: X. ?
+
 ### Q248
+With regard to pulmonary blood flow:
+#### Answer: X. ?
+
 ### Q249
+With regard to tetanus:
+#### Answer: X. ?
+
 ### Q250
+Nitric oxide (NO) results in induction of vascular smooth muscle relaxation in response to acetylcholine. The prduction of NO requires which amino acid?
+#### Answer: X. ?
 
 ## Questions 251-260
 
 ### Q251
+#### Answer: X. ?
+
 ### Q252
+#### Answer: X. ?
+
 ### Q253
+#### Answer: X. ?
+
 ### Q254
+#### Answer: X. ?
+
 ### Q255
+#### Answer: X. ?
+
 ### Q256
+#### Answer: X. ?
+
 ### Q257
+#### Answer: X. ?
+
 ### Q258
+#### Answer: X. ?
+
 ### Q259
+#### Answer: X. ?
+
 ### Q260
+#### Answer: X. ?
 
 ## Questions 261-270
 
 ### Q261
+#### Answer: X. ?
+
 ### Q262
+#### Answer: X. ?
+
 ### Q263
+#### Answer: X. ?
+
 ### Q264
+#### Answer: X. ?
+
 ### Q265
+#### Answer: X. ?
+
 ### Q266
+#### Answer: X. ?
+
 ### Q267
+#### Answer: X. ?
+
 ### Q268
+#### Answer: X. ?
+
 ### Q269
+#### Answer: X. ?
+
 ### Q270
+#### Answer: X. ?
 
 ## Questions 271-280
 
 ### Q271
+#### Answer: X. ?
+
 ### Q272
+#### Answer: X. ?
+
 ### Q273
+#### Answer: X. ?
+
 ### Q274
+#### Answer: X. ?
+
 ### Q275
+#### Answer: X. ?
+
 ### Q276
+#### Answer: X. ?
+
 ### Q277
+#### Answer: X. ?
+
 ### Q278
+#### Answer: X. ?
+
 ### Q279
+#### Answer: X. ?
+
 ### Q280
+#### Answer: X. ?
 
 ## Questions 281-290
 
 ### Q281
+#### Answer: X. ?
+
 ### Q282
+#### Answer: X. ?
+
 ### Q283
+#### Answer: X. ?
+
 ### Q284
+#### Answer: X. ?
+
 ### Q285
+#### Answer: X. ?
+
 ### Q286
+#### Answer: X. ?
+
 ### Q287
+#### Answer: X. ?
+
 ### Q288
+#### Answer: X. ?
+
 ### Q289
+#### Answer: X. ?
+
 ### Q290
+#### Answer: X. ?
 
 ## Questions 291-300
 
 ### Q291
+#### Answer: X. ?
+
 ### Q292
+#### Answer: X. ?
+
 ### Q293
+#### Answer: X. ?
+
 ### Q294
+#### Answer: X. ?
+
 ### Q295
+#### Answer: X. ?
+
 ### Q296
+#### Answer: X. ?
+
 ### Q297
+#### Answer: X. ?
+
 ### Q298
+#### Answer: X. ?
+
 ### Q299
+#### Answer: X. ?
+
 ### Q300
+#### Answer: X. ?
 
 ## Questions 301-310
 
 ### Q301
+#### Answer: X. ?
+
 ### Q302
+#### Answer: X. ?
+
 ### Q303
+#### Answer: X. ?
+
 ### Q304
+#### Answer: X. ?
+
 ### Q305
+#### Answer: X. ?
+
 ### Q306
+#### Answer: X. ?
+
 ### Q307
+#### Answer: X. ?
+
 ### Q308
+#### Answer: X. ?
+
 ### Q309
+#### Answer: X. ?
+
 ### Q310
+#### Answer: X. ?
 
 ## Questions 311-320
 
 ### Q311
+#### Answer: X. ?
+
 ### Q312
+#### Answer: X. ?
+
 ### Q313
+#### Answer: X. ?
+
 ### Q314
+#### Answer: X. ?
+
 ### Q315
+#### Answer: X. ?
+
 ### Q316
+#### Answer: X. ?
+
 ### Q317
+#### Answer: X. ?
+
 ### Q318
+#### Answer: X. ?
+
 ### Q319
+#### Answer: X. ?
+
 ### Q320
+#### Answer: X. ?
 
 ## Questions 321-330
 
 ### Q321
+#### Answer: X. ?
+
 ### Q322
+#### Answer: X. ?
+
 ### Q323
+#### Answer: X. ?
+
 ### Q324
+#### Answer: X. ?
+
 ### Q325
+#### Answer: X. ?
+
 ### Q326
+#### Answer: X. ?
+
 ### Q327
+#### Answer: X. ?
+
 ### Q328
+#### Answer: X. ?
+
 ### Q329
+#### Answer: X. ?
+
 ### Q330
+#### Answer: X. ?
 
 ## Questions 331-340
 
 ### Q331
+#### Answer: X. ?
+
 ### Q332
+#### Answer: X. ?
+
 ### Q333
+#### Answer: X. ?
+
 ### Q334
+#### Answer: X. ?
+
 ### Q335
+#### Answer: X. ?
+
 ### Q336
+#### Answer: X. ?
+
 ### Q337
+#### Answer: X. ?
+
 ### Q338
+#### Answer: X. ?
+
 ### Q339
+#### Answer: X. ?
+
 ### Q340
+#### Answer: X. ?
 
 ## Questions 341-350
 
 ### Q341
+#### Answer: X. ?
+
 ### Q342
+#### Answer: X. ?
+
 ### Q343
+#### Answer: X. ?
+
 ### Q344
+#### Answer: X. ?
+
 ### Q345
+#### Answer: X. ?
+
 ### Q346
+#### Answer: X. ?
+
 ### Q347
+#### Answer: X. ?
+
 ### Q348
+#### Answer: X. ?
+
 ### Q349
+#### Answer: X. ?
+
 ### Q350
+#### Answer: X. ?
 
 ## Questions 351-360
 
 ### Q351
+#### Answer: X. ?
+
 ### Q352
+#### Answer: X. ?
+
 ### Q353
+#### Answer: X. ?
+
 ### Q354
+#### Answer: X. ?
+
 ### Q355
+#### Answer: X. ?
+
 ### Q356
+#### Answer: X. ?
+
 ### Q357
+#### Answer: X. ?
+
 ### Q358
+#### Answer: X. ?
+
 ### Q359
+#### Answer: X. ?
+
 ### Q360
+#### Answer: X. ?
 
 ## Questions 361-370
 
 ### Q361
+#### Answer: X. ?
+
 ### Q362
+#### Answer: X. ?
+
 ### Q363
+#### Answer: X. ?
+
 ### Q364
+#### Answer: X. ?
+
 ### Q365
+#### Answer: X. ?
+
 ### Q366
+#### Answer: X. ?
+
 ### Q367
+#### Answer: X. ?
+
 ### Q368
+#### Answer: X. ?
+
 ### Q369
+#### Answer: X. ?
+
 ### Q370
+#### Answer: X. ?
 
 ## Questions 371-380
 
 ### Q371
+#### Answer: X. ?
+
 ### Q372
+#### Answer: X. ?
+
 ### Q373
+#### Answer: X. ?
+
 ### Q374
+#### Answer: X. ?
+
 ### Q375
+#### Answer: X. ?
+
 ### Q376
+#### Answer: X. ?
+
 ### Q377
+#### Answer: X. ?
+
 ### Q378
+#### Answer: X. ?
+
 ### Q379
+#### Answer: X. ?
+
 ### Q380
+#### Answer: X. ?
 
 ## Questions 381-390
 
 ### Q381
+#### Answer: X. ?
+
 ### Q382
+#### Answer: X. ?
+
 ### Q383
+#### Answer: X. ?
+
 ### Q384
+#### Answer: X. ?
+
 ### Q385
+#### Answer: X. ?
+
 ### Q386
+#### Answer: X. ?
+
 ### Q387
+#### Answer: X. ?
+
 ### Q388
+#### Answer: X. ?
+
 ### Q389
+#### Answer: X. ?
+
 ### Q390
+#### Answer: X. ?
 
 ## Questions 391-400
 
 ### Q391
+#### Answer: X. ?
+
 ### Q392
+#### Answer: X. ?
+
 ### Q393
+#### Answer: X. ?
+
 ### Q394
+#### Answer: X. ?
+
 ### Q395
+#### Answer: X. ?
+
 ### Q396
+#### Answer: X. ?
+
 ### Q397
+#### Answer: X. ?
+
 ### Q398
+#### Answer: X. ?
+
 ### Q399
+#### Answer: X. ?
+
 ### Q400
+#### Answer: X. ?
 
 ## Questions 401-410
 
 ### Q401
+#### Answer: X. ?
+
 ### Q402
+#### Answer: X. ?
+
 ### Q403
+#### Answer: X. ?
+
 ### Q404
+#### Answer: X. ?
+
 ### Q405
+#### Answer: X. ?
+
 ### Q406
+#### Answer: X. ?
+
 ### Q407
+#### Answer: X. ?
+
 ### Q408
+#### Answer: X. ?
+
 ### Q409
+#### Answer: X. ?
+
 ### Q410
+#### Answer: X. ?
 
 ## Questions 411-420
 
 ### Q411
+#### Answer: X. ?
+
 ### Q412
+#### Answer: X. ?
+
 ### Q413
+#### Answer: X. ?
+
 ### Q414
+#### Answer: X. ?
+
 ### Q415
+#### Answer: X. ?
+
 ### Q416
+#### Answer: X. ?
+
 ### Q417
+#### Answer: X. ?
+
 ### Q418
+#### Answer: X. ?
+
 ### Q419
+#### Answer: X. ?
+
 ### Q420
+#### Answer: X. ?
 
 ## Questions 421-423
 

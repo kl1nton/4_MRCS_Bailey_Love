@@ -695,30 +695,86 @@ Concerning statistical analysis of a population with a normal (Gaussian) distrib
 ## Questions 101-110
 
 ### Q101
+Which of the following cells secrete intrinsic factor?
 #### Answer: X. ?
 
 ### Q102
+Splenectomy increases susceptibility to which of the following organisms?
+#### Answer: X. ?
+
 ### Q103
+Cardiac output is decreased under what circumstances?
+#### Answer: X. ?
+
 ### Q104
+Which statement is true for flow through a vessel or lumen?
+#### Answer: X. ?
+
 ### Q105
+You request preoperative lung function tests on a patient with longstanding emphysema. What is true of the functional residual capacity?
+#### Answer: X. ?
+
 ### Q106
+Which statement is true of lung compliance?
+#### Answer: X. ?
+
 ### Q107
+Which of the following hormones is secreted by the anterior pituitary gland?
+#### Answer: X. ?
+
 ### Q108
+The oxygen-haemoglobin dissociation curve is shifted to the left by what?
+#### Answer: X. ?
+
 ### Q109
+Which of the following cells are cytotoxic?
+#### Answer: X. ?
+
 ### Q110
+A 3-week-old baby exhibits projective vomiting shortly after feeding, and failure to thrive. On examination, an olive-shaped mass is palpable in the right upper quadrant (RUQ) of the abdomen. A clinical diagnosis of pyloric stenosis is made. What biochemical laboratory features would suppoer the diagnosis?
+#### Answer: X. ?
 
 ## Questions 111-120
 
 ### Q111
+A sample of cerebrospinal fluid (CSF) is obtained following a lumbar puncture. What is a fature of normal CSF?
+#### Answer: X. ?
+
 ### Q112
+A patient on the surgical ward has chronic renal impairment. The plasma creatinine is 225 micro-mol/L and the glomerular filtration rate (GFR) is 25 mL/min. Which statement is correct regarding the patient's renal function?
+#### Answer: X. ?
+
 ### Q113
+Gastric acid secretion is stimulated by which of the following?
+#### Answer: X. ?
+
 ### Q114
+Carbon dioxide is prinicipally transported in the blood in which form?
+#### Answer: X. ?
+
 ### Q115
+The plateau phase of the cardiac action potential is due to what?
+#### Answer: X. ?
+
 ### Q116
+A patient with a 6cm abdominal aortic aneurysm is scheduled for elective repair. As part of the preoperative workup, an echocardiogram is requested. The ejection fraction is defined as what?
+#### Answer: X. ?
+
 ### Q117
+Bile salt reupatke principally occurs where?
+#### Answer: X. ?
+
 ### Q118
+A 40-year-old patient is brouigh into the A&E unit with head injury. The cardiovascular effects of raised intracranial pressure include (BP = blood pressure; HR = heart rate; CPP = cerebral perfusion pressure):
+#### Answer: X. ?
+
 ### Q119
+A patient is diagnosed with Conn's syndrome. Aldosterone is secreted from where?
+#### Answer: X. ?
+
 ### Q120
+Which one of the following gastrointestinal fluids is richest in potassium?
+#### Answer: X. ?
 
 ## Questions 121-130
 

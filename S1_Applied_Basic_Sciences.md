@@ -124,9 +124,32 @@ Which cells cannot regenerate?
     D. Mucosal cells
     E. Liver cells
 
-#### Answer: C. Renal tubular cells - **TRUE** 
-- ?
-- ?
+#### Answer: C. Renal tubular cells - TRUE 
+
+##### Renal Tubular Cells
+- Lack the ability to regenerate following injury
+	- This is why renal blood flow is so carefully autoregulated
+	- It is also why acute tubular necrosis is taken so seriously
+	
+- Damage to renal tubular cells is **irreversible**
+	- Will lead to end-stage renal failure
+	- Requiring renal replacement therapy: either dialysis or transplantation
+
+##### Peripheral Nerve Cells
+- Unlike nerve cells of CNS, they **do** regenerate following injury
+	- It is a slow process that occurs at about 1 mm/day
+	- May be followed with nerve conduction studies
+
+##### Schwann Cells
+- Responsible for myelination of nerve fibres: increases axonal speed of conduction
+	- Following injury (_Wallerian degeneration_), they are able to regenerate 
+
+##### Mucosal cells
+- Epithelial cells which behave like stem cells
+	- Can therefore continuously renew themselves
+
+##### Liver Cells 
+- Under certain circumstances (hepatocytes) can be stimulated to divide. 
 
 ### Q6
 Which of the following is a feature of metastatic spread?

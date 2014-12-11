@@ -21,8 +21,12 @@ What is the likely diagnosis?
 	1. Swelling
 	2. Inability to extend at the knee joint; and 
 	3. Absent knee reflex
-This is consistent with an injury to the quadriceps group of muscles that lie in the anterior compartment of the thigh and act as the principal extensors of the knee joint. The mechanism of injury is inconsistent with a fractured patella.
-
+- Consistent with an injury to the quadriceps group of muscles
+	- Lie in the anterior compartment of the thigh
+	- Act as the principal extensors of the knee joint
+	
+**Notes**
+- The mechanism of injury is _inconsistent_ with a fractured patella
 
 ### Q1.2
 During strenuous exercise, what else occurs besides tachycardia?

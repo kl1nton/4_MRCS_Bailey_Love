@@ -69,9 +69,24 @@ A patient is found to have thrombophlebitis migrans. What other condition must b
     D. Lyme disease
     E. Beckwith-Wiedemann syndrome
 
-#### Answer: E. Beckwith-Wiedeman Syndrome - **FALSE**
-- ?
-- ?
+#### Answer: E. Beckwith-Wiedeman Syndrome - *FALSE* = C. Bronchial carcinoma = TRUE
+
+- _Thrombophlebitis migrans_ (or migratory thrombophlebitis) is a condition that results in 
+	- Recurrent episodes of venous inflammation (_phlebitis_) associated with _thrombosis_
+	- That occurs in different locations (_migratory_)
+
+- Generally caused by inflammatory, or malignant, conditions 
+	- Where the patient is tipped into a hypercoagulable state
+
+- When associated with _malignant conditions_ it is known as **Trousseau’s syndrome** 
+	- Is generally associated with visceral malignancies (adenocarcinomas), such as
+		1. Gastric carcinoma
+		2. Pancreatic carcinoma
+		3. Bronchial carcinoma
+
+**Notes**
+- Thrombophlebitis migrans is a non-metastatic (or _paraneoplastic_) effect of malignancy
+	- It is related to factors secreted by tumours
 
 ### Q4
 A 42-yo lady is involved in a road traffic acident (RTA). She presents with dislocated shoulder. The shoulder is relocated by you in A&E but afterwards you notice winging of the scapula.

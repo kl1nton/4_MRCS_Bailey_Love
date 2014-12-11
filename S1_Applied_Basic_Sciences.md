@@ -16,7 +16,7 @@ What is the likely diagnosis?
     D. Tear of biceps femoris muscle
     E. Tear of quadriceps tendon
     
-#### Answer: E. Tear of quadriceps tendon - **TRUE**
+#### Answer: E. Tear of quadriceps tendon - TRUE
 - A 21-year-old male has sustained an injury of sudden onset, associated with:
 	1. Swelling
 	2. Inability to extend at the knee joint; and 
@@ -37,9 +37,28 @@ During strenuous exercise, what else occurs besides tachycardia?
     D. No change to blood pressure
     E. Increased renal blood flow
 
-#### Answer: A. Rise in PaCO2 - **FALSE**
-- ?
-- ?
+#### Answer: A. Rise in PaCO2 - *FALSE* = B. Increase stroke volume (SV) - TRUE
+
+- During _strenuous exercise_ there is an increase in 
+	1. Heart Rate (HR)
+	2. Stroke Volume (SV)
+	3. Cardiac Output (CO = HR x SV)
+- During exercise
+	- There is an increase in respiratory rate (_hyperventilation_) 
+		- Which will lead to a reduction in PaCO2
+	- Oxygen demand of skeletal muscle rises
+		- Leading to a reduction in mixed venous blood oxygen concentration
+	- Renal blood flow is autoregulated
+		- So renal blood flow is preserved and will tend to remain the same
+
+Mean arterial blood pressure is a function of 
+	1. Cardiac Output
+	2. Total Peripheral Resistance (TPR)
+Mean arterial blood pressure will increase with exercise
+	- Mainly due to increase in cardiac output (CO)
+
+**Notes**
+- Cardiac output (CO) is a function of heart rate (HR) and stroke volume (SV) 
 
 ### Q3
 A patient is found to have thrombophlebitis migrans. What other condition must be considered?

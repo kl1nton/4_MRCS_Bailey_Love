@@ -1,22 +1,30 @@
 Section 1 Applied Basic Sciences (SBA)
 ======================================
 
-## Questions 1-10
+## Questions 1.1-1.10
 
-### Q1
-A 21-year-old footballer presents to A&E with a _stabbing pain_ above his right _knee joint_. He states the pain _came on suddenly_ while he was sprinting. On examination, he is _unable to extend the leg_ and he _walks with a limp_. There is _suprapatellar swelling_ and an _absent knee jerk_. What is the likely diagnosis?
+??% - F: ?
+
+### Q1.1
+A 21-year-old footballer presents to A&E with a _stabbing pain_ above his right _knee joint_. He states the pain _came on suddenly_ while he was sprinting. On examination, he is _unable to extend the leg_ and he _walks with a limp_. There is _suprapatellar swelling_ and an _absent knee jerk_. 
+
+What is the likely diagnosis?
     
-    A. Frature of patella
+    A. Fracture of patella
     B. Injury to posterior cruciate ligament (PCA)
     C. Tear of adductor magnus muscle
     D. Tear of biceps femoris muscle
-    E. Tear of quadriceps tendone
+    E. Tear of quadriceps tendon
     
 #### Answer: E. Tear of quadriceps tendon - **TRUE**
-- TEST
-- ?
+- A 21-year-old male has sustained an injury of sudden onset, associated with:
+	1. Swelling
+	2. Inability to extend at the knee joint; and 
+	3. Absent knee reflex
+This is consistent with an injury to the quadriceps group of muscles that lie in the anterior compartment of the thigh and act as the principal extensors of the knee joint. The mechanism of injury is inconsistent with a fractured patella.
 
-### Q2
+
+### Q1.2
 During strenuous exercise, what else occurs besides tachycardia?
 
     A. Rise in PaCO2
@@ -564,13 +572,12 @@ Which is a feature of the Eustachian tube in a child?
 
 ## Questions 71-80
 
-### Q71 
-In intussusception in children, which statement applies?
+### Q71 In intussusception in children, which statement applies?
 
 #### Answer: X. ?
 
 ### Q72
-Which is true of Sjogren's syndrome?
+Which is true of Sjogrenb�s syndrome?
 #### Answer: X. ?
 
 ### Q73
@@ -602,1448 +609,276 @@ Which of the following statement is true of salivary gland carcinoma?
 #### Answer: X. ?
 
 ### Q80
-Which of the following statements is true of Collesb� fracture?
+Which of the following statements is true of Colles' fracture?
 #### Answer: X. ?
+
 
 ## Questions 81-90
 
-### Q81
+### Q1.81
 When a person lifts his RIGHT leg and stands unaided with only his left on the ground, the iliac crest on the RIGHT side does not descend (NEGATIVE Trendelenburg sign), provided that one of the following applies. Which?
+
+	A. The right gluteus medius muscle is actively contracted
+	B. The left hip joint is not congenitally dislocated
+	C. The right superior gluteal nerve is intact
+	D. The left psoas muscle is actively contracted
+	E. The neck of the right femur is not been shortened by a healed fracture
+	
 #### Answer: X. ?
 
-### Q82
-Which d the following describes laminar flow in a blood vessel?
+### Q1.82
+Which of the following describes laminar flow in a blood vessel?
+
+	A. Has maximum velocity at the center
+	B. Is a flow regime characterised by low momentum diffusion and high momentum convection
+	C. Produces the highest concentration of cells at the periphery of the vessel
+	D. Reynolds numbers of greater than 2300 are generally considered to be of a laminar type
+	E. Is considered to be 'rough' wheras turbulent flow is considered to be 'smooth'
 
 #### Answer: X. ?
 
-### Q83
+### Q1.83
 The clinical features of a lumbar disc pro laps affecting root S1 may include which of the following:
 
+	A. Paraesthesia on the medial aspect of the foot
+	B. A positive femoral stretch
+	C. Weakness and wasting of the muscles that dorsiflex the foot
+	D. Limitation of straight-leg raising
+	E. An impaired knee-jerk
+
 #### Answer: X. ?
 
-### Q84
+### Q1.84
 Which is true of umbilical hernias in children?
 
+	A. Are a rare problem (1 in 10,000)
+	B. Are commonly associated with incarceration of the bowel
+	C. Are most commonly found in Caucasian children
+	D. Are typically associated woth a patent vitello-intestinal duct
+	E. Have small orifices and characteristically close spontaneously before the age of 5 years
+
 #### Answer: X. ?
 
-### Q85
+### Q1.85
 A patient is suspected of having a haemolytic transfusion reaction. How should the patient best be managed?
-#### Answer: X. ?
 
-### Q86
-Which of the following statements concerning access to the abdomen is true?
-#### Answer - X. ?
+	A. Removal of the inessential foreign body irritants (nasogastric rube, Foley's catheter)
+	B. Fluid restriction
+	C. 0.1 M HCl infusion
+	D. Steroids
+	E. Fluids and mannitol
 
-### Q87
-Which of the following is true of pseudomembranous colitis?
-#### Answer: X. ?
-
-### Q88
-the diagnosis of acute cholecystitis can be reliably confirmed by which of the following?
-#### Answer: X. ?
-
-### Q89
-According to the modified Glasgow scoring system, indices of poor prognosis in severe pancreatitis at 48 hours include whioch of the following?
-#### Answer: X. ?
-
-### Q90
-Which statement is true of the rectum?
-#### Answer - X. ?
-
-## Questions 91-100
-
-### Q91
-What is a characteristic feature of the liver?
-#### Answer - X. ?
-
-### Q92
-Which statement regarding choledochal cysts is true?
-#### Answer - X. ?
-
-### Q93
-Which of the following is true of _talipes equinovarus_?
-#### Answer - X. ?
-
-### Q94
-Concerning bone tumours, which is true?
-#### Answer - X. ?
-
-### Q95 
-The posterior relations of the kidney include which structure?
-#### Answer - X. ?
-
-### Q96
-Which statement is true of Meckel's diverticulum?
-#### Answer - X. ?
-
-### Q97
-Which of the following is a recognised curative treatment option for localised carcinoma of the prostate?
-#### Answer - X. ?
-
-### Q98
-Which of the following statement is true for a patient who has been maintained on haemodialysis for 10 years?
-#### Answer - X. ?
-
-### Q99
-In relation to breast carcinoma, which statement is true?
-#### Answer: X. ?
-
-### Q100
-Concerning statistical analysis of a population with a normal (Gaussian) distribution, which is true?
-#### Answer: X. ?
-
-## Questions 101-110
-
-### Q101
-Which of the following cells secrete intrinsic factor?
-#### Answer: X. ?
-
-### Q102
-Splenectomy increases susceptibility to which of the following organisms?
-#### Answer: X. ?
-
-### Q103
-Cardiac output is decreased under what circumstances?
-#### Answer: X. ?
-
-### Q104
-Which statement is true for flow through a vessel or lumen?
-#### Answer: X. ?
-
-### Q105
-You request preoperative lung function tests on a patient with longstanding emphysema. What is true of the functional residual capacity?
-#### Answer: X. ?
-
-### Q106
-Which statement is true of lung compliance?
-#### Answer: X. ?
-
-### Q107
-Which of the following hormones is secreted by the anterior pituitary gland?
-#### Answer: X. ?
-
-### Q108
-The oxygen-haemoglobin dissociation curve is shifted to the left by what?
-#### Answer: X. ?
-
-### Q109
-Which of the following cells are cytotoxic?
-#### Answer: X. ?
-
-### Q110
-A 3-week-old baby exhibits projective vomiting shortly after feeding, and failure to thrive. On examination, an olive-shaped mass is palpable in the right upper quadrant (RUQ) of the abdomen. A clinical diagnosis of pyloric stenosis is made. What biochemical laboratory features would suppoer the diagnosis?
-#### Answer: X. ?
-
-## Questions 111-120
-
-### Q111
-A sample of cerebrospinal fluid (CSF) is obtained following a lumbar puncture. What is a fature of normal CSF?
-#### Answer: X. ?
-
-### Q112
-A patient on the surgical ward has chronic renal impairment. The plasma creatinine is 225 micro-mol/L and the glomerular filtration rate (GFR) is 25 mL/min. Which statement is correct regarding the patient's renal function?
-#### Answer: X. ?
-
-### Q113
-Gastric acid secretion is stimulated by which of the following?
-#### Answer: X. ?
-
-### Q114
-Carbon dioxide is prinicipally transported in the blood in which form?
-#### Answer: X. ?
-
-### Q115
-The plateau phase of the cardiac action potential is due to what?
-#### Answer: X. ?
-
-### Q116
-A patient with a 6cm abdominal aortic aneurysm is scheduled for elective repair. As part of the preoperative workup, an echocardiogram is requested. The ejection fraction is defined as what?
-#### Answer: X. ?
-
-### Q117
-Bile salt reupatke principally occurs where?
-#### Answer: X. ?
-
-### Q118
-A 40-year-old patient is brouigh into the A&E unit with head injury. The cardiovascular effects of raised intracranial pressure include (BP = blood pressure; HR = heart rate; CPP = cerebral perfusion pressure):
-#### Answer: X. ?
-
-### Q119
-A patient is diagnosed with Conn's syndrome. Aldosterone is secreted from where?
-#### Answer: X. ?
-
-### Q120
-Which one of the following gastrointestinal fluids is richest in potassium?
-#### Answer: X. ?
-
-## Questions 121-130
-
-### Q121
-Which one of the followin is the most potent inhibitor of gastric acid secretion?
-#### Answer: X. ?
-
-### Q122
-The following changes occur at birth:
-#### Answer: X. ?
-
-### Q123
-Which regard to phototransduction:
-#### Answer: X. ?
-
-### Q124
-Which of the followin is a feature of the adaptive (acquired) immune response?
-#### Answer: X. ?
-
-### Q125
-Which regard to the thyroid gland, which of the following is true?
-#### Answer: X. ?
-
-### Q126
-Which one of the followin is a depolarizing neuromuscular blocker?
-#### Answer: X. ?
-
-### Q127
-With regard to genital development:
-#### Answer: X. ?
-
-### Q128
-With regard to visual field pathways:
-#### Answer: X. ?
-
-### Q129
-With regard to neutrophils (polymorphonuclear (PMN) leucocytes):
-#### Answer: X. ?
-
-### Q130
-Which one of the followin regarding myoglobin in skeletal muscle is correct?
-#### Answer: X. ?
-
-## Questions 131-140
-
-### Q131
-The following are classes of anti-hypertensive agents, _except_:
-#### Answer: X. ?
-
-### Q132
-With regard to development of the limbs:
-#### Answer: X. ?
-
-### Q133
-With regard to the organisation of the cerebral cortex:
-#### Answer: X. ?
-
-### Q134
-The germinal centre of a lymph node:
-#### Answer: X. ?
-
-### Q135
-All eukarotic cells have membrane-bound organelles. Which one of the following organelles is self-replicating?
-#### Answer: X. ?
-
-### Q136
-With regard to antidiabetic agents, which drugs stimulates release of insulin from the pancreas?
-#### Answer: X. ?
-
-### Q137
-With regard to development of the kidney?
-#### Answer: X. ?
-
-### Q138
-With regard to cerebrospinal fluid (CSF):
-#### Answer: X. ?
-
-### Q139
-With regards to antibodies (immunoglobulins):
-#### Answer: X. ?
-
-### Q140
-A patient is diagnoses as having iron deficiency anaemia. Which of the following is the peripheral blood film likely to show?
-#### Answer: X. ?
-
-## Questions 141-150
-
-### Q141
-Which one of the following diuretics acts mainly on the distal convoluted tubule to descrease water reabsorption?
-#### Answer: X. ?
-
-### Q142
-With regard to diaphramatic development:
-#### Answer: X. ?
-
-### Q143
-With regard to cerebrospinal fluid (CSF) composition:
-#### Answer: X. ?
-
-### Q144
-With regard to IgM antibodies
-#### Answer: X. ?
-
-### Q145
-Epinephrine is an endogenous catecholamine. Its effects include which one of the following?
-#### Answer: X. ?
-
-### Q146
-Whcih antibody acts by inhibiting protein synthesis?
-#### Answer: X. ?
-
-### Q147
-With regard to craniofacial development:
-#### Answer: X. ?
-
-### Q148
-The speed of nerve conduction decreases with:
-#### Answer: X. ?
-
-### Q149
-The human major histocompatibility complex (MHC):
-#### Answer: X. ?
-
-### Q150
-Which one of the following statements regarding von Willebrand's disease is true?
-#### Answer: X. ?
-
-## Questions 151-160
-
-### Q151
-Which one of the following lipid-lowering agents acts by inhibiting HMG CoA reductase?
-#### Answer: X. ?
-
-### Q152
-Which regard to intestinal development:
-#### Answer: X. ?
-
-### Q153
-With regard to skeletal muscle fibres:
-#### Answer: X. ?
-
-### Q154
-With regard to the major histocompatibility complex (MHC):
-#### Answer: X. ?
-
-### Q155
-In acute inflammation, which is the predominant cell type involved?
-#### Answer: X. ?
-
-### Q156
-With anti-arrhythmic drug acts by inhibiting potassium channels?
-#### Answer: X. ?
-
-### Q157
-With regard to the branchial arches:
-#### Answer: X. ?
-
-### Q158
-With regard to nerve fibres:
-#### Answer: X. ?
-
-### Q159
-The classic pathway of complement activiation: 
-#### Answer: X. ?
-
-### Q160
-The plateau stage of cardiac action potential is causes by which one of the following mechanisms?
-#### Answer: X. ?
-
-## Questions 161-170
-
-### Q161
-Which of the following anti-Parkinsonian drugs is a COMT (catechol-O-methyltransferase) inhibitor?
-#### Answer: X. ?
-
-### Q162
-With regard to development of the nervous system?
-#### Answer: X. ?
-
-### Q163
-With regard to smooth (visceral) muscle:
-#### Answer: X. ?
-
-### Q164
-A young man has a skull fracture involving the posterior cranial fossa. The fracture is most likely to have injured:
-#### Answer: X. ?
-
-### Q165
-The incubation period for hepatitis A is:
-#### Answer: X. ?
-
-### Q166
-In the treatment of asthma, the drug salbutamol principally acts by which of the followinf mechanisms?
-#### Answer: X. ?
-
-### Q167
-A Meckel's diverticulum:
-#### Answer: X. ?
-
-### Q168
-With regards to the structure of cardiac muscle:
-#### Answer: X. ?
-
-### Q169
-With regard to the acute-phase response:
-#### Answer: X. ?
-
-### Q170
-Which one of the following areas of central nervous system contains structures that are considered to be the phylogenically oldest parts of the brain:
-#### Answer: X. ?
-
-## Questions 171-180
-
-### Q171
-With regard to organelles:
-#### Answer: X. ?
-
-### Q172
-Which one of the following cranial nerves carries parasympathetic fibres?
-#### Answer: X. ?
-
-### Q173
-With regard to properties of cardiac muscle:
-#### Answer: X. ?
-
-### Q174
-With regard to fever:
-#### Answer: X. ?
-
-### Q175
-A patient presents with a torn medial collateral ligament (MCL) of his left knee. Which of the following signs may be elicited on physical examination?
-#### Answer: X. ?
-
-### Q176
-Which of the following is a technique used to identify specific sequences of DNA?
-#### Answer: X. ?
-
-### Q177
-Which one of the following is true concerning the larynx?
-#### Answer: X. ?
-
-### Q178
-With regard to chemical neurotransmitters:
-#### Answer: X. ?
-
-### Q179
-Which of the following is _not_ an immunologically privileged site?
-#### Answer: X. ?
-
-### Q180
-Pathogenic bacteria enter the body by various routes, and entry mechanisms are critical for understanding the pathogenesis and tranmission of the each agent. Which pathogen is correctly linked with its mode of entry?
-#### Answer: X. ?
-
-## Questions 181-190
-
-### Q181
-With regard to gene expression:
-#### Answer: X. ?
-
-### Q182
-Concerning the thyroid gland, whihc one of the following is correct?
-#### Answer: X. ?
-
-### Q183
-Opioids:
-#### Answer: X. ?
-
-### Q184
-Type I hypersensitivity:
-#### Answer: X. ?
-
-### Q185
-Which one of the following statements concernign referred pain is true?
 #### Answer: X. ?
 
 ### Q186
-With regard to cell division:
+Which of the following statements concerning access to the abdomen is true?
+
+	A. Muscle-splitting incisions are more painful than cutting incisions
+	B. Failure to close peritoneum the incidence of adhesions
+	C. Collagenase dissolves sutures near wound edges 
+	D. The Veress needle in laparoscopic surgery is inserted under direct vision
+	E. Burst abdomen is preceded by serosanguinous discharge
+
 #### Answer: X. ?
 
-### Q187
-With regard to the tongue:
+### Q1.87
+Which of the following is true of pseudomembranous colitis?
+
+	A. Does not cause colonic bleeding
+	B. Is caused by Clostridium perfringes
+	C. Is the result of metronidazole administration
+	D. Is a cause of toxic dilation of the stomach
+	E. Responds to treatment with vancomycin
+
 #### Answer: X. ?
 
-### Q188
-With regard to the relationship of the electrocardiogram to the cardiac cycle:
+### Q1.88
+The diagnosis of acute cholecystitis can be reliably confirmed by which of the following?
+
+	A. Ultrasound
+	B. Plain radiograph
+	C. Abdominal radiograph
+	D. Oral cholecystography
+	E. Live function tests (LFTs)
+	
 #### Answer: X. ?
 
-### Q189
-Type III hypersensitivity:
+### Q1.89
+According to the modified Glasgow scoring system, indices of poor prognosis in severe pancreatitis at 48 hours include which of he following:
+
+	A. Albumin of 30 g/L
+	B. Urea of 10 mmol/L
+	C. Corrected serum calcium of 2.98 mmol/L
+	D. Arterial PO2 of 19 kPa
+	E. Blood glucose of 6 mmol/L
+	
 #### Answer: X. ?
 
-### Q190
-Which one of the following proteins binds to penicillin?
+### Q1.90 
+Which statement is true of the rectum?
+
+	A. Has a venous drainage into the Superior Mesenteric Vein (SMV)
+	B. Has a lymphatic drainage to the superior inguinal nodes
+	C. Is supplied by the superior mesenteric ganglia
+	D. Is anteriorly bounded by the seminal vesicles and prostate
+	E. Receives its main arterial blood supply from the middle rectal artery
+	
 #### Answer: X. ?
 
+
+## Questions 1.91-1.100
+
+### Q1.91
+What is a characteristic feature of the liver?
+
+#### Answer: X. ?
+
+### Q1.92
+Which statement regarding choledochal cysts is true?
+
+#### Answer: X. ?
+
+### Q1.93
+Which of the following is true of talipes equinovarus?
+#### Answer: X. ?
+
+### Q1.94
+Concerning bone tumours, which is true?
+#### Answer: X. ?
+
+### Q1.95 
+The posterior relations of the kidney include which structure?
+#### Answer: X. ?
+
+### Q1.96
+Which statement is true of Meckel's diverticulum?
+#### Answer: X. ?
+
+### Q1.97
+Which of the following is a recognised curative treatment option for localised carcinoma of the prostate?
+#### Answer: X. ?
+
+### Q1.98
+Which of the following statement is true for a patient who has been maintained on haemodialysis for 10 years?
+#### Answer: X. ?
+
+### Q1.99
+In relation to breast carcinoma, which statement is true?
+#### Answer: X. ?
+
+### Q1.100
+Concerning statistical analysis of a population with a normal (Gaussian) distribution, which is true?
+#### Answer: X. ?
+
+
+## Questions 1.101-1.110
+
+### Q1.101
+Which of the following cells secrete intrinsic factor?
+#### Answer: X. ?
+
+### Q1.102
+Splenectomy increases susceptibility to which of the following organs?
+#### Answer: X. ?
+
+### Q1.103
+Cardiac output is decreased under what circumstances?
+#### Answer: X. ?
+
+### Q1.104
+Which statement is true for flow through a vessel or lumen?
+#### Answer: X. ?
+
+### Q1.105
+You request pre-operative lung function tests on  patient with longstanding emphysema. What is true of functional lung capacity?
+#### Answer: X. ?
+
+### Q1.106
+Which statement is true of lung compliance?
+#### Answer: X. ?
+
+### Q1.107
+Which of the following hormones is secreted by the anterior pituitary gland?
+#### Answer: X. ?
+
+### Q1.108
+The oxygen-haemoglobin dissociation curve is shifted to the left by what?
+#### Answer: X. ?
+
+### Q1.109
+Which of the following cells are cytotoxic?
+#### Answer: X. ?
+
+### Q1.110
+A 3-week old baby exhibits projective vomiting shortly after feeding, and failure to thrive, On examination, an olive-shaped mass is palpable in the right upper quadrant (RUQ) of the abdomen. A clinical diagnosis of pyloric stenosis is made. What biochemical laboratory features would support the diagnosis?
+#### Answer: X. ?
+
+
+## Questions 111-120
+
+### Q1.111
+
+#### Answer: X. ?
+
+### Q1.112
+
+#### Answer: X. ?
+
+### Q1.113
+
+#### Answer: X. ?
+
+### Q1.114
+
+#### Answer: X. ?
+
+### Q1.115
+
+#### Answer: X. ?
+
+### Q1.116
+
+#### Answer: X. ?
+
+### Q1.117
+X
+#### Answer: X. ?
+
+### Q1.118
+
+#### Answer: X. ?
+
+### Q1.119
+
+#### Answer: X. ?
+
+### Q1.120
+
+#### Answer: X. ?
+
+## Questions 121-130
+## Questions 131-140
+## Questions 141-150
+## Questions 151-160
+## Questions 161-170
+## Questions 171-180
+## Questions 181-190
 ## Questions 191-200
 
-### Q191
-With regards to DNA:
-#### Answer: X. ?
-
-### Q192
-With regard to parathyroid glands:
-#### Answer: X. ?
-
-### Q193
-A woman has warts caused by human papilloma virus (HPV). the infectious HPV is most likely to be found:
-#### Answer: X. ?
-
-### Q194
-Hyperacute rejection:
-#### Answer: X. ?
-
-### Q195
-A total of 100 hypertensive patients are followed over a 4-week period for the effects of a diuretic drug on potassium concentrations. The statistical test used to compare the potassium serum levels before and after mediciation is most likely to be:
-#### Answer: X. ?
-
-### Q196
-Genre transcription is initiated by:
-#### Answer: X. ?
-
-### Q197
-With regards to extra-ocular muscles:
-#### Answer: X. ?
-
-### Q198
-Which of the following substances is a vasodilator:
-#### Answer: X. ?
-
-### Q199
-Autoimmune diseases:
-#### Answer: X. ?
-
-### Q200
-Hodgkin's lymphoma can be distinguished from other forms of lymphoma by the presence of:
-#### Answer: X. ?
-
 ## Questions 201-210
-
-### Q201
-A disease inherited as an autosomal dominant disorder:
-#### Answer: X. ?
-
-### Q202
-With regard to the Palatine tonsil:
-#### Answer: X. ?
-
-### Q203
-With regard to coronary blood flow:
-#### Answer: X. ?
-
-### Q204
-With regard to bacterial structure and classification:
-#### Answer: X. ?
-
-### Q205
-Derivatives of the hindgut are typically supplied by the:
-#### Answer: X. ?
-
-### Q206
-Which one of the following is an autosomal dominant disorder:
-#### Answer: X. ?
-
-### Q207
-The spinal accessory nerve supplies which of the following muscles:
-#### Answer: X. ?
-
-### Q208
-With regard to cardiac conducting tissue:
-#### Answer: X. ?
-
-### Q209
-Splenectomy increase susceptibility to which of the following organisms:
-#### Answer: X. ?
-
-### Q210
-During a cholecystectomy, the cystic artery must be located and ligated. The arterial supply most commonoly arises from the:
-#### Answer: X. ?
-
 ## Questions 211-220
-
-### Q211
-A teenager would like genetic counselling. His mother has phenylketonuria, or PKU (which is inherited as autosomal recessive). He has a brother with PKU. What is the chance that he is a carrier of the disease?
-#### Answer: X. ?
-
-### Q212
-With regard to the parotid gland:
-#### Answer: X. ?
-
-### Q213
-With regard to circulating red blood cells (erythrocytes):
-#### Answer: X. ?
-
-### Q214
-With regard to Helicobacter pylori (H. pylori):
-#### Answer: X. ?
-
-### Q215
-Cells in the pancreas that secrete glucagen and insulin are:
-#### Answer: X. ?
-
-### Q216
-Which one of the following karyotypes is associated with short stature:
-#### Answer: X. ?
-
-### Q217
-With regard to the cavernous sinus:
-#### Answer: X. ?
-
-### Q218
-Which of the following is true of erythrocytes?
-#### Answer: X. ?
-
-### Q219
-Cholera:
-#### Answer: X. ?
-
-### Q220
-The glossophatyngeal nerve provides the parasympathetic innervation of the:
-#### Answer: X. ?
-
 ## Questions 221-230
-
-### Q221
-With regard to Down's syndrome:
-#### Answer: X. ?
-
-### Q222
-Which of the following muscles is _not_ a muscle of mastication?
-#### Answer: X. ?
-
-### Q223
-With regard to blood clotting?
-#### Answer: X. ?
-
-### Q224
-With regard to hepatitis B:
-#### Answer: X. ?
-
-### Q225
-A skydiver lands forcefully on his right lower limb and suffers a fracture of the acetabulum, with a dislocation of the femoral head into the pelvis. The acetabulum is formed by the ilium, ischium and pubis. These three bones are completely fused by:
-#### Answer: X. ?
-
-### Q226
-Huntington's disease (Huntington's chorea):
-#### Answer: X. ?
-
-### Q227
-With regard to the Circle of Willis (_circulus arteriosus_):
-#### Answer: X. ?
-
-### Q228
-With regard to the microcirculation and formation of lymph:
-#### Answer: X. ?
-
-### Q229
-Human immunodeficiency virus (HIV):
-#### Answer: X. ?
-
-### Q230
-Typical physical and laboratory findings in hyperthyroidism include which of the following:
-#### Answer: X. ?
-
 ## Questions 231-240
-
-### Q231
-With regard to cystic fibrosis:
-#### Answer: X. ?
-
-### Q232
-With regard to cranial meninges:
-#### Answer: X. ?
-
-### Q233
-With regard to the cerebral circulation:
-#### Answer: X. ?
-
-### Q234
-With regard to influenza:
-#### Answer: X. ?
-
-### Q235
-Risk factors for developing osteoporosis include:
-#### Answer: X. ?
-
-### Q236
-Haemophilia A:
-#### Answer: X. ?
-
-### Q237
-With regard to the facial nerve:
-#### Answer: X. ?
-
-### Q238
-Which one of the following statements concerning lung volumes is true?
-#### Answer: X. ?
-
-### Q239
-The pathogenicity of the tubercle bacillus is primarily due to which one of the following:
-#### Answer: X. ?
-
-### Q240
-A 36-year-old man has a neck tumour. Is has damaged his left cervical sympathetic chain ganglion. Which of the following physical signs would you expect:
-#### Answer: X. ?
-
 ## Questions 241-250
-
-### Q241
-With regard to sickle cell anaemia:
-#### Answer: X. ?
-
-### Q242
-With regard to the spinal cord and vertebral column:
-#### Answer: X. ?
-
-### Q243
-With regard tio surfactant:
-#### Answer: X. ?
-
-### Q244
-_Mycobacterium_ tuberculosis:
-#### Answer: X. ?
-
-### Q245
-What are the insensible losses of water (i.e skin and lung) over 24 hours in a typical adult male at room temperature?
-#### Answer: X. ?
-
-### Q246
-With regard to disorders of haemoglobin:
-#### Answer: X. ?
-
-### Q247
-With regard to the breast:
-#### Answer: X. ?
-
-### Q248
-With regard to pulmonary blood flow:
-#### Answer: X. ?
-
-### Q249
-With regard to tetanus:
-#### Answer: X. ?
-
-### Q250
-Nitric oxide (NO) results in induction of vascular smooth muscle relaxation in response to acetylcholine. The prduction of NO requires which amino acid?
-#### Answer: X. ?
-
 ## Questions 251-260
-
-### Q251
-With regard to ABO blood grouping:
-#### Answer: X. ?
-
-### Q252
-With regard to the intercostal spaces:
-#### Answer: X. ?
-
-### Q253
-With regard to chemoreceptors:
-#### Answer: X. ?
-
-### Q254
-With regard to malaria:
-#### Answer: X. ?
-
-### Q255
-The neurotransmitters adrenaline, noradrenaline and dopamine are derived from which amino acid?
-#### Answer: X. ?
-
-### Q256
-Adult polycystic kidney disease:
-#### Answer: X. ?
-
-### Q257
-With regard to the oesophagus:
-#### Answer: X. ?
-
-### Q258
-With regard to carbon dioxide transport:
-#### Answer: X. ?
-
-### Q259
-With regard to the malaria life cycle:
-#### Answer: X. ?
-
-### Q260
-A 42-year-old woman has a genetic defect and cannot produce J-chains that are important in the structure of immunoglobulins. Most likely she will have:
-#### Answer: X. ?
-
 ## Questions 261-270
-
-### Q261
-The decline in incidence of serious infections during the nineteenth and twentieth centuries is mainly due to:
-#### Answer: X. ?
-
-### Q262
-With regard to oesophageal constrictions:
-#### Answer: X. ?
-
-### Q263
-Which one of the following is true of the haemoglobin/oxygen dissociation curve?
-#### Answer: X. ?
-
-### Q264
-With regard to schistosomiasis:
-#### Answer: X. ?
-
-### Q265
-An 83-year-old man has chest pain, breathlessness and ankle oedema. On clinical examination, cardiomegaly is identified and a subsequent diagnosis of viral myocarditis is made. Which of the following micro-organisms is most likely responsible for this illness:
-#### Answer: X. ?
-
-### Q266
-Which one fo the following changes in diease patterns have occurred in Europe and North America over the past 50 years?
-#### Answer: X. ?
-
-### Q267
-With regard to the diaphragm:
-#### Answer: X. ?
-
-### Q268
-At high altitude when the atmospheric pressure is halved, which one of the following changes occurs?
-#### Answer: X. ?
-
-### Q269
-Prions:
-#### Answer: X. ?
-
-### Q270
-Which of the following is the best neutrophil and macrophage chemotactant?
-#### Answer: X. ?
-
 ## Questions 271-280
-
-### Q271
-The most common cause of death from cancer in women is currently:
-#### Answer: X. ?
-
-### Q272
-With regard to diaphragmatic openings:
-#### Answer: X. ?
-
-### Q273
-With regard to gas exchange:
-#### Answer: X. ?
-
-### Q274
-Which of the following definitions is correct?
-#### Answer: X. ?
-
-### Q275
-A 92-year-old man has died secondary to lobar pneumonia. At post-mortem he is diagnosed with red hepatization. What pathological process within the lung was responsible?
-#### Answer: X. ?
-
-### Q276
-Which one of the following dieases is water-borne?
-#### Answer: X. ?
-
-### Q277
-With regard to the thoracic duct:
-#### Answer: X. ?
-
-### Q278
-With regard to the mechanics of respiration:
-#### Answer: X. ?
-
-### Q279
-Which one of the following statements is true?
-#### Answer: X. ?
-
-### Q280
-Budd-Chiari syndrome is:
-#### Answer: X. ?
-
 ## Questions 281-290
-
-### Q281
-Which one of the following is true concernign retrospective and prospective studies?
-#### Answer: X. ?
-
-### Q282
-With regard to the lungs:
-#### Answer: X. ?
-
-### Q283
-Which one of the following is true of haemoglobin?
-#### Answer: X. ?
-
-### Q284
-With regard to metaplasia:
-#### Answer: X. ?
-
-### Q285
-A 52-year-old man presents with episodic hypertension, an adrenal mass and elevated catacholamines. The most likely diagnosis is:
-#### Answer: X. ?
-
-### Q286
-Which one of the following studies is regarded as the gold standard in epidemiological research?
-#### Answer: X. ?
-
-### Q287
-With regard to the pleura:
-#### Answer: X. ?
-
-### Q288
-Which one of the following is true of erythropoietin?
-#### Answer: X. ?
-
-### Q289
-Which of the following is a defining characterisitc of a malignant tumour?
-#### Answer: X. ?
-
-### Q290
-Following a lethal overdose of paracetamol, the post-mortem will demonstrate:
-#### Answer: X. ?
-
 ## Questions 291-300
 
-### Q291
-You are involved in running a diabetes screening service. Two thousand people aged between 60 and 75 are screened. Both the mean and median random glucose measurement is 9.5 and the standard deviation is 1.4. Which statement is correct?
-#### Answer: X. ?
 
-### Q292
-With regard to the pericardium:
-#### Answer: X. ?
-
-### Q293
-Which one of the following is true of aldosterone?
-#### Answer: X. ?
-
-### Q294
-Which of the following are cytological features of malignancy?
-#### Answer: X. ?
-
-### Q295
-A 63-year-old male has a progressive history of congestive cardiac failure. At post-mortm, the heart demonstrates extensive replacement of the myocardium by an acellular, eosinophillic material. This material is most likely to be:
-#### Answer: X. ?
-
-### Q296
-Which one of the following statements is true?
-#### Answer: X. ?
-
-### Q297
-Whcih of the following regarding the coronary arteries is correct:
-#### Answer: X. ?
-
-### Q298
-With regard to the the renin-angiontensin system:
-#### Answer: X. ?
-
-### Q299
-Carcinomas most often metastasize by which of the following routes?
-#### Answer: X. ?
-
-### Q300
-A 73-year-old man works in a plastics factory and is exposed to vinyl chloride. This industrial exposure has increased his likelihood of developing:
-#### Answer: X. ?
-
-## Questions 301-310
-
-### Q301
-In a certain trial, the mean +/- standard error is 0.5 +/- 0.2, with a p-value under 0.005. This emplies that:
-#### Answer: X. ?
-
-### Q302
-With regard to the inguinal canal:
-#### Answer: X. ?
-
-### Q303
-With regard to the juxtaglomerular apparatus:
-#### Answer: X. ?
-
-### Q304
-Which of the following malignant neoplasms rarely metastasizes to distant sites:
-#### Answer: X. ?
-
-### Q305
-A 56-year-old man presents with a productive cough and weight-loss. Chest X-ray demonstrates a large hilar mass. Sputum cytology shows oval cells with hyperchromatism, paucity of cytoplasm and inconspicuous nuclei. These malignanyc cells are most likely associated with:
-#### Answer: X. ?
-
-### Q306
-The following table shows the results for a screening test for pancreatic cancer in 100 people:
-
---------------|------------------|-----------------
-              | Disease Positive | Disease Negative
---------------|------------------|-----------------
-Test Positive |                4 |                5
-Test Negative |                1 |               90
-
-Which of the following is true
-#### Answer: X. ?
-
-### Q307
-With regard to the epiploic foramen (or Winslow), which of the following is true?
-#### Answer: X. ?
-
-### Q308
-With regard to antidiuretic hormone (arginine vasopressin):
-#### Answer: X. ?
-
-### Q309
-Sarcomas:
-#### Answer: X. ?
-
-### Q310
-One sensitive indicator of heavy alcohol dependence is:
-#### Answer: X. ?
-
-## Questions 311-320
-
-### Q311
-Which of the following are features of the small bowel?
-#### Answer: X. ?
-
-### Q312
-With regard to acid-base balance:
-#### Answer: X. ?
-
-### Q313
-Which is true of tumour kinetics?
-#### Answer: X. ?
-
-### Q314
-The activity of what structure in the pons is suppressed by opiates, clonidine and GABA, and produces the most noradrenergic input to the brain?
-#### Answer: X. ?
-
-### Q315
-With regard to the gall bladder:
-#### Answer: X. ?
-
-### Q316
-With regard to renal blood flow:
-#### Answer: X. ?
-
-### Q317
-With regard to angiogenesis:
-#### Answer: X. ?
-
-### Q318
-Serum electrolytes reveal sodium 150 mEq/L and potassium 5.2 mEq/L. The most likely diagnosis is:
-#### Answer: X. ?
-
-### Q319
-With regard to gall bladder disease:
-#### Answer: X. ?
-
-### Q320
-With regard to glomerular filtration:
-#### Answer: X. ?
-
-## Questions 321-330
-
-### Q321
-An increased frequency of tumours causes by occupational carcinogen exposure has been proven in the following groups, _except_:
-#### Answer: X. ?
-
-### Q322
-Which of the following decreases insulin resistance:
-#### Answer: X. ?
-
-### Q323
-With regard to the liver:
-#### Answer: X. ?
-
-### Q324
-With rehard to tubular function:
-#### Answer: X. ?
-
-### Q325
-For which one of the following tumours is there an association with Epstein-Barr virus (EBV) infection?
-#### Answer: X. ?
-
-### Q326
-Which of the following is the most common thyroid neoplasm in the UK?
-#### Answer: X. ?
-
-### Q327
-With regard to portosystemic anastomoses:
-#### Answer: X. ?
-
-### Q328
-With regard to saliva:
-#### Answer: X. ?
-
-### Q329
-With regard to oncogenes:
-#### Answer: X. ?
-
-### Q330
-The neurotransmitter released from the cerebellar Pukinke cells is:
-#### Answer: X. ?
-
-## Questions 331-340
-
-### Q331
-With regard to the spleen:
-#### Answer: X. ?
-
-### Q332
-With of the follow cells secretes intrinsic factor?
-#### Answer: X. ?
-
-### Q333
-With regard to tumour suppressor genes:
-#### Answer: X. ?
-
-### Q334
-Which one of the following muscles is innervated by the facial nerve?
-#### Answer: X. ?
-
-### Q335
-With regard to the transpyloric plane (of Addison):
-#### Answer: X. ?
-
-### Q336
-With regard to gastric acid secretion:
-#### Answer: X. ?
-
-### Q337
-Retinoblastoma:
-#### Answer: X. ?
-
-### Q338
-From which branchial (pharyngeal) pouch does the inferior parathyroid gland arise?
-#### Answer: X. ?
-
-### Q339
-With regard to the adrenal gland (suprarenal gland):
-#### Answer: X. ?
-
-### Q340
-Which one of the following is true of gastrin?
-#### Answer: X. ?
-
-## Questions 341-350
-
-### Q341
-Lung carcinoma:
-#### Answer: X. ?
-
-### Q342
-Prokaryotes differ from eukaryotes in that prokaryotes have:
-#### Answer: X. ?
-
-### Q343
-With regard to the veriform appendix:
-#### Answer: X. ?
-
-### Q344
-With regard to the exocrine pancreas:
-#### Answer: X. ?
-
-### Q345
-Which one of the following is the commonest intracerebral neoplasm:
-#### Answer: X. ?
-
-### Q346
-A 67-year-old male undergoes an eleective right colectomy for adenocarcinoma of the caecum. If distant non-nodal metastases are discovered, which organ would be affected first?
-#### Answer: X. ?
-
-### Q347
-With regard to acute appendicitis:
-#### Answer: X. ?
-
-### Q348
-Which one of the following is true of pancreatic enzymes:
-#### Answer: X. ?
-
-### Q349
-Which one of the following is the commonest malignant tumour of bone?
-#### Answer: X. ?
-
-### Q350
-A research assistant is studying the production of an anthrax vaccine. He must destroy all vegetative cells and spores of Bacillus anthracis that have contaminated the pipette. What agent should he use?
-#### Answer: X. ?
-
-## Questions 351-360
-
-### Q351
-With regard to the greater omentum:
-#### Answer: X. ?
-
-### Q352
-With regard to the endocrine pancreas:
-#### Answer: X. ?
-
-### Q353
-Apoptosis:
-#### Answer: X. ?
-
-### Q354
-The virus responsible for causing acquired immunodeficiency syndrome (AIDS) has which one of the following features:
-#### Answer: X. ?
-
-### Q355
-With regard to the ureters:
-#### Answer: X. ?
-
-### Q356
-Which one of the following is true of bile?
-#### Answer: X. ?
-
-### Q357
-With regard to acute inflammation:
-#### Answer: X. ?
-
-### Q358
-A man is bleeding from the carotid artery. In order to temporary control he bleeding, the surgeon should compress the artery against the anterior tubercle of which of the following?
-#### Answer: X. ?
-
-### Q359
-With regard to the spermatic cord:
-#### Answer: X. ?
-
-### Q360
-With regard to intenstinal absorption:
-#### Answer: X. ?
-
-## Questions 361-370
-
-### Q361
-The following are possible outcomes of acute inflammation, _except_:
-#### Answer: X. ?
-
-### Q362
-A man falls on an outstretched hand. X-rays indicate an anterior dislocation of one of the carpal bones. Which carpal bone is most commonly dislocated?
-#### Answer: X. ?
-
-### Q363
-With regard to the testis?
-#### Answer: X. ?
-
-### Q364
-In the setting of starvation:
-#### Answer: X. ?
-
-### Q365
-With regard to chronic inflammation:
-#### Answer: X. ?
-
-### Q366
-Under normal conditions virtually 100 per cent of filtered load of glucose is reabsorbed by the kidney tubules. Which part of the nephron shown in Figure 1 is expected to have the highest reabsorption of glucose?
-#### Answer: X. ?
-
-### Q367
-With regard to the ovary?
-#### Answer: X. ?
-
-### Q368
-Which one of the following hormones is secreted by the anterior pituitary?
-#### Answer: X. ?
-
-### Q369
-Which of the following inflammatory processes often involves granulomas?
-#### Answer: X. ?
-
-### Q370
-An intravenous drug user presents with pyrexia and haematuria. Clinical examination demonstrates splenomegaly and splinter haemorrhages. Of which of the following heart valves would vegetations be expected?
-#### Answer: X. ?
-
-## Questions 371-380
-
-### Q371
-With regard to the rectum:
-#### Answer: X. ?
-
-### Q372
-Which one of the these statements regarding type 2 diabetes mellitus is true?
-#### Answer: X. ?
-
-### Q373
-With regard to wound healing
-#### Answer: X. ?
-
-### Q374
-A 62-year-old industrial chemist presents with painless haematuria, urinary frequency and urgency. he is diagnosed with bladder cancer. Which is the most likely type?
-#### Answer: X. ?
-
-### Q375
-With regard to the uterus:
-#### Answer: X. ?
-
-### Q376
-In diabetes mellitus (DM):
-#### Answer: X. ?
-
-### Q377
-Which one of the following tissues is likely to regenerate following damage?
-#### Answer: X. ?
-
-### Q378
-Deficiencies of which of the following factors usually predispose to thrombosis rather than bleeding?
-#### Answer: X. ?
-
-### Q379
-With regard to the blood supply of the stomach:
-#### Answer: X. ?
-
-### Q380
-Which one of these statements regarding insulin is true?
-#### Answer: X. ?
-
-## Questions 381-390
-
-### Q381
-With regard to necrosis:
-#### Answer: X. ?
-
-### Q382
-A Swan-Ganz catheeter is inserted into a patient with acute respiratory distress syndrome (ARDS). His pulmonary artery pressure is 6 mmHg. The same pressure would be expected in which of the following structures?
-#### Answer: X. ?
-
-### Q383
-With regard to the femoral triangle, which of the following is correct?
-#### Answer: X. ?
-
-### Q384
-With regard to the hypothalamo-pituitary axis:
-#### Answer: X. ?
-
-### Q385
-Which one fo the following is the best definition of grangrene?
-#### Answer: X. ?
-
-### Q386
-A woman has episodic abdominal pain wich is worse after fatty meals. Which hormone is responsible for her post-prandial worsening of symptoms?
-#### Answer: X. ?
-
-### Q387
-With regard to the shoulder (glenohumeral) joint:
-#### Answer: X. ?
-
-### Q388
-Which ine of the following is true of cortisol?
-#### Answer: X. ?
-
-### Q389
-Which one of the following increases the risk of thrombosis?
-#### Answer: X. ?
-
-### Q390
-When inserting a subclavian central line,m the first bony landmark that can be palpated below the inferior margin of the medial portion of the clavicle is:
-#### Answer: X. ?
-
-## Questions 391-400
-
-### Q391
-With regard to the hip joint, which of the following is true?
-#### Answer: X. ?
-
-### Q392
-With regard to calcium homeostasis?
-#### Answer: X. ?
-
-### Q393
-With regard to an embolus:
-#### Answer: X. ?
-
-### Q394
-Which of the following veins emplites into the left renal vein?
-#### Answer: X. ?
-
-### Q395
-With regard to the anatomical snuffbox:
-#### Answer: X. ?
-
-### Q396
-With regard to thyroxine:
-#### Answer: X. ?
-
-### Q397
-Ischaemia:
-#### Answer: X. ?
-
-### Q398
-The Brunner glands secrete an alkaline produce that helps maintain an optimal pH for pancreatic enzyme activity. Where are these glands located?
-#### Answer: X. ?
-
-### Q399
-With regard to the knee joint:
-#### Answer: X. ?
-
-### Q400
-During diabetic keotacidosis:
-#### Answer: X. ?
-
-## Questions 401-410
-
-### Q401
-With regard to acute myocardial infarction:
-#### Answer: X. ?
-
-### Q402
-A woman sprains her ankle while running down a flight of stairs. Which ligament did she most likely injure?
-#### Answer: X. ?
-
-### Q403
-With regard to the brachial plexus?
-#### Answer: X. ?
-
-### Q404
-With regard to adrenal gland disorders:
-#### Answer: X. ?
-
-### Q405
-Atherosclerosis:
-#### Answer: X. ?
-
-### Q406
-What structure is involvd in tarsal tunnel syndrome with heel pain?
-#### Answer: X. ?
-
-### Q407
-With regard to the brachial plexus:
-#### Answer: X. ?
-
-### Q408
-Which one of the following is true of testosterone?
-#### Answer: X. ?
-
-### Q409
-Which of the following regarding local anaesthetics is true?
-#### Answer: X. ?
-
-### Q410
-A surgeon's finger is placed in the epiploic Foramen of Winslow. The superior margin is:
-#### Answer: X. ?
-
-## Questions 411-420
-
-### Q411
-With regard to the carpal tunnel:
-#### Answer: X. ?
-
-### Q412
-With regard to the female reproductive system:
-#### Answer: X. ?
-
-### Q413
-Aspirin (acetylsalicyclic acid):
-#### Answer: X. ?
-
-### Q414
-Cancer of the testis most likely metastases to which set of lymph nodes?
-#### Answer: X. ?
-
-### Q415
-With regard to the arterial supply of the lower limb:
-#### Answer: X. ?
-
-### Q416
-With regard to thermoregulation:
-#### Answer: X. ?
-
-### Q417
-Aspirin damages the gastric mucosa through which of the following mechanisms?
-#### Answer: X. ?
-
-### Q418
-Internal haemorrhoids are painless and only sensitive to stretch. They are formed from folds of the mucous membrane and the submucosa of the anal canal which contain varicose branches of the:
-#### Answer: X. ?
-
-### Q419
-With regard to the superficial veins of the extremities:
-
-#### Answer: X. ?
-
-### Q420
-With regard to antiemetics:
-#### Answer: X. ?
+Section NEW
+-----------
 
 ## Questions 421-423
 
@@ -2056,18 +891,18 @@ A 'claw hand' is usually associated with injury to which of the following nerves
     D. Median nerve
     E. Ulnar nerve
   
-#### Answer: ?. ?
+#### Answer: E. Ulnar nerve - ?
 
 ### Q422
 With regard to the hand:
 
-    A. All the lumbricals are supplied by the median nerve
-    B. All the interossei are supplied by the ulnar nerve
+    A. All the lumbricals are supplied by the median nerve - ?
+    B. All the interossei are supplied by the ulnar nerve - ?
     C. The palmar interossei abduct the fingers
-    D. It is supplied by a single palmar arterial arch
+    D. It is supplied by a single palmar arterial arch - F
     E. Duyutren's contracture is caused by ischemic contracture of the intrinsic muscles of the hand
 
-#### Answer: ?. ?
+#### Answer: E. Duyutren's contracture is caused by ischemic contracture of the intrinsic muscles of the hand - ?
 
 ### Q423
 Which of the following agents is a thrombolytic?
@@ -2078,8 +913,6 @@ Which of the following agents is a thrombolytic?
     D. Strepokinase
     E. Heparin
 
-#### Answer: ?. ?
+#### Answer: D. Strepokinase - ?
 
 ===
-
-

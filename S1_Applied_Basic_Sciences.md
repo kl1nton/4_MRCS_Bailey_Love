@@ -99,9 +99,21 @@ Which nerve or muscle is likely to be damaged?
     D. Long thoracic nerve of Bell
     E. Deltoid
 
-#### Answer: D. Long thoracic nerve of Bell - **TRUE**
-- ?
-- ?
+#### Answer: D. Long thoracic nerve of Bell - TRUE
+- Serratus anterior acts to protract upper limb at shoulder joint (the ‘boxing’ muscle)
+- It is innervated by the **long thoracic nerve of Bell** 
+	- A branch of the *brachial plexus*, it has root values C5, 6 and 7
+	- This may be remembered by the old aphorism "C5, 6, 7 – Bells of Heaven"
+- A problem with either the nerve or muscle leads
+	- Loss of the normal function of the muscle
+	- *Winging of Scapula* when patient is asked to push against a wall
+	
+**Notes**	
+- This is an important clinical sign
+- Nerve Injury 
+	- Following axillary lymph node clearance for breast cancer
+- Muscle Injury
+	- Some forms of muscular dystrophy
 
 ### Q5
 Which cells cannot regenerate?

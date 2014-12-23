@@ -1754,94 +1754,1439 @@ Which of the following gastrointestinal fluids is richest in potassium?
 Questions 121-130
 -----------------
 
+### Q121
+#### Answer: X. ?
+- ?
 
+### Q122
+#### Answer: X. ?
+- ?
+
+### Q123
+#### Answer: X. ?
+- ?
+
+### Q124
+#### Answer: X. ?
+- ?
+
+### Q125
+#### Answer: X. ?
+- ?
+
+### Q126
+#### Answer: X. ?
+- ?
+
+### Q127
+#### Answer: X. ?
+- ?
+
+### Q128
+#### Answer: X. ?
+- ?
+
+### Q129
+#### Answer: X. ?
+- ?
+
+### Q130
+#### Answer: X. ?
+- ?
 
 Questions 131-140
 -----------------
 
+### Q131
+#### Answer: X. ?
+- ?
+
+### Q132
+#### Answer: X. ?
+- ?
+
+### Q133
+#### Answer: X. ?
+- ?
+
+### Q134
+#### Answer: X. ?
+- ?
+
+### Q135
+#### Answer: X. ?
+- ?
+
+### Q136
+#### Answer: X. ?
+- ?
+
+### Q137
+#### Answer: X. ?
+- ?
+
+### Q138
+#### Answer: X. ?
+- ?
+
+### Q139
+#### Answer: X. ?
+- ?
+
+### Q140
+#### Answer: X. ?
+- ?
+
 Questions 141-150
 -----------------
+
+### Q141
+#### Answer: X. ?
+- ?
+
+### Q142
+#### Answer: X. ?
+- ?
+
+### Q143
+#### Answer: X. ?
+- ?
+
+### Q144
+#### Answer: X. ?
+- ?
+
+### Q145
+#### Answer: X. ?
+- ?
+
+### Q146
+#### Answer: X. ?
+- ?
+
+### Q147
+#### Answer: X. ?
+- ?
+
+### Q148
+#### Answer: X. ?
+- ?
+
+### Q149
+#### Answer: X. ?
+- ?
+
+### Q150
+#### Answer: X. ?
+- ?
 
 Questions 151-160
 -----------------
 
+### Q151
+#### Answer: X. ?
+- ?
+
+### Q152
+#### Answer: X. ?
+- ?
+
+### Q153
+#### Answer: X. ?
+- ?
+
+### Q154
+#### Answer: X. ?
+- ?
+
+### Q155
+#### Answer: X. ?
+- ?
+
+### Q156
+#### Answer: X. ?
+- ?
+
+### Q157
+#### Answer: X. ?
+- ?
+
+### Q158
+#### Answer: X. ?
+- ?
+
+### Q159
+#### Answer: X. ?
+- ?
+
+### Q160
+#### Answer: X. ?
+- ?
+
 Questions 161-170
 -----------------
+
+### Q161
+#### Answer: X. ?
+- ?
+
+### Q162
+#### Answer: X. ?
+- ?
+
+### Q163
+#### Answer: X. ?
+- ?
+
+### Q164
+#### Answer: X. ?
+- ?
+
+### Q165
+#### Answer: X. ?
+- ?
+
+### Q166
+#### Answer: X. ?
+- ?
+
+### Q167
+#### Answer: X. ?
+- ?
+
+### Q168
+#### Answer: X. ?
+- ?
+
+### Q169
+#### Answer: X. ?
+- ?
+
+### Q170
+#### Answer: X. ?
+- ?
 
 Questions 171-180
 -----------------
 
+### Q171
+#### Answer: X. ?
+- ?
+
+### Q172
+#### Answer: X. ?
+- ?
+
+### Q173
+#### Answer: X. ?
+- ?
+
+### Q174
+#### Answer: X. ?
+- ?
+
+### Q175
+#### Answer: X. ?
+- ?
+
+### Q176
+#### Answer: X. ?
+- ?
+
+### Q177
+#### Answer: X. ?
+- ?
+
+### Q178
+#### Answer: X. ?
+- ?
+
+### Q179
+#### Answer: X. ?
+- ?
+
+### Q180
+#### Answer: X. ?
+- ?
+
 Questions 181-190
 -----------------
+
+### Q181
+#### Answer: X. ?
+- ?
+
+### Q182
+#### Answer: X. ?
+- ?
+
+### Q183
+#### Answer: X. ?
+- ?
+
+### Q184
+#### Answer: X. ?
+- ?
+
+### Q185
+#### Answer: X. ?
+- ?
+
+### Q186
+#### Answer: X. ?
+- ?
+
+### Q187
+#### Answer: X. ?
+- ?
+
+### Q188
+#### Answer: X. ?
+- ?
+
+### Q189
+#### Answer: X. ?
+- ?
+
+### Q190
+#### Answer: X. ?
+- ?
 
 Questions 191-200
 -----------------
 
+### Q191
+#### Answer: X. ?
+- ?
+
+### Q192
+#### Answer: X. ?
+- ?
+
+### Q193
+#### Answer: X. ?
+- ?
+
+### Q194
+#### Answer: X. ?
+- ?
+
+### Q195
+#### Answer: X. ?
+- ?
+
+### Q196
+#### Answer: X. ?
+- ?
+
+### Q197
+#### Answer: X. ?
+- ?
+
+### Q198
+#### Answer: X. ?
+- ?
+
+### Q199
+#### Answer: X. ?
+- ?
+
+### Q200
+#### Answer: X. ?
+- ?
+
 Questions 201-210
 -----------------
+
+### Q201
+#### Answer: X. ?
+- ?
+
+### Q202
+#### Answer: X. ?
+- ?
+
+### Q203
+#### Answer: X. ?
+- ?
+
+### Q204
+#### Answer: X. ?
+- ?
+
+### Q205
+#### Answer: X. ?
+- ?
+
+### Q206
+#### Answer: X. ?
+- ?
+
+### Q207
+#### Answer: X. ?
+- ?
+
+### Q208
+#### Answer: X. ?
+- ?
+
+### Q209
+#### Answer: X. ?
+- ?
+
+### Q210
+#### Answer: X. ?
+- ?
 
 Questions 211-220
 -----------------
 
+### Q211
+#### Answer: X. ?
+- ?
+
+### Q212
+#### Answer: X. ?
+- ?
+
+### Q213
+#### Answer: X. ?
+- ?
+
+### Q214
+#### Answer: X. ?
+- ?
+
+### Q215
+#### Answer: X. ?
+- ?
+
+### Q216
+#### Answer: X. ?
+- ?
+
+### Q217
+#### Answer: X. ?
+- ?
+
+### Q218
+#### Answer: X. ?
+- ?
+
+### Q219
+#### Answer: X. ?
+- ?
+
+### Q220
+#### Answer: X. ?
+- ?
+
 Questions 221-230
 -----------------
+
+### Q211
+#### Answer: X. ?
+- ?
+
+### Q212
+#### Answer: X. ?
+- ?
+
+### Q213
+#### Answer: X. ?
+- ?
+
+### Q214
+#### Answer: X. ?
+- ?
+
+### Q215
+#### Answer: X. ?
+- ?
+
+### Q216
+#### Answer: X. ?
+- ?
+
+### Q217
+#### Answer: X. ?
+- ?
+
+### Q218
+#### Answer: X. ?
+- ?
+
+### Q219
+#### Answer: X. ?
+- ?
+
+### Q220
+#### Answer: X. ?
+- ?
 
 Questions 231-240
 -----------------
 
+### Q231
+#### Answer: X. ?
+- ?
+
+### Q232
+#### Answer: X. ?
+- ?
+
+### Q233
+#### Answer: X. ?
+- ?
+
+### Q234
+#### Answer: X. ?
+- ?
+
+### Q235
+#### Answer: X. ?
+- ?
+
+### Q236
+#### Answer: X. ?
+- ?
+
+### Q237
+#### Answer: X. ?
+- ?
+
+### Q238
+#### Answer: X. ?
+- ?
+
+### Q239
+#### Answer: X. ?
+- ?
+
+### Q240
+#### Answer: X. ?
+- ?
+
 Questions 241-250
 -----------------
+
+### Q241
+#### Answer: X. ?
+- ?
+
+### Q242
+#### Answer: X. ?
+- ?
+
+### Q243
+#### Answer: X. ?
+- ?
+
+### Q244
+#### Answer: X. ?
+- ?
+
+### Q245
+#### Answer: X. ?
+- ?
+
+### Q246
+#### Answer: X. ?
+- ?
+
+### Q247
+#### Answer: X. ?
+- ?
+
+### Q248
+#### Answer: X. ?
+- ?
+
+### Q249
+#### Answer: X. ?
+- ?
+
+### Q250
+#### Answer: X. ?
+- ?
 
 Questions 251-260
 -----------------
 
+### Q251
+#### Answer: X. ?
+- ?
+
+### Q252
+#### Answer: X. ?
+- ?
+
+### Q253
+#### Answer: X. ?
+- ?
+
+### Q254
+#### Answer: X. ?
+- ?
+
+### Q255
+#### Answer: X. ?
+- ?
+
+### Q256
+#### Answer: X. ?
+- ?
+
+### Q257
+#### Answer: X. ?
+- ?
+
+### Q258
+#### Answer: X. ?
+- ?
+
+### Q259
+#### Answer: X. ?
+- ?
+
+### Q260
+#### Answer: X. ?
+- ?
+
 Questions 261-270
 -----------------
+
+### Q261
+#### Answer: X. ?
+- ?
+
+### Q262
+#### Answer: X. ?
+- ?
+
+### Q263
+#### Answer: X. ?
+- ?
+
+### Q264
+#### Answer: X. ?
+- ?
+
+### Q265
+#### Answer: X. ?
+- ?
+
+### Q266
+#### Answer: X. ?
+- ?
+
+### Q267
+#### Answer: X. ?
+- ?
+
+### Q268
+#### Answer: X. ?
+- ?
+
+### Q269
+#### Answer: X. ?
+- ?
+
+### Q270
+#### Answer: X. ?
+- ?
 
 Questions 271-280
 -----------------
 
+### Q271
+#### Answer: X. ?
+- ?
+
+### Q272
+#### Answer: X. ?
+- ?
+
+### Q273
+#### Answer: X. ?
+- ?
+
+### Q274
+#### Answer: X. ?
+- ?
+
+### Q275
+#### Answer: X. ?
+- ?
+
+### Q276
+#### Answer: X. ?
+- ?
+
+### Q277
+#### Answer: X. ?
+- ?
+
+### Q278
+#### Answer: X. ?
+- ?
+
+### Q279
+#### Answer: X. ?
+- ?
+
+### Q280
+#### Answer: X. ?
+- ?
+
 Questions 281-290
 -----------------
+
+### Q281
+#### Answer: X. ?
+- ?
+
+### Q282
+#### Answer: X. ?
+- ?
+
+### Q283
+#### Answer: X. ?
+- ?
+
+### Q284
+#### Answer: X. ?
+- ?
+
+### Q285
+#### Answer: X. ?
+- ?
+
+### Q286
+#### Answer: X. ?
+- ?
+
+### Q287
+#### Answer: X. ?
+- ?
+
+### Q288
+#### Answer: X. ?
+- ?
+
+### Q289
+#### Answer: X. ?
+- ?
+
+### Q290
+#### Answer: X. ?
+- ?
 
 Questions 291-300
 -----------------
 
+### Q291
+#### Answer: X. ?
+- ?
+
+### Q292
+#### Answer: X. ?
+- ?
+
+### Q293
+#### Answer: X. ?
+- ?
+
+### Q294
+#### Answer: X. ?
+- ?
+
+### Q295
+#### Answer: X. ?
+- ?
+
+### Q296
+#### Answer: X. ?
+- ?
+
+### Q297
+#### Answer: X. ?
+- ?
+
+### Q298
+#### Answer: X. ?
+- ?
+
+### Q299
+#### Answer: X. ?
+- ?
+
+### Q300
+#### Answer: X. ?
+- ?
+
 Questions 301-310
 -----------------
+
+### Q301
+#### Answer: X. ?
+- ?
+
+### Q302
+#### Answer: X. ?
+- ?
+
+### Q303
+#### Answer: X. ?
+- ?
+
+### Q304
+#### Answer: X. ?
+- ?
+
+### Q305
+#### Answer: X. ?
+- ?
+
+### Q306
+#### Answer: X. ?
+- ?
+
+### Q307
+#### Answer: X. ?
+- ?
+
+### Q308
+#### Answer: X. ?
+- ?
+
+### Q309
+#### Answer: X. ?
+- ?
+
+### Q310
+#### Answer: X. ?
+- ?
 
 Questions 311-320
 -----------------
 
+### Q311
+#### Answer: X. ?
+- ?
+
+### Q312
+#### Answer: X. ?
+- ?
+
+### Q313
+#### Answer: X. ?
+- ?
+
+### Q314
+#### Answer: X. ?
+- ?
+
+### Q315
+#### Answer: X. ?
+- ?
+
+### Q316
+#### Answer: X. ?
+- ?
+
+### Q317
+#### Answer: X. ?
+- ?
+
+### Q318
+#### Answer: X. ?
+- ?
+
+### Q319
+#### Answer: X. ?
+- ?
+
+### Q320
+#### Answer: X. ?
+- ?
+
 Questions 321-330
 -----------------
+
+### Q321
+#### Answer: X. ?
+- ?
+
+### Q322
+#### Answer: X. ?
+- ?
+
+### Q323
+#### Answer: X. ?
+- ?
+
+### Q324
+#### Answer: X. ?
+- ?
+
+### Q325
+#### Answer: X. ?
+- ?
+
+### Q326
+#### Answer: X. ?
+- ?
+
+### Q327
+#### Answer: X. ?
+- ?
+
+### Q328
+#### Answer: X. ?
+- ?
+
+### Q329
+#### Answer: X. ?
+- ?
+
+### Q330
+#### Answer: X. ?
+- ?
 
 Questions 331-340
 -----------------
 
+### Q331
+#### Answer: X. ?
+- ?
+
+### Q332
+#### Answer: X. ?
+- ?
+
+### Q333
+#### Answer: X. ?
+- ?
+
+### Q334
+#### Answer: X. ?
+- ?
+
+### Q335
+#### Answer: X. ?
+- ?
+
+### Q336
+#### Answer: X. ?
+- ?
+
+### Q337
+#### Answer: X. ?
+- ?
+
+### Q338
+#### Answer: X. ?
+- ?
+
+### Q339
+#### Answer: X. ?
+- ?
+
+### Q340
+#### Answer: X. ?
+- ?
+
 Questions 341-350
 -----------------
+
+### Q341
+#### Answer: X. ?
+- ?
+
+### Q342
+#### Answer: X. ?
+- ?
+
+### Q343
+#### Answer: X. ?
+- ?
+
+### Q344
+#### Answer: X. ?
+- ?
+
+### Q345
+#### Answer: X. ?
+- ?
+
+### Q346
+#### Answer: X. ?
+- ?
+
+### Q347
+#### Answer: X. ?
+- ?
+
+### Q348
+#### Answer: X. ?
+- ?
+
+### Q349
+#### Answer: X. ?
+- ?
+
+### Q350
+#### Answer: X. ?
+- ?
 
 Questions 351-360
 -----------------
 
+### Q351
+#### Answer: X. ?
+- ?
+
+### Q352
+#### Answer: X. ?
+- ?
+
+### Q353
+#### Answer: X. ?
+- ?
+
+### Q354
+#### Answer: X. ?
+- ?
+
+### Q355
+#### Answer: X. ?
+- ?
+
+### Q356
+#### Answer: X. ?
+- ?
+
+### Q357
+#### Answer: X. ?
+- ?
+
+### Q358
+#### Answer: X. ?
+- ?
+
+### Q359
+#### Answer: X. ?
+- ?
+
+### Q360
+#### Answer: X. ?
+- ?
+
 Questions 361-370
 -----------------
+
+### Q361
+#### Answer: X. ?
+- ?
+
+### Q362
+#### Answer: X. ?
+- ?
+
+### Q363
+#### Answer: X. ?
+- ?
+
+### Q364
+#### Answer: X. ?
+- ?
+
+### Q365
+#### Answer: X. ?
+- ?
+
+### Q366
+#### Answer: X. ?
+- ?
+
+### Q367
+#### Answer: X. ?
+- ?
+
+### Q368
+#### Answer: X. ?
+- ?
+
+### Q369
+#### Answer: X. ?
+- ?
+
+### Q370
+#### Answer: X. ?
+- ?
 
 Questions 371-380
 -----------------
 
+### Q371
+#### Answer: X. ?
+- ?
+
+### Q372
+#### Answer: X. ?
+- ?
+
+### Q373
+#### Answer: X. ?
+- ?
+
+### Q374
+#### Answer: X. ?
+- ?
+
+### Q375
+#### Answer: X. ?
+- ?
+
+### Q376
+#### Answer: X. ?
+- ?
+
+### Q377
+#### Answer: X. ?
+- ?
+
+### Q378
+#### Answer: X. ?
+- ?
+
+### Q379
+#### Answer: X. ?
+- ?
+
+### Q380
+#### Answer: X. ?
+- ?
+
 Questions 381-390
 -----------------
+
+### Q381
+#### Answer: X. ?
+- ?
+
+### Q382
+#### Answer: X. ?
+- ?
+
+### Q383
+#### Answer: X. ?
+- ?
+
+### Q384
+#### Answer: X. ?
+- ?
+
+### Q385
+#### Answer: X. ?
+- ?
+
+### Q386
+#### Answer: X. ?
+- ?
+
+### Q387
+#### Answer: X. ?
+- ?
+
+### Q388
+#### Answer: X. ?
+- ?
+
+### Q389
+#### Answer: X. ?
+- ?
+
+### Q390
+#### Answer: X. ?
+- ?
 
 Questions 391-400
 -----------------
 
+### Q391
+#### Answer: X. ?
+- ?
+
+### Q392
+#### Answer: X. ?
+- ?
+
+### Q393
+#### Answer: X. ?
+- ?
+
+### Q394
+#### Answer: X. ?
+- ?
+
+### Q395
+#### Answer: X. ?
+- ?
+
+### Q396
+#### Answer: X. ?
+- ?
+
+### Q397
+#### Answer: X. ?
+- ?
+
+### Q398
+#### Answer: X. ?
+- ?
+
+### Q399
+#### Answer: X. ?
+- ?
+
+### Q400
+During diabetic ketoacidosis:
+
+	A. The pH of the blood is high - F
+	B. Cheyne-Stokes breathing is characteristic - F
+	C. Hyperkalaemia occurs
+	D. Blood glucose levels are typically low - F
+	E. Volume status is euvolaemic - F
+#### Answer: C. Hyperkalaemia occurs - ?
+- ?
+
 Questions 401-410
 -----------------
 
+### Q401
+With regard to acute myocardial infarction (MI):
+
+	A. It usually results from an embolus
+	B. It always causes chest pain - F
+	C. It induces acute inflammatory chages maximal at 1-3 days post-infarct
+	D. Infarcts less than 12 hours are clearly visible on macroscopic examination - F
+	E. The infarcted tissue is replaced by new cardiac muscle - F
+#### Answer: 
+- ?
+
+### Q402
+A woman sprains her ankle while running down a flight of stairs. Which ligament did she most likely injure?
+
+	A. Deltoid
+	B. Anterior talo-tibial
+	C. Medial collateral
+	D. Calcaneo-fibular
+	E. Calcaneo-tibial
+#### Answer: X. ?
+- ?
+
+### Q403
+With regard to the brachial plexus:
+
+	A. It has principal root values C6-T2 - F
+	B. The serratus anterior muscle is innervated by the subscapular nerve
+	C. A lesion involving the lower roots of the brachial plexus results in a classic Erb-Duchenne palsy
+	D. Cords lie in relation to the third part of the axillary artery
+	E. Roots lie in the neck between the scalenus anterior and medius muscles
+#### Answer: X. ?
+- ?
+
+### Q404
+With regard to adrenal gland disorders:
+
+	A. Adrenal insufficiency results in hypokalaemia and hypernatraemia
+	B. Conn’s syndrome results in hyperkalaemia
+	C. Cushing’s disease is due to a cortisol-producing tumour of the adrenal cortex
+	D. Phaeochromocytoma is due to oversecretion of cortisol by a tumour of the adrenal medulla
+	E. Congenital adrenal hyperplasia (adrenogenital syndrome) results in virilization and salt wasting
+#### Answer: X. ?
+- ?
+
+### Q405
+Artherosclerosis:
+
+	A. Is irreversible
+	B. Most commonly occurs at branching points within the circulation
+	C. Is a disease that primarily affects the tunica media of arteries
+	D. Is accompanied by acute inflammation
+	E. Is accelerated by hypocholesterolaemia
+#### Answer: X. ?
+- ?
+
+### Q406
+What structure is involved in tarsal tunnel syndrome with heel pain?
+
+	A. Anterior tibial artery
+	B. Deep peroneal nerve
+	C. Peroneal artery
+	D. Superficial peroneal nerve
+	E. Tibial nerve
+#### Answer: X. ?
+- ?
+
+### Q407
+With regard to the brachial plexus?
+
+	A. The ulnar nerve arises from the posterior cord
+	B. The radial nerve arises from the lateral cord
+	C. The musculocutaneous nerve arises from the lateral cord
+	D. The median nerve arises from the anterior cord
+	E. The axillary nerve arises form the lateral cord
+#### Answer: X. ?
+- ?
+
+### Q408
+Which of the following is true of testosterone?
+
+	A. Secretion occurs only in males
+	B. It is secreted from the Sertoli cells of the testis
+	C. It is a peptide hormone
+	D. It is essential for spermatogenesis
+	E. It depends on FSH for secretion
+#### Answer: X. ?
+- ?
+
+### Q409
+Which of the following regarding local anaesthetics is true?
+
+	A. Cocaine is an amide
+	B. Addition of adrenaline increases systemic absorption of the local anaesthetic
+	C. One of the first signs of toxicity is perioral paraesthesia
+	D. They work by blocking potassium channels in the nerve endings
+	E. They inhibit the propagation of impulses in Aβ fibres first
+#### Answer: X. ?
+- ?
+
+### Q410
+A surgeon's finger is places in the epiploic Foramen of Winslow. The superior margin is:
+
+	A. Common bile duct
+	B. First part of the duodenum
+	C. Head of pancreas
+	D. Hepatic veins
+	E. Caudate lobe of the liver	
+#### Answer: X. ?
+- ?
+
 Questions 411-420
 -----------------
+
+### Q411
+With regard to the carpal tunnel:
+
+	A. It is a fibro-osseous tunnel containing the extensor tendons
+	B. It contains within it the ulnar nerve and artery
+	C. Entrapment of the median nerve within it is known as cubital tunnel syndrome
+	D. It contains ten tendons within it
+	E. It contains within it the palmar cutaneous branch of the median nerve
+#### Answer: X. ?
+- ?
+
+### Q412
+With regard to the female reproductive system:
+
+	A. The menopause is associated with an increase in follicle stimulating hormone
+	B. Oestrogen concentration peaks just prior to menstruation
+	C. Both oestrogen and progesterone are necessary for ovulation to take place
+	D. Oestrogen production is confined to ovarian tissue
+	E. Fertilization of the human ovum normally takes place in the uterus
+#### Answer: X. ?
+- ?
+
+### Q413
+Aspirin (acetylsalicyclic acid):
+
+	A. Is a lipo-oxygenase inhibitor
+	B. Inhibits the coagulation cascade
+	C. Inhibits platelet aggregation
+	D. Is a reversible cyclo-oxygenase inhibitor
+	E. Works by acetylating an aspartate residue at the active site
+#### Answer: X. ?
+- ?
+
+### Q414
+Cancer of the testis mostly likely metastases to which set of lymph nodes?
+
+	A. Aortic
+	B. Deep inguinal
+	C. Superficial inguinal
+	D. Common iliac
+	E. Internal iliac
+#### Answer: X. ?
+- ?
+
+### Q415
+With regard to the arterial supply of the lower limb:
+
+	A. The femoral artery is a direct continuation of the common iliac artery
+	B. The posterior tibial pulse is posterior to the lateral malleolus at the ankle
+	C. The popliteal pulse is the most superficial structure within the popliteal
+	D. The femoral pulse lies at the mid-point of the inguinal ligament
+	E. The dorsalis pedis pulse is lateral to the extensor hallucis longus tendon
+#### Answer: X. ?
+- ?
+
+### Q416
+With regard to thermoregulation:
+	A. Brown fat (non-shivering thermogenesis) plays a significant role in adults
+	B. Acclimatization of the sweating mechanism occurs in response to heat
+	C. Apocrine sweat glands play an important role in heat loss by evaporation
+	D. Thermoregulation is one of the principal functions of the thalamus
+	E. Heat adaption takes approximately 3-5 days to develop
+
+#### Answer: X. ?
+- ?
+
+### Q417
+Aspirin damages the gastric mucosa through which of the following mechanisms?
+
+	A. Reduced surface mucus secretion
+	B. Increased mucosal blood flow
+	C. Increased surface bicarbonate secretion
+	D. Reduced acid secretion by gastric parietal cells
+	E. Delayed gastric emptying
+#### Answer: X. ?
+- ?
+
+### Q418
+Internal haemorrhoids are painless and only sensitive to stretch. They are formed from folds of the mucous membrane and the submucosa of the anal canal which contain varicose branches of the:
+
+	A. Superior rectal vein
+	B. Inferior rectal vein
+	C. Superior rectal artery
+	D. Middle rectal artery
+	E. Inferior rectal artery
+#### Answer: X. ?
+- ?
+
+### Q419
+With regard to the superficial veins of the extremities:
+
+	A. The cephalic vein lies within the deltopectoral groove
+	B. The long (great) saphenous vein lies behind the medial malleolus at the ankle
+	C. The short (small) saphenous vein enters the femoral vein
+	D. The basilic vein pierces clavipectoral fascia
+	E. The long saphenous vein has no tributaries draining into it
+#### Answer: X. ?
+- ?
+
+### Q420
+With regard to antiemetics
+
+	A. Cyclizine acts on the histaminergic system
+	B. Ondansetron primarily acts on the dopaminergic system
+	C. Prochlorperazine acts on the cholinergic system
+	D. Metoclopramide is the drug of choice for motion sickness
+	E. Metoclopramide is the antiemetic of choice in Parkinson’s disease
+#### Answer: X. ?
+- ?
 
 Questions 421-423
 -----------------
@@ -1853,8 +3198,7 @@ A 'claw hand' is usually associated with injury to which of the following nerves
     B. Musculocutaneous nerve
     C. Radial nerve
     D. Median nerve
-    E. Ulnar nerve
-  
+    E. Ulnar nerve 
 #### Answer: E. Ulnar nerve - ?
 
 ### Q422
@@ -1865,7 +3209,6 @@ With regard to the hand:
     C. The palmar interossei abduct the fingers
     D. It is supplied by a single palmar arterial arch - F
     E. Duyutren's contracture is caused by ischemic contracture of the intrinsic muscles of the hand
-
 #### Answer: E. Duyutren's contracture is caused by ischemic contracture of the intrinsic muscles of the hand - ?
 
 ### Q423
@@ -1876,7 +3219,6 @@ Which of the following agents is a thrombolytic?
     C. Fibrinogen
     D. Strepokinase
     E. Heparin
-
 #### Answer: D. Strepokinase - ?
 
 ===

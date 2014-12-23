@@ -2320,43 +2320,112 @@ Questions 171-180
 -----------------
 
 ### Q171
+With regard to organelles:
 
+A. Smooth endoplasmic reticulum makes polypeptides
+B. Mitochondria perform anaerobic respiration
+C. Mitochondria can multiply independently
+D. Prokaryotic cells have membrane-bound organelles
+E. The Golgi apparatus is involved in the degradation of proteins
 #### Answer: X. ?
 - ?
 
 ### Q172
+Which one of the following cranial nerves carries parasympathetic fibres?
+
+	A. V - Trigeminal Nerve
+	B. IV - Troclear Nerve
+	C. VI - Abducens Nerve
+	D. III - Oculomotor Nerve
+	E. II - Nasolacrimal Nerve
 #### Answer: X. ?
 - ?
 
 ### Q173
+With regard to properties of cardiac muscle:
+
+A. A fused tetanic response can be produced by repetitive stimulation
+B. The cardiac muscle action potential lasts approximately 2–3 ms
+C. Excitation–contraction coupling requires calcium-induced calcium release
+D. The force of contraction is independent of the length of the muscle fibre
+E. The plateau phase of the cardiac action potential is principally due to sodium influx
 #### Answer: X. ?
 - ?
 
 ### Q174
+With regard to fever:
+
+A. It results from the direct action of microorganisms on the brain - F
+B. It depends on the action of prostaglandins within the hypothalamus
+C. It is always maladaptive and serves no purpose - F
+D. It only results from infectious causes - F
+E. The antipyretic action of aspirin results from boosting of the immune response
 #### Answer: X. ?
 - ?
 
 ### Q175
+A patient present with a torn medial collateral ligament of his left knee. Which of the following signs may be elicited on physical examination?
+
+A. Posterior displacement of the tibia
+B. Anterior displacement of the tibia
+C. Abnormal lateral rotation during extension
+D. Abnormal passive abduction of the extended knee
+E. Inability to lock knee on full extension
 #### Answer: X. ?
 - ?
 
 ### Q176
+Which of the following is a technique used to identify specific sequences of DNA?
+
+A. Northern blotting
+B. Southern blotting
+C. Polymerase chain reaction (PCR)
+D. Western blotting
+E. Reverse-transcription PCR
 #### Answer: X. ?
 - ?
 
 ### Q177
+Which one of the following is true concerning the larynx?
+
+A. The posterior crico-arytenoids are the only muscles that separate the vocal
+B. All the intrinsic muscles are supplied by the recurrent laryngeal nerve
+C. The vocal cords are lined by pseudostratified columnar ciliated epithelium (‘respiratory’ epithelium)
+D. The epiglottis is composed largely of hyaline cartilage
+E. The cricoid cartilage and tracheal rings are all complete rings of cartilage
 #### Answer: X. ?
 - ?
 
 ### Q178
+With regard to chemical neurotransmitters:
+
+A. Noradrenaline is the predominant neurotransmitter found between first-and second-order sympathetic neurones
+B. The nerve endings of second-order parasympathetic neurones release acetylcholine that acts on nicotinic cholinergic receptors
+C. The neuromuscular junction releases acetylcholine that acts on muscarinic cholinergic receptors
+D. The nucleus accumbens and substantia nigra are rich in dopamine
+E. The locus coeruleus are periaqueductal grey are rich in acetylcholine
 #### Answer: X. ?
 - ?
 
 ### Q179
+Which of the following is **not** an immunologically privileged site?
+
+	A. Central nervous system (CNS)
+	B. Skin
+	C. Eye
+	D. Uterus
+	E. Testis
 #### Answer: X. ?
 - ?
 
 ### Q180
+Pathogenic bacteria enter the body by various routes, and entry mechanisms are critical for understanding the pathogenesis and transmission of each agent. Which pathogen is correctly linked with its mode of entry
+
+A. Neisseria meningitidis – sexually transmitted entry
+B. Corynebacterium diphtheriae – food-borne entry
+C. Clostridium tetani – inhalation entry
+D. Borrelia burgdorferi – arthropod vector-borne entry
+E. Rickettsia rickettsii – contaminated wound with soil entry
 #### Answer: X. ?
 - ?
 
@@ -2364,42 +2433,112 @@ Questions 181-190
 -----------------
 
 ### Q181
+With regard to gene expression:
+
+A. Translation occurs in the nucleus of eukaryotes
+B. Introns code for proteins
+C. DNA polymerases manufacture DNA in a 3′–5′ direction
+D. RNA polymerase II gives rise to protein encoding mRNA
+E. Codons are formed from groups of three amino acids
 #### Answer: X. ?
 - ?
 
 ### Q182
+Concerning the thyroid gland, which one of the following is correct?
+
+A. Blood supply is through the internal carotid and subclavian arteries - F
+B. Embryologically starts out at the foramen caecum of the tongue
+C. Venous drainage is by way of the external jugular vein - F
+D. Produces thyroid stimulating hormone (TSH) - F
+E. Is attached to the thyroid cartilage by Berry’s ligament
 #### Answer: X. ?
 - ?
 
 ### Q183
+Opioids:
+
+A. Commonly cause diarrhoea - F
+B. Act only centrally
+C. Mediate most of their beneficial effects and side-effects through ς-receptors
+D. Lead to tolerance
+E. Can be reversed by flumazenil
 #### Answer: X. ?
 - ?
 
 ### Q184
+Type I hypersensitivity
+
+A. Is caused by antigen reacting with IgM antibodies
+B. Results in mast-cell degranulation
+C. Is characterized by the Arthus reaction
+D. Takes 48–72 hours to develop
+E. Is caused by the formation of antibody–antigen complexes
 #### Answer: X. ?
 - ?
 
 ### Q185
+Which one of the following statements concerning referred pain is true?
+
+A. Pain from the transverse colon is usually ferred to the midline area below the umbilicus
+B. Somatic pain is usually referred in a diffuse, poorly localized pattern
+C. The mechanism of referred pain is well understood - F
+D. Diaphragmatic pain is usually referred to the inguinal area - F
+E. Pain from an inflamed appendix is referred to the medial thigh - F
 #### Answer: X. ?
 - ?
 
 ### Q186
+With regard to cell division:
+
+A. Transfer of genetic information between homologous chromosomes occurs in metaphase I of meiosis
+B. Mitosis always produces genetically identical daughter cells
+C. It is controlled externally by cyclins
+D. Cyclins are activated by dephosphorylation
+E. p53 is an oncogene - F
 #### Answer: X. ?
 - ?
 
 ### Q187
+With regard to the tongue:
+
+A. All muscles of the tongue are innervated via the hypoglossal nerve
+B. Special taste sensation on the anterior two-thirds of the tongue is through the mandibular division of the trigeminal nerve
+C. It is composed of smooth musculature
+D. Genioglossus muscle protrudes the tongue
+E. Its epithelium is of the glandular columnar variety
 #### Answer: X. ?
 - ?
 
 ### Q188
+With regard to the relationship of the electrocardiogram to the cardiac cycle:
+
+A. The P-wave results from atrial repolarization - F
+B. The QRS complex is due to ventricular repolarization - F
+C. The Q-T interval gives a rough indication of the duration of ventricular systole
+D. The first heart sound occurs at the same time as the P-wave
+E. The second heart sound occurs at the same time as the QRS complex
 #### Answer: X. ?
 - ?
 
 ### Q189
+Type III hypersensitivity:
+
+A. Is mediated by specifically sensitized T-lymphocytes
+B. May cause allergic rhinitis
+C. Is a feature of nickel sensitivity
+D. May occur in systemic lupus erythematosus
+E. Is cell-mediated
 #### Answer: X. ?
 - ?
 
 ### Q190
+Which one of the following proteins binds to penicillin?
+
+A. Alanine racemase
+B. 30S ribosomes
+C. Porin
+D. Transpeptidase
+E. Peptidoglycan
 #### Answer: X. ?
 - ?
 
@@ -2407,6 +2546,9 @@ Questions 191-200
 -----------------
 
 ### Q191
+With regard to DNA:
+
+
 #### Answer: X. ?
 - ?
 

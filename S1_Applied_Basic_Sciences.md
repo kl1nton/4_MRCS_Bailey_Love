@@ -1981,42 +1981,112 @@ Questions 141-150
 -----------------
 
 ### Q141
+Which one of the following diuretics acts mainly on the distal convoluted tubule (DCT) to decrease water reabsorption?
+
+	A. Furosemide
+	B. Acetazolamide
+	C. Bendroflumethiazide
+	D. Metolazone
+	E. Vasopressin - F
 #### Answer: X. ?
 - ?
 
 ### Q142
+With regard to diaphragmatic development:
+
+	A. Is formed by the fusion of two separate elements
+	B. Develops in the thoracic region
+	C. The left pleuroperitoneal canal is larger and closes later than the right
+	D. The central tendon arises from the pleuroperitoneal membranes
+	E. The septum transversum migrates cranially (rostrally) in development
 #### Answer: X. ?
 - ?
 
 ### Q143
+With regard to cerebrospinal fluid (CSF) composition:
+
+	A. CSF is produced through a passive process
+	B. The composition of CSF is identical to that of plasma
+	C. The protein content of CSF is 0.5 per cent that of plasma
+	D. The potassium content of CSF is higher than that of plasma
+	E. The pH of CSF is heavily buffered - F
 #### Answer: X. ?
 - ?
 
 ### Q144
+With regard to IgM antibodies:
+
+	A. They cross the placenta
+	B. They are characteristically produced in a ondary immune response
+	C. They can activate complement
+	D. They are usually found lining mucosal surfaces
+	E. They are usually monomeric
 #### Answer: X. ?
 - ?
 
 ### Q145
+Epinephrine is an endogenous catecholamine. Its effects include which of the following?
+
+	A. Decreased glucagon secretion by pancreatic alpha cells
+	B. An effect mainly on alpha-adrenoceptors
+	C. Increased glycogen synthesis in liver
+	D. Increased glycogen synthesis in muscles
+	E. Increased lipolysis
 #### Answer: X. ?
 - ?
 
 ### Q146
+Which antibiotic acts by inhibiting protein synthesis?
+
+	A. Penicillin
+	B. Erythromycin
+	C. Cefuroxime
+	D. Trimethoprim
+	E. Co-trimoxazole
 #### Answer: X. ?
 - ?
 
 ### Q147
+With regard to craniofacial development:
+
+	A. The human face forms from the fusion of four swellings
+	B. Alcohol is the most common cause of holoprosencephaly
+	C. The palate forms from the medial extensions of the mandibular swellings
+	D. Craniofacial abnormalities account for 5 per cent of al human congenital defects
+	E. The nasolacrimal groove forms between the medial and lateral nasal processes
 #### Answer: X. ?
 - ?
 
 ### Q148
+The speed of nerve conduction *decreases* with:
+
+	A. Increasing axonal diameter
+	B. Increasing membrane capacitance
+	C. Decreasing axonal resistance
+	D. Myelination by Schwann cells
+	E. Increasing temperature
 #### Answer: X. ?
 - ?
 
 ### Q149
+The human Major Histocompatibility Complex (MHC):
+
+	A. Resides on chromosome 11
+	B. Is composed of six human leukocyte antigen (HLA) genes
+	C. Codes for three classes of antigens
+	D. Will be identical in dizygotic twins
+	E. Codes for blood group antigens
 #### Answer: X. ?
 - ?
 
 ### Q150
+Which one of the following statements regarding von Willebrand's disease is true?
+
+	A. It commonly exhibits an autosomal dominant pattern of inheritance
+	B. It presents with reduced bleeding times
+	C. It always has associated reduced factor VIII levels
+	D. It is associated with reduced or abnormal platelets
+	E. It is X-linked recessive
 #### Answer: X. ?
 - ?
 
@@ -2024,42 +2094,112 @@ Questions 151-160
 -----------------
 
 ### Q151
+Which one of the following lipid-lowering agents acts by inhibiting HMG CoA reductase?
+
+	A. Nicotinic acid
+	B. Bezafibrate
+	C. Colestyramine
+	D. Simvastatin
+	E. Omega-3 fatty acids
 #### Answer: X. ?
 - ?
 
 ### Q152
-#### Answer: X. ?
+With regard to intestinal development:
+
+	A. The gut is a mesodermal derivative
+	B. The whole of the foregut apart from the stomach undergoes rotation - F
+	C. The stomach is a midgut derivative - F
+	D. Rupture of the cloacal membrane creates the mouth
+	E. Midgut development involves herniation of bowel into the umbilicus - T
+#### Answer: E. Midgut development involves herniation of bowel into the umbilicus - ?
 - ?
 
 ### Q153
+With regard to skeletal muscle fibres?
+
+	A. They are each normally innervated by more than one motor neurone
+	B. They become less excitable as the extracellular ionized calcium levels fall
+	C. Calcium is taken up by the sarcotubular system when they contract
+	D. Actin and myosin filaments shorten when they contract
+	E. They contain intracellular stores of calcium ions
 #### Answer: X. ?
 - ?
 
 ### Q154
+With regard to the Major Histocompatibility Complex (MHC):
+
+	A. CD4 (helper) T-cells recognize antigen only in the context of MHC Class I
+	B. Class II MHC is expressed on all nucleated cells of the body
+	C. Class II MHC contains β -microglobulin
+	D. Class II MHC presents exogenous antigens
+	E. Class II MHC is expressed in low levels on the surface of dendritic cells
 #### Answer: X. ?
 - ?
 
 ### Q155
+In acute inflammation, which is the predominant cell type involved?
+
+	A. Basophil
+	B. Eosinophil
+	C. Lymphocyte
+	D. Monocyte
+	E. Neutrophil
 #### Answer: X. ?
 - ?
 
 ### Q156
+Which antiarrhythmic drug acts by inhibiting potassium channels?
+
+	A. Lignocaine
+	B. Atenolol
+	C. Amiodarone
+	D. Verapamil
+	E. Diltiazem
 #### Answer: X. ?
 - ?
 
 ### Q157
+With regard to the branchial arches:
+
+	A. Apart from the first cleft, the other branchial clefts are normally obliterated
+	B. Six pairs of branchial arches develop in humans
+	C. The muscles of facial expression are first-arch derivatives
+	D. All parathyroid glands originate from the same branchial arch - F
+	E. The tongue principally develops from the second branchial arch
 #### Answer: X. ?
 - ?
 
 ### Q158
+With regard to nerve fibres:
+
+	A. Impulses can travel in one direction only
+	B. They continue to conduct impulses when extracellular sodium is replaced by potassium
+	C. An action potential has an amplitude varying directly with the strength of the stimulus
+	D. The equilibrium potential for an ion species depends on the ratio of the concentrations of the ion outside to inside of the cell
+	E. Resting nerve cell membranes are more permeable to Na+ ions than to K+ ions
 #### Answer: X. ?
 - ?
 
 ### Q159
+The classic pathway of complement activation:
+
+	A. Starts with the activation of the C3 component
+	B. Is activated by lipopolysaccharide cell-wall constituents
+	C. Is activated by IgA immune complexes
+	D. Is activated by IgM immune complexes
+	E. Is evolutionarily older than the alternative pathway
 #### Answer: X. ?
 - ?
 
 ### Q160
+The plateau stage of the *cardiac action potential* is caused by which one of the following mechanisms?
+
+	A. Ingress of calcium ions
+	B. Ingress of potassium ions
+	C. Efflux of potassium ions
+	D. Ingress of sodium ions
+	E. Efflux of sodium ions
 #### Answer: X. ?
 - ?
 
@@ -2067,6 +2207,7 @@ Questions 161-170
 -----------------
 
 ### Q161
+
 #### Answer: X. ?
 - ?
 

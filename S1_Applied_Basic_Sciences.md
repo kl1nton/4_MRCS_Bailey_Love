@@ -2529,42 +2529,119 @@ Questions 301-310
 -----------------
 
 ### Q301
+In a certain trial, the mean +/- standard error is 0.5 +/- 0.2, with a p-value under 0.005. This implies that:
+
+	A. Ninety-five per cent of the values lie between 0.1 and 0.9
+	B. This difference would have arisen by chance alone less than one time in 200
+	C. This difference would have arisen by chance alone less than one time in 20,000
+	D. One can be 95 per cent confident that the true population mean lies somewhere within the interval 0.3–0.7
+	E. There is a 2.5 per cent chance that the true population mean lies outside the range 0.1–0.9
 #### Answer: X. ?
 - ?
 
 ### Q302
+With regard to the inguinal canal:
+
+	A. The superficial inguinal ring is a hole in transversalis fascia
+	B. The canal runs from the anterior superior iliac spine to the pubic tubercle
+	C. The conjoint tendon is formed by fusion of external and internal oblique muscles
+	D. The posterior wall of the canal is bounded by transversalis fascia and the conjoint tendon medially
+	E. A direct inguinal hernia passes through both the deep and superficial inguinal
 #### Answer: X. ?
 - ?
 
 ### Q303
+With regard to the juxtaglomerular apparatus:
+
+	A. The macula densa is a specialized region of the afferent arteriole
+	B. Renin is secreted at the macula densa
+	C. Renin is secreted in response to a raised sodium at the macula densa
+	D. A fall in pressure in the afferent arteriole promotes renin secretion
+	E. The juxtaglomerular (granular) cells are located in the wall of the distal convoluted tubule
 #### Answer: X. ?
 - ?
 
 ### Q304
+Which of the following malignant neoplasms rarely metastasises to distant sizes:
+
+	A. Bronchial carcinoma
+	B. Breast carcinoma
+	C. Astrocytomas
+	D. Renal-cell carcinomas
+	E. Melanoma
 #### Answer: X. ?
 - ?
 
 ### Q305
+A 56-year-old man presents with a productive cough and weight loss. Chest x-ray demonstrates a large hilar mass. Sputum cytology shows oval cells with hyperchromatism, paucity of cytoplasm and inconspicuous nuclei. These malignant cells are most likely associated with:
+
+	A. Clara cells
+	B. Metaplastic bronchial epithelial cells
+	C. Neuroendocrine cells
+	D. Type I alveolar pneumocytes
+	E. Type 2 alveolar pneumocytes
 #### Answer: X. ?
 - ?
 
 ### Q306
+The following tables shows the results for a screening test for pancreatic cancer in 100 people:
+
+				| Disease POSITIVE 	| Disease Negative 	|
+----------------|------------------:|------------------:|
+Test POSITIVE	| 4					| 5					|
+Test Negative	| 1					| 90				|	
+	
+Which of the following is true:
+
+	A. The positive predictive value is 0.95
+	B. The sensitivity is 0.95
+	C. The specificity is 0.8
+	D. The negative predicitve value is 0.99
+	E. The sensitivity and specificity depdns on the disease prevalence
 #### Answer: X. ?
 - ?
 
 ### Q307
+With regard to the epiploic foramen (of winslow), which of the following is true?
+
+	A. The posterior wall is formed from the lesser omentum
+	B. The portal vein lies in its posterior wall
+	C. Superiorly lies the quadrate love of the liver
+	D. The common bile duct (CBD) sits in the free edge of the greater omentum anteriorly
+	E. It forms the entrance to the lesser sac
 #### Answer: X. ?
 - ?
 
 ### Q308
+With regard to antidiuretic hormone (arginine vasopressin; ADH):
+
+	A. It increases in response to a loss of circulating volume of at least 10 per cent
+	B. It is secreted by the pars distalis (adenohypophysis)
+	C. Increased secretion occurs in response to hypo-osmolar blood
+	D. It causes water reabsorption from the Loop of Henle
+	E. Insufficiency results in diabetes mellitus
 #### Answer: X. ?
 - ?
 
 ### Q309
+Sarcomas:
+
+	A. Are derived from epithelium
+	B. Are more common than carcinomas
+	C. Have a peak incidence in those less than 50 years of age
+	D. Metastasize more commonly by lymphatic than haematogenous routes
+	E. Have a long in-situ phase
 #### Answer: X. ?
 - ?
 
 ### Q310
+One sensitive indicator of heavy alcohol dependence is:
+
+	A. Decreased mean cell volume (MCV)
+	B. Decreased serum alkaline phosphatase
+	C. Elevated serum creatinine
+	D. Elevated serum gamma-glutamyl transpeptidase (GGT)
+	E. Elevated serum indirect bilirubin
 #### Answer: X. ?
 - ?
 
@@ -2572,42 +2649,112 @@ Questions 311-320
 -----------------
 
 ### Q311
+Which of the following are features of small bowel?
+
+	A. Valvulae conniventes
+	B. Haustra
+	C. Sacculations
+	D. Appendices epiploicae
+	E. Taeniae coli
 #### Answer: X. ?
 - ?
 
 ### Q312
+With regard to acid-base balance:
+
+	A. The normal pH of arterial blood is 7.85–7.95 - F
+	B. The pH of the blood fluctuates widely
+	C. The kidneys respond most rapidly to a change in pH - F
+	D. The kidney is able to generate new bicarbonate from glutamine
+	E. The renal tubule reabsorbs hydrogen ions and actively excretes bicarbonate
 #### Answer: X. ?
 - ?
 
 ### Q313
+Which is true of tumor kinetics?
+
+	A. The smallest clinically detectable tumour is 1000 cells
+	B. Tumour growth obeys Gompertzian kinetics
+	C. In most tumours, the growth fraction is greater than 90 per cent
+	D. Tumour growth is characterized by contact inhibition
+	E. The clinical phase of tumour growth is long in comparison to the preclinical phase
 #### Answer: X. ?
 - ?
 
 ### Q314
+The activity of what structure in the pons is suppressed by opiates, clonidine and GABA, and produces the most noradrenergic inout to the brain?
+
+	A. Substantia nigra
+	B. Nucleus solitarius
+	C. Nucleus pulposus
+	D. Mammiliary bodies
+	E. Locus coeruleus
 #### Answer: X. ?
 - ?
 
 ### Q315
+With regard to the gall bladder:
+
+	A. Epithelium is stratified squamous
+	B. It has a normal capacity of around 10 mL - F
+	C. It is supplied by the cystic artery, a branch of the left hepatic artery
+	D. It is stimulated to contract by cholecystokinin
+	E. It is essential for life - F
 #### Answer: X. ?
 - ?
 
 ### Q316
+With regard to renal blood flow
+
+	A. The kidneys receive 5 per cent of the cardiac output
+	B. Angiotensin II vasoconstricts the afferent more than the efferent arteriole
+	C. It can be accurately measured by the use of inulin
+	D. The low blood flow in the vasa recta assists in the formation of concentrated urine
+	E. A fall in arterial blood pressure decreases glomerular filtration rate (GFR)
 #### Answer: X. ?
 - ?
 
 ### Q317
+With regard to angiogenesis:
+
+	A. It is the process of programmed cell death
+	B. It is highly dependent on vascular endothelial growth factor (VEGF)
+	C. It is impaired when tumours grow larger than 1 mm^3
+	D. It is always pathological
+	E. Granulation tissue is rich in cytokines that inhibit angiogenesis
 #### Answer: X. ?
 - ?
 
 ### Q318
+Serum electrolytes reveal: sodium 150 mEq and potassium 5.2 mEq/L. The most likely diagnosis is:
+
+	A. Alzheimer’s disease
+	B. Delirium
+	C. Pick’s disease
+	D. Secondary dementia
+	E. Seizure disorder
 #### Answer: X. ?
 - ?
 
 ### Q319
+With regard to gall bladder disease:
+
+	A. Courvoisier’s law states that in the presence of obstructive jaundice an impalpable gall bladder is always due to gallstones
+	B. It may refer pain to the right shoulder tip
+	C. The surface marking of the gall bladder is the right sixth intercostal space, mid-clavicular line
+	D. Gallstones are usually composed of calcium carbonate
+	E. Gallstones always cause symptoms
 #### Answer: X. ?
 - ?
 
 ### Q320
+With regard to glomerular filtration:
+
+	A. The GFR is the main factor determining the rate of urine production
+	B. GFR can be measured by para-aminohippuric acid (PAH)
+	C. The normal GFR is 50mL/min
+	D. The glomerular filtration barrier comprises three layers
+	E. A normal plasma creatinine implies normal renal function
 #### Answer: X. ?
 - ?
 
@@ -2615,42 +2762,112 @@ Questions 321-330
 -----------------
 
 ### Q321
+An increased frequency of tumours caused by occupational carciogen exposure has been proven in the following groups, EXCEPT:
+
+	A. Transitional cell carcinoma bladder in dye workers
+	B. Scrotal carcinoma in chimney sweeps
+	C. Mesothelioma with asbestos exposure
+	D. Hepatocellular carcinoma with polyvinyl chloride exposure
+	E. Malignant melanoma with sunlight exposure
 #### Answer: X. ?
 - ?
 
 ### Q322
+Which of the following decreases insulin resistance:
+
+	A. Cortisol
+	B. Exercise
+	C. Obesity
+	D. Pregnancy
+	E. Growth hormonw (GH)
 #### Answer: X. ?
 - ?
 
 ### Q323
+With regard to the liver:
+
+	A. It is completely surrounded by peritoneum
+	B. The ligametum venosum is a remnant of the umbilical vein
+	C. It receives oxygen from the hepatic artery only
+	D. It is surrounded by Gerota's fascia
+	E. The right subhepatic space or hepatorenal pouch (of Rutherford-Morrision) is the most dependent part of the peritoneal cavity
 #### Answer: X. ?
 - ?
 
 ### Q324
+With regard to tubular function:
+
+	A. Fifty per cent of the filtered sodium is reabsorbed in the distal convoluted tubule
+	B. Most glucose is reabsorbed in the Loop of Henle
+	C. The ascending limb of the Loop of Henle is permeable to water
+	D. Drinking seawater is better than drinking nothing at all if lost at sea
+	E. The maximum concentrating ability of the human kidney is 1200mOsm/L
 #### Answer: X. ?
 - ?
 
 ### Q325
+For which one of the foloowing tumours is there an association with Epstein-Barr virus (infection):
+
+	A. Bronchial carcinoma
+	B. Cervical carcinoma
+	C. Burkitt’s lymphoma
+	D. Hepatocellular carcinoma
+	E. Kaposi’s sarcoma
 #### Answer: X. ?
 - ?
 
 ### Q326
+Which of the following is the most common thyroid neoplasm in the UK?
+
+	A. Medullary thyroid cancer
+	B. Lymphoma
+	C. Papillary thyroid cancer
+	D. Follicular cancer
+	E. Metastases
 #### Answer: X. ?
 - ?
 
 ### Q327
+With regard to portosystemic anastomoes:
+
+	A. They occur at sites at which arterial blood meets venous blood
+	B. They feature at the lower end of the oesophagus
+	C. They become highly significant in renal failure
+	D. They are most clinically significant at the lower end of the anal canal
+	E. They feature at the splenic hilum
 #### Answer: X. ?
 - ?
 
 ### Q328
+With regard to saliva:
+
+	A. Secretion is equivalent to 200 mL/day
+	B. Secretion from the parotid gland is mainly mucinous
+	C. It contains the trypsin enzyme
+	D. It is richer in potassium than any other gastrointestinal secretion
+	E. Secretion is a passive process
 #### Answer: X. ?
 - ?
 
 ### Q329
+With regard to oncogenes:
+
+	A. They behave in a dominant fashion
+	B. They encode proteins that negatively regulate growth
+	C. BRCA1 is an oncogene implicated in breast carcinoma
+	D. Transcription of oncogenes is dysregulated in normal cells
+	E. Oncogenes are present only in tumour cells
 #### Answer: X. ?
 - ?
 
 ### Q330
+The neurotransmitter released from the cerebellar Pukinke cells is:
+
+	A. Glutamate
+	B. GABA
+	C. Acetylcholine
+	D. Glycine
+	E. Serotonin
 #### Answer: X. ?
 - ?
 
@@ -2658,42 +2875,112 @@ Questions 331-340
 -----------------
 
 ### Q331
+With regard to the spleen:
+
+	A. It lies under cover of ribs 9–11 on the right
+	B. It is the major site of erythropoietin secretion
+	C. It is normally the site of haematopoiesis in adults
+	D. Accessory spleens are rare
+	E. Splenectomized patients are at high risk of post-splenectomy sepsis
 #### Answer: X. ?
 - ?
 
 ### Q332
+Which of the following cells secretes intrinsic factor?
+
+	A. Goblet cells
+	B. Kupffer cells
+	C. Peptic cells
+	D. Chief cells
+	E. Parietal cells
 #### Answer: X. ?
 - ?
 
 ### Q333
+With regard to tumor suppressor genes
+
+	A. They encode proteins that positively regulate growth
+	B. They behave in a dominant fashion
+	C. Gain-of-function of tumour suppressor genes results in neoplastic growth
+	D. p53 and Rb-1 are tumour suppressor genes
+	E. p53 normally functions as an anti-apoptotic factor
 #### Answer: X. ?
 - ?
 
 ### Q334
+Which one of the following muscles is innervated by the facial nerve?
+
+	A. Temporalis
+	B. Anterior belly of Digastric
+	C. Buccinator
+	D. Masseter
+	E. Lateral pterygoid
 #### Answer: X. ?
 - ?
 
 ### Q335
+With regard to the transpyloric plane (of Addison):
+
+	A. It is half way between the suprasternal notch and umbilicus
+	B. It lies at the level of T12
+	C. It lies at the origin of the inferior mesenteric artery
+	D. It lies level with the hilum of the kidneys
+	E. It is the point at which the aorta bifurcates
 #### Answer: X. ?
 - ?
 
 ### Q336
+With regard to gastric acid secretion:
+
+	A. It is inhibited by gastrin
+	B. It is potentiated by histamine
+	C. It commences only when food enters the stomach
+	D. It is stimulated by the glossopharyngeal nerve
+	E. It is stimulated by somatostatin secretion
 #### Answer: X. ?
 - ?
 
 ### Q337
+Retinoblastoma:
+
+	A. Is inherited as an autosomal recessive condition
+	B. Is due to a defective gene located on chromosome 5
+	C. Is familial in 90% of cases
+	D. In its inherited form, carries minial risk of extraretinal malignancies
+	E. Results from loss of heterozygosity of the normal Rb gene
 #### Answer: X. ?
 - ?
 
 ### Q338
+From which branchial (pharyngeal) pouch does the inferior parathyroid gland arise?
+
+	A. First
+	B. Second
+	C. Third
+	D. Fourth
+	E. Fifth
 #### Answer: X. ?
 - ?
 
 ### Q339
+With regard to the adrenal gland (suprarenal gland):
+
+	A. The suprarenal vein on each side drains into the corresponding renal vein
+	B. The adrenal gland is situated within the same fascial compartment as the kidney
+	C. The zona glomerulosa forms the innermost layer of the adrenal cortex
+	D. The anterior surface of the right adrenal gland is overlapped by the inferior vena cava
+	E. The adrenal medulla is derived from embryonic mesoderm
 #### Answer: X. ?
 - ?
 
 ### Q340
+Which one of the following is true of gastrin?
+
+	A. It is secreted in the body of the stomach
+	B. It is stimulated by low pH
+	C. It stimulates gastric acid production
+	D. It inhibits gastric motility
+	E. Decreased secretion results in the Zollinger–Ellison syndrome
 #### Answer: X. ?
 - ?
 
@@ -2701,42 +2988,113 @@ Questions 341-350
 -----------------
 
 ### Q341
+Lung carcinoma:
+
+	A. Is the third most common cause of death from neoplasia in the UK
+	B. Has rarely metastasized at the time of presentation
+	C. May produce paraneoplastic syndromes
+	D. Is most commonly due to small-cell (oat-cell) carcinoma
+	E. Is most commonly caused by asbestos exposure
+
 #### Answer: X. ?
 - ?
 
 ### Q342
+Prokaryotes differ from eukaryotes in that prokaryotes have:
+
+	A. Peptidoglycan
+	B. Sterols in their membranes
+	C. 2 to 6 chromosomes
+	D. An endoplasmic reticiulum
+	E. Larger 80S ribosomes
 #### Answer: X. ?
 - ?
 
 ### Q343
-#### Answer: X. ?
+With regard to the veriform appendix:
+
+	A. It is most often situated in a pelvic positon - F
+	B. It receives blood via the right colic branch of the superior mesenteric artery - F
+	C. It lies at McBurney's point (half way between the anterior superior iliac spine and umbilicus) - F
+	D. It is unimportant in humans - T
+	E. It is a retroperitoneal structure - F
+#### Answer: D. It is unimportant in humans - ?
 - ?
 
 ### Q344
+With regard to the exocrine pancreas:
+
+	A. It secretes digestive jucies from a pH of 4-5 - F
+	B. It develops from a single ventral pancreatic bud - F
+	C. Secretion is inhibited by cholcystokinin - ?
+	D. The main stimulation for secretion occurs during the intestinal phase - ?
+	E. It ptoduces secretin - ?
 #### Answer: X. ?
 - ?
 
 ### Q345
+Which one of the following is the commonest intracerebral neoplasm:
+
+	A. Astrocytoma
+	B. Oligodendroglioma
+	C. Meningioma
+	D. Neuronal tumour
+	E. Secondary carcinoma
 #### Answer: X. ?
 - ?
 
 ### Q346
-#### Answer: X. ?
+A 67-year-old male undergoes an elective right colectomy for adenocarcinoma of the caecum. If distant non-nodal metastases are discovered with organ woudl be affected first
+
+	A. Brain
+	B. Lung
+	C. Adrenal
+	D. Liver - T
+	E. Bone
+#### Answer: D. Liver - ?
 - ?
 
 ### Q347
+With regard to acute appendicitis:
+
+	A. It is common at the extremes of age - F
+	B. It may result in thrombosis of the appendicular artery (endarteritis obliterans)
+	C. It often resolves with conservative management such as antibiotics
+	D. If untreated it is rarely life-threatening - F
+	E. Classically it refers pain to the epigastric region - F
+	
 #### Answer: X. ?
 - ?
 
 ### Q348
+Which one of the following is true of pancreatic enzymes:
+	A. Trypsin is a powerful activator of other pancreatic proteolytic enzymes
+	B. The pancreas secretes enterokinase (enteropeptidase)
+	C. Chymotrypsinogen activates trypsinogen to trypsin
+	D. The pancreas secretes proteases in their activated form
+	E. The pancreas normally contains a trypsin activator
 #### Answer: X. ?
 - ?
 
 ### Q349
+Which one of the following is the commonest malignant tumour of bone?
+
+	A. Chondroblastoma
+	B. Giant-cell tumour
+	C. Osteosarcoma
+	D. Chondrosarcoma
+	E. Secondary sarcoma
 #### Answer: X. ?
 - ?
 
 ### Q350
+A research assistant is studying the production of an anthrax vaccine. He mist destroy all vegetative cells and spores of *Bacillus anthracis* that have contaminated the pipette. What agent should he use?
+
+	A. Boiling
+	B. Ethanol alcohol
+	C. Oxidising agents
+	D. Autoclaving
+	E. Anionic detergents
 #### Answer: X. ?
 - ?
 

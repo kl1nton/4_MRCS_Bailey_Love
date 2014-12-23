@@ -1755,42 +1755,112 @@ Questions 121-130
 -----------------
 
 ### Q121
+Which one of the following is the most potent inhibitor of gastric acid secretion?
+
+	A. Chlorphenamine
+	B. Misoprostol
+	C. Ranitidine
+	D. Omeprazole
+	E. Gaviscon®
 #### Answer: X. ?
 - ?
 
 ### Q122
+The following changes occur at birth:
+
+	A. The left umbilical vein becomes the ligamentum venosum
+	B. The urachus becomes the medial umbilical ligament
+	C. The ligamentum arteriosum is a remnant of the umbilical arteries
+	D. The foramen ovale closes in all cases at birth - F
+	E. The vitellointestinal duct may persist as a Meckel’s diverticulum
 #### Answer: X. ?
 - ?
 
 ### Q123
+With regard to phototransduction:
+
+	A. Photoreceptors depolarize in response to light exposure
+	B. It is a vitamin D-dependent process
+	C. Upon exposure to light, cGMP levels thin the photoreceptor fall
+	D. Opening of cGMP-gated cation channels occurs in response to light
+	E. Light photons are absorbed by transducin
 #### Answer: X. ?
 - ?
 
 ### Q124
+Which of the following is a feature of the adaptive (*acquired*) immune response?
+
+	A. Acute inflammation
+	B. Secretion of tears
+	C. Natural killer cells
+	D. Surface epithelia
+	E. Self/non-self discrimination
 #### Answer: X. ?
 - ?
 
 ### Q125
+With regard to the thyroid gland, which of the following is true?
+
+	A. Tri-iodothyronine is the principal hormone of the gland
+	B. Calcitonin is produced by follicular cells
+	C. Organification involves the binding of tetra-iodothyronine to amino acids
+	D. It is stimulated to produce thyroxine (T4) by TRH
+	E. Thyroglobulin is stored in the colloid of follicles
 #### Answer: X. ?
 - ?
 
 ### Q126
+Which one of the following is depolarising neuromuscular blocker?
+
+	A. Atracurium
+	B. Atropine
+	C. Guanethidine
+	D. Suxamethonium
+	E. Neostigmine
 #### Answer: X. ?
 - ?
 
 ### Q127
+With regard to genital development:
+
+	A. The mesonephric (Wolffian) ducts differentiate into the female genitalia
+	B. Female development is hormonally regulated through the actions of anti-Mullerian hormone and testosterone
+	C. Gender is principally determined by the presence or absence of two X chromosomes
+	D. Anti-Mullerian hormone is secreted by Leydig cells
+	E. The testes and ovaries descend from their original position at the 10th thoracic level
 #### Answer: X. ?
 - ?
 
 ### Q128
+With regard to the visual field pathways:
+
+	A. The axons contained within the optic nerve are derived from photoreceptors
+	B. The optic tracts synapse in the medial geniculate nucleus of the thalamus
+	C. Decussation is complete at the optic chiasm
+	D. The macula region is grossly over-represented in the visual cortex
+	E. Compression at the optic chiasm results in a homonymous hemianopia
 #### Answer: X. ?
 - ?
 
 ### Q129
+With regard to neutrophils (*polymorphonuclear leucocytes*):
+
+	A. They are the predominant cell type in chronic inflammation
+	B. They have bilobed nuclei
+	C. They have a life-span of only a few hours in inflamed tissue
+	D. They may fuse to form multinucleate giant cells
+	E. They carry out oxygen-dependent microbial killing by lysomal enzymes
 #### Answer: X. ?
 - ?
 
 ### Q130
+Which one of the following regarding *myoglobin in skeletal muscle* is correct?
+
+	A. It binds and stores oxygen for rapid release during falling PaO2
+	B. It contains a magnesium cofactor
+	C. It releases oxygen at high PaO2
+	D. It exhibits co-operative binding with O2 (*sigmoid dissociation curve*)
+	E. It is devoid of iron
 #### Answer: X. ?
 - ?
 
@@ -1798,43 +1868,113 @@ Questions 131-140
 -----------------
 
 ### Q131
-#### Answer: X. ?
+The following are classes of anti-hypertensive agents, EXCEPT:
+
+	A. ACE inhibitors (ACEi) - T
+	B. Beta-blockers - T
+	C. Alpha-blockers - F
+	D. Anhiontensin II receptor antagonists (blockers; ARB) - T
+	E. Calcium-channel agonists (CCA) - T 
+#### Answer: C. Alpha-blockers - ?
 - ?
 
 ### Q132
-#### Answer: X. ?
+With regard to development of the limbs:
+
+	A. Occurs in the second trimester of pregnancy
+	B. Shaping of the hands and feet is brought about through apoptosis - T
+	C. Is independent of the apical ectodermal ridge - ?
+	D. Thalidomide most commonly causes clinodactyly - F
+	E. Under some circumstances limb regeneration occurs to a small degree in adult humans following amputation
+#### Answer: B. Shaping of the hands and feet is brought about through apoptosis - ?
 - ?
 
 ### Q133
-#### Answer: X. ?
+With regard to the organisation of the cerebral cortex:
+
+	A. The right cerebral hemisphere is normally dominant - F
+	B. The primary visual cortex is located within Brodmann area 17
+	C. The primary auditory cortex is located within Broca’s area - F
+	D. The primary motor cortex is located within the post-central gyrus - F
+	E. The primary somatosensory cortex is located within the pre-central gyrus - F
+#### Answer: B. The primary visual cortex is located within Brodmann area 17 - ?
 - ?
 
 ### Q134
+The germinal centre of a lymph node:
+
+	A. Containts mainly T-lymphocytes
+	B. Contains Langerhans dendritic cells
+	C. Generates immunoglobulin-producing plasma cells
+	D. Is characteristically enlarged in established infectious mononucleosis
+	E. Contains the cords and sinuses
 #### Answer: X. ?
 - ?
 
 ### Q135
-#### Answer: X. ?
+All eukaryotic cells have membrane-bound organelles. Which one of the following organelles is self-replicating?
+
+	A. Golgi body
+	B. Ribosome - T
+	C. Rough endoplasmic reticulum
+	D. Mitochondria
+	E. Lysosome
+#### Answer: B. Ribosome - ?
 - ?
 
 ### Q136
+With regard to antidiabetic agents, which drug stimulates release of insulin from the pancreas?
+
+	A. Actrapid - F
+	B. Gliclazide
+	C. Metformin
+	D. Rosiglitazone
+	E. Acarbose
 #### Answer: X. ?
 - ?
 
 ### Q137
+With regard to development of the kidney:
+
+	A. It is derived from endoderm
+	B. The transcription factor WT-1 is necessary for the competence of the mesenchyme
+	C. There are two phases of kidney development
+	D. The kidneys descend during development to their final site - F
+	E. The metanephric blastema gives rise to the collecting ducts
 #### Answer: X. ?
 - ?
 
 ### Q138
-#### Answer: X. ?
+With regard to cerebrospinal fluid (CSF):
+
+	A. It is produced by arachnoid granulations
+	B. It is produced at a rate of 30 mL/min - F
+	C. It is situated within the subdural space - F
+	D. It flows between the lateral ventricles and third ventricle via the Foramen of Magendie - F
+	E. It turns over approximately 4–5 times daily - F
+#### Answer: A. It is produced by arachnoid granulations - ?
 - ?
 
 ### Q139
+With regard to antibodies (*immunoglobulins*):
+
+	A. They are produced by mast cells
+	B. The antigen binding region is located in the constant region
+	C. Antibody class is defined by the structure of the light chain
+	D. Diversity is partly achieve through somatic hypermutation
+	E. They are composed of one heavy chain and two light chains
 #### Answer: X. ?
 - ?
 
 ### Q140
-#### Answer: X. ?
+A patient is diagnosed as having iron deficiency anaemia. Which of the following is the peripheral blood film likely to show?
+
+	A. Macrocytic anaemia - F (B12 and Folate)
+	B. Microcytic anaemia - T
+	C. Ring sideroblasts - F
+	D. Sickle-shaped cells - F
+	E. Howell-Jolly bodies - F
+#### Answer: B. Microcytic anaemia - ?
 - ?
 
 Questions 141-150

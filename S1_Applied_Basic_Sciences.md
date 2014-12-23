@@ -3102,42 +3102,113 @@ Questions 351-360
 -----------------
 
 ### Q351
-#### Answer: X. ?
+With regard to the greater omentum:
+
+A It has no surgical importance - F
+B It is supplied by the right and left gastric arteries - F
+C It is two layers thick - T
+D It provides a route of access to the lesser sac - F
+E The anterior layers descend from the lesser curvature of the stomach - F
+#### Answer: C It is two layers thick - ?
 - ?
 
 ### Q352
+With regard to the endocrine pancreas:
+
+	A. It secretes hormones into a highly branched ductal system
+	B. Glucagon is secreted from β-islet cells
+	C. Islets of Langerhans make up only 2 per cent of the volume of the gland
+	D. Somatostatin is secreted from α-islet cells
+	E. Glucagon stimulates glycogenesis
 #### Answer: X. ?
 - ?
 
 ### Q353
+Apoptosis:
+
+	A. Is always a pathological event - F
+	B. Involves the death of large contiguous areas of cells
+	C. Is usually accompanied by inflammation
+	D. May be seen in histological section
+	E. Leaves a permanent clump of cellular debris
 #### Answer: X. ?
 - ?
 
 ### Q354
-#### Answer: X. ?
+The virus responsible for causing acquired immunodeficiency syndrome (AIDS) as which one of the following features?
+
+	A. A double-stranded genome
+	B. Lacks a viral envelope
+	C. Lacks reverse transcriptase
+	D. Is a member of the adenovirus group
+	E. Destroys CD4 T-lymphocytes - T
+#### Answer: E. Destroys CD4 T-lymphocytes - ? 
 - ?
 
 ### Q355
+With regard to the ureters:
+
+	A. They are lined by stratified squamous epithelium
+	B. They enter the bladder obliquely forming a flap valve
+	C. The point of narrowest calibre is at the pelviureteric junction
+	D. The arterial supply of the lower third of the ureter is by way of the descending abdominal aorta
+	E. In the female, the ureters are crossed below by the uterine arteries in the broad ligament	
 #### Answer: X. ?
 - ?
 
 ### Q356
+Which of the following is true of bile?
+
+	A. Bile salts are derived from the waste products of haemoglobin
+	B. It is actively concentrated in the gall bladder
+	C. Thirty per cent is reabsorbed by the enterohepatic circulation
+	D. Bile contains enzymes required for the digestion of fat
+	E. Accumulation of bile salts is responsible for causing jaundice
 #### Answer: X. ?
 - ?
 
 ### Q357
+With regard to acute inflammation:
+
+	A. The predominant cell type involved is the macrophage
+	B. Inflammation is usually initiated by cell-mediated immunity
+	C. Inflammation may last for many months
+	D. Inflammation is intimately connected with the clotting system
+	E. Inflammation is always due to infection
 #### Answer: X. ?
 - ?
 
 ### Q358
+A man is bleeding from the carotid artery. In order to temporarily control the bleeding, the surgeon should compress the artery against the anterior tubercle of which of the following:
+
+	A. Second cervical vertebra
+	B. Third cervical vertebra
+	C. Forth cervical vertebra
+	D. Fifth cervical vertebra
+	E. Sixth cervical vertebra
+
 #### Answer: X. ?
 - ?
 
 ### Q359
+With regard to the spermatic cord:
+
+	A. It contains within it the ilioinguinal nerve
+	B. It contains the femoral branch of the genitofemoral nerve
+	C. It is surrounded by two fascial coverings
+	D. It contains the pampiniform plexus
+	E. It has dartos muscle contained in its wall
 #### Answer: X. ?
 - ?
 
 ### Q360
+With regard to intestinal absorption:
+
+	A. A greater volume of water is absorbed from the colon than from the small
+	B. Gastric acid assists in the absorption of iron
+	C. Glucose is absorbed by a potassium-cotransport mechanism
+	D. Vitamin B is absorbed from the duodenum
+	E. Sodium is absorbed at a rate proportional to body needs
 #### Answer: X. ?
 - ?
 
@@ -3145,42 +3216,112 @@ Questions 361-370
 -----------------
 
 ### Q361
+The following are outcomes of acute inflammation EXCEPT:
+
+	A. Resultion
+	B. Chronic inflammation
+	C. Abscess formation
+	D. Amyloidosis
+	E. Death
 #### Answer: X. ?
 - ?
 
 ### Q362
-#### Answer: X. ?
+A man falls on an outstretched hand (FOOSH). X-rays indicate an anterior dislocation of one of the carpal bones. Which carpal bone is most commonly dislocated?
+
+	A. Capitate
+	B. Lunate - T
+	C. Scaphoid
+	D. Trapezoid
+	E. Triquetrum
+#### Answer: B. Lunate - ?
 - ?
 
 ### Q363
-#### Answer: X. ?
+With regard to the testis:
+
+	A. It is supplied by the testicular artery, which arises from the internal iliac artery - F
+	B. It drains via the pampiniform plexus to the inferior vena cava - F
+	C. Lymph drainage is to the inguinal group of lymph nodes - ?
+	D. It is supplied by T10 sympathetic nerves - T
+	E. A fluid collection around the testis is know as a varicocele - F
+#### Answer: D. It is supplied by T10 sympathetic nerves - ?
 - ?
 
 ### Q364
+In the setting of starvation:
+
+	A. Glycogen stores last for two weeks
+	B. Glucose is the only metabolic fuel that can be used by neurones
+	C. The brain uses free amino acids when glucose levels begin to fall
+	D. Protein is spared until relatively late
+	E. Death occurs at around 21 days
 #### Answer: X. ?
 - ?
 
 ### Q365
+With regard to chronic inflammation:
+
+	A. It is always preceded by an acute inflammatory phase
+	B. It usually heals by organization and repair - F
+	C. It is characterized by less tissue destruction than acute inflammation
+	D. It usually results in resolution
+	E. Neutrophils are the predominant cell type
 #### Answer: X. ?
 - ?
 
 ### Q366
+Under normal conditions, virtually 100% of the filtered load of glucose is reabsorbed by the kidney tubules. Which part of the nephron shown in Figure 1 is expected to have the highest reabsorption of glucose?
+
+	A. Proximal convoluted tubule
+	B. Thin descending loop of Henle
+	C. Thick ascending limb of Henle
+	D. Distal convoluted tubule
+	E. Collecting duct
 #### Answer: X. ?
 - ?
 
-### Q367
+### Q366
+With regard to the ovary:
+
+	A. It is retroperitoneal - F
+	B. It lies medial to the obturator nerve and anterior to the ureter
+	C. It drains lymph to the internal iliac nodes
+	D. It receives a parasympathetic supply from the pudendal nerve
+	E. It gives rise to referred pain in the suprapubic region
 #### Answer: X. ?
 - ?
 
 ### Q368
+Which one of the following hormones is secreted by the anterior pituitary?
+
+	A. Testosterone
+	B. Oxycontin - F
+	C. Thryoid-Stimulating Hormone (TSH)
+	D. Corticotrophin-releasing hormone (CRH)
+	E. Antidiuretic hormone (ADH)
 #### Answer: X. ?
 - ?
 
 ### Q369
-#### Answer: X. ?
+Which of the following inflammatory processes often involves granulomas?
+
+	A. Lobar pneumonia
+	B. Bronchopneumonia
+	C. Tuberculosis
+	D. Granulation tissue
+	E. Ulcerative colitis (UC)
+#### Answer: C. Tuberculosis - ?
 - ?
 
 ### Q370
+An IVDU presents with pyrexia and haematuria. Clinical examination demonstrates splenomegaly and splinter haemorrhages. Of which of the following heart valves would vegetations be expected?
+
+	A. Aortic - F
+	B. Pulmonary - F
+	C. Mitral
+	D. Tricuspid
+	E. Bicuspid - F
 #### Answer: X. ?
 - ?
 
@@ -3188,42 +3329,112 @@ Questions 371-380
 -----------------
 
 ### Q371
+With regard to the rectum:
+
+	A. It is drained by tributaries of both the inferior mesenteric and internal iliac veins
+	B. It is suspended by a mesentery
+	C. It receives its blood supply from the external iliac artery
+	D. It is lined by transitional epithelium
+	E. It is supplied by parasympathetic nerve fibres from the vagus
 #### Answer: X. ?
 - ?
 
 ### Q372
+Which of the these statements regarding type 2 diabetes mellitus (T2DM) is true?
+
+	A. It usually presents with weight loss
+	B. Ketones are found
+	C. It is associated with HLA DR3/4
+	D. Identical twins show 90% concordance 
+	E. It usually presents in the teen years - F
 #### Answer: X. ?
 - ?
 
 ### Q373
-#### Answer: X. ?
+With regard to wound healing:
+
+	A. Granulation tissue actively contracts - F
+	B. Granulation tissue is defined by the presence of absence of granulomas - F 
+	C. Repair implies the complete restitution of normal tissue architecture and function
+	D. In first-intention healing, the wound is unopposed - F
+	E. Scar formation is absent in second-intention healing - F
+#### Answer: C. Repair implies the complete restitution of normal tissue architecture and function - ?
 - ?
 
 ### Q374
-#### Answer: X. ?
+A 62-year-old industrial chemist presents with painless haematuria, urinary frequency and urgency. He is diagnosed with bladder cancer. Which is the most likely type?
+
+	A. Adenocarcinoma
+	B. Sarcoma
+	C. Papilloma
+	D. Squamous cell carcinoma (SCC)
+	E. Transitional cell carcinoma (TCC)
+#### Answer: E. Transitional cell carcinoma (TCC) - ?
 - ?
 
 ### Q375
+With regard to the uterus:
+
+	A. It usually lies in a retroverted, anteflexed postion
+	B. The broad ligament is a remnant of the gubernaculum
+	C. The Pouch of Douglas lies between the bladder anteriorly and uterus posteriorly - F
+	D. The ovarian artery is intimately related to the ureter
+	E. The ureter is closely related to the lateral fornix of the cervix
 #### Answer: X. ?
 - ?
 
 ### Q376
+In diabetes mellitus:
+
+	A. A fasting gluocse of 6.5 mM is compatible with a diagnosis
+	B. A random glucose of 9mM on two occasions is compatible with a diagnosis 
+	C. A fasting glucose of 7.5 mM on two occasions is consistent with a diagnosis
+	D. A glucose of 10 mM after a 2-hour glucose tolerance test is compatible with a diagnosis
+	E. A 50g glucose challenge is used in a glucose tolerance test - F
 #### Answer: X. ?
 - ?
 
 ### Q377
+Which one of the following tissues is likely to regenerate following damage?
+
+	A. Cerebral cortex
+	B. Peripheral neurones
+	C. Skeletal muscle
+	D. Cardiac muscle
+	E. Spinal cord
 #### Answer: X. ?
 - ?
 
 ### Q378
+Deficiencies of which of the following factors usually predispose to thrombosis rather than bleeding?
+
+	A. Factor V
+	B. Factor VIII
+	C. Factor IX
+	D. Factor X
+	E. Factor XII
 #### Answer: X. ?
 - ?
 
 ### Q379
+With regard to the blood supply of the stomach:
+
+	A. The right half of the lesser curvature is supplied by the right gastoepiploic artery
+	B. The left half of the greater curvature is supplied by the left gastric artery
+	C. The fundus of the stomach is supplied by the left gastric artery
+	D. The gastroduodenal artery is a branch of the common hepatic artery
+	E. The right gastric artery is most commonly implicated in a bleeding duodenal ulcer
 #### Answer: X. ?
 - ?
 
 ### Q380
+Which one of these statements regarding insulin is true?
+
+	A. Insulin receptors use cAMP as their signal transducer
+	B. It is secreted by alpha-cells of the pancreas
+	C. Secretion is stimulated by somatostatin
+	D. It is an anabolic hormone
+	E. Release is inhibited by the ingestion of amino acids
 #### Answer: X. ?
 - ?
 
@@ -3231,42 +3442,112 @@ Questions 381-390
 -----------------
 
 ### Q381
+With regard to necrosis:
+
+	A. It is a physiological or pathological process
+	B. Single cells are involved
+	C. Liquefactive necrosis classically occurs in the brain
+	D. Necrotic cells are phagocytosed by adjacent cells
+	E. Caseous necrosis is the commonest type
 #### Answer: X. ?
 - ?
 
 ### Q382
-#### Answer: X. ?
+A Swan-Hanz catheter is inserted into a patient with acute respiratory distress syndrome (ARDS). His pulmonary artery pressure is 6 mmHg. The same pressure would be expected in which of the following structures:
+
+	A. Aorta - F
+	B. Left atrium
+	C. Left ventricle - F
+	D. Right atrium - F
+	E. Systemic veins - F
+#### Answer: B. Left atrium - ?
 - ?
 
 ### Q383
+With regard to the femoral triangle, which of the following is correct?
+
+	A. The femoral vein lies lateral to the femoral artery - F
+	B. The femoral nerve lies within the femoral sheath - T
+	C. The femoral artery lies at the mid-point of the inguinal ligament
+	D. The femoral nerve is the most medially placed structure - F
+	E. Cloquet’s node lies most medially within the femoral canal
 #### Answer: X. ?
 - ?
 
 ### Q384
+With regard to the hypothalamo-pituitary axis:
+
+	A. Oxytocin is synthesized in the posterior pituitary gland
+	B. Prolactin is under dominant inhibitory regulation
+	C. Thyroxine is a steroid hormone
+	D. Thyroid-stimulating hormone (TSH) acts via tyrosine kinase receptors
+	E. GH binds to intracellular receptors
 #### Answer: X. ?
 - ?
 
 ### Q385
+Which one of the following is the best definition of gangrene?
+	
+	A. Digestion of living tissue by saprophytic bacteria?
+	B. Digestion of dead tissue by saprophytic bacteria?
+	C. Gas production in dead tissue - F
+	D. Necrosis of tissue caused by bacterial toxins
+	E. Necrosis of tissue caused by ischaemia
 #### Answer: X. ?
 - ?
 
-### Q386
+### Q385
+A woman has episodic abdominal pain which is worse after fatty meals. Which hormone is rseponsible for her post-prandial worsening of symptoms?
+
+	A. Somatostatin
+	B. Secretin
+	C. Pepsin
+	D. Cholecystokinin
+	E. Gastrin
 #### Answer: X. ?
 - ?
 
 ### Q387
+With regard to the shoulder (glenohumeral) joint:
+
+	A. It is a ball-and-socket fibrocartilagenous joint
+	B. It has high mobility at the expense of stability
+	C. It is supported mainly by way of ligaments
+	D. It lies in close relation to the musculocutaneous nerve
+	E. It most commonly dislocates posteriorly
 #### Answer: X. ?
 - ?
 
 ### Q388
+Which one of the following is true about cortisol?
+
+	A. It is a protein
+	B. It lowers blood glucose
+	C. It is an anabolic hormone
+	D. It is stimulated by renin
+	E. It has a peak hormonal concentration in the morning
 #### Answer: X. ?
 - ?
 
 ### Q389
-#### Answer: X. ?
+Which one of the following increases the risk of thrombosis?
+
+	A. Immobility - T
+	B. Thrombocytopenia - F
+	C. Reduced blood viscosity - F
+	D. An intact endothelium - F
+	E. Heparin - F
+#### Answer: A. Immobility
 - ?
 
 ### Q390
+When inserting a subclavian central line, the first bony landmark that can be palpated below the inferior margin of the medial portion of the clavicle is:
+
+	A. Acromion
+	B. Atlas
+	C. First Rib
+	D. Second Rib
+	E. Third Rib
 #### Answer: X. ?
 - ?
 
@@ -3274,38 +3555,101 @@ Questions 391-400
 -----------------
 
 ### Q391
+With regard to the hip joint, which of the following is true?
+
+	A. The blood supply to the femoral head arises from a single source - F
+	B. It may refer pain to the knee - F
+	C. It is the most commonly dislocated joint in the body - F
+	D. It lies deep to the sciatic nerve - ?
+	E. The fibrous capsule is strengthened by two ligaments - F
 #### Answer: X. ?
 - ?
 
 ### Q392
+With regard to calcium homeostasis:
+
+	A. The active form of vitamin D is 25-hydroxycholecalciferol
+	B. PTH secretion is stimulated by the pituitary gland
+	C. Activated vitamin D decreases calcium absorption from the intestine
+	D. PTH acts directly on osteoblasts in bone
+	E. In the kidney, PTH increases calcium excretion and increases phosphate reabsorption from the urine
 #### Answer: X. ?
 - ?
 
 ### Q393
+With regard to an embolus:
+
+	A. It most often arises from a thrombus formed within arteries
+	B. It is the same as a thrombus
+	C. Embolus due to thrombus is impossible to distinguish from post-mortem clot
+	D. Embolus is always due to thrombus
+	E. It generally has a worse outcome than thrombus
 #### Answer: X. ?
 - ?
 
 ### Q394
+Which of the following veins empties into the left renal vein?
+
+	A. Hepatic
+	B. Left suprarenal
+	C. Right gonadal - F
+	D. Left phrenic
+	E. Right renal
 #### Answer: X. ?
 - ?
 
 ### Q395
+With regard to the anatomical snuffbox:
+
+	A. Tenderness at its base is indicative of a fractured hamate
+	B. It is bounded medially by the abductor pollicis longus
+	C. The basilic vein begins in its roof
+	D. The skin overlying it is supplied by cutaneous branches of the median nerve
+	E. The pulsation of the radial artery may be felt at its base
 #### Answer: X. ?
 - ?
 
 ### Q396
+With regard to thyroxine:
+
+	A. The thyroid gland produces more T3 than T4
+	B. TRH directly results in thyroxine release from the thyroid gland
+	C. Thyroxine promotes the growth and development of the brain
+	D. Thyroxine decreases basal metabolic rate
+	E. Thyroxine acts on cell surface receptors
 #### Answer: X. ?
 - ?
 
 ### Q397
+Ischaemia:
+
+	A. Refers to generalized tissue death due to oxins, trauma or vascular occlusion
+	B. Is synonymous with the term 'infarction' - F
+	C. Is an abnormal reduction of the blood supply to, or drainage from, an organ or tissue
+	D. Is always due to vascular occlusion
+	E. Leads to a worse outcome in tissues with a collateral circulation - F
 #### Answer: X. ?
 - ?
 
 ### Q398
+The *Brunner glands* secrete an alkaline produce that helps maintain an optimal pH for pancreatic enzyme activity. Where are these glands located?
+
+	A. At the base of the villi throughout the small intestine
+	B. Epithelium of the Ampulla of Vater
+	C. Submucosa of the ileum
+	D. Submucosa of the jejunum
+	E. Submucosa of the duodeneum
 #### Answer: X. ?
 - ?
 
 ### Q399
+With regard to the knee joint:
+
+A. It is a synovial, pivot joint - F
+B. The cruciate ligaments are intracapsular and intrasynovial
+C. The suprapatellar bursa (pouch) communicates with the knee joint - F
+D. Inflammation of the prepatellar bursa is known as ‘clergyman’s knee’
+E. The menisci play an important role in the locking and unlocking mechanism of the knee joint
 #### Answer: X. ?
 - ?
 

@@ -2207,43 +2207,112 @@ Questions 161-170
 -----------------
 
 ### Q161
+Which of the following anti-Parkinsonian drugs is a COMT (catechol-O-methyltransferase) inhibitor?
 
+	A. Selegiline
+	B. l-Dopa
+	C. Entacapone
+	D. Benzatropine
+	E. Bromocriptine
 #### Answer: X. ?
 - ?
 
 ### Q162
+With regard to development of the nervous system:
+
+	A. Neural tube development requires signals from the underlying mesoderm
+	B. The nervous system is derived from endoderm
+	C. Neural tube defects originate during the final trimester of pregnancy
+	D. The notochord forms the spinal cord in adults
+	E. Neural tube defects result from the incomplete migration of neural crest cells
 #### Answer: X. ?
 - ?
 
 ### Q163
+With regard to smooth (*visceral*) muscle:
+
+	A. Excitation depends more on the influx of extracellular calcium than release from internal stores
+	B. It contains no actin or myosin filaments
+	C. It classically relaxes when it is stretched
+	D. It contains an extensive T-tubular system
+	E. It is innervated through somatic motor nerve endings
 #### Answer: X. ?
 - ?
 
 ### Q164
+A young man has a skull fracture involving the posterior cranial fossa. The fracture is most likely to have injured:
+
+	A. The temporomandibular joint (TMJ)
+	B. The temporal lobe
+	C. Mandibular division of trigeminal nerve (Vc)
+	D. Abducens nerve in the cavernous sinus
+	E. Cranial nerve VIII as it enters the internal acoustic meatus
 #### Answer: X. ?
 - ?
 
 ### Q165
+The incubation period for hepatitis A is:
+
+A. 2–10 days
+B. 15–40 days
+C. 40–60 days
+D. 60–160 days
+E. More than 160 days
 #### Answer: X. ?
 - ?
 
 ### Q166
+I the treatment of asthma, the drug salbutamol principally acts by which of the following mechanisms?
+
+A. α-adrenoceptor antagonism
+B. β-adrenoceptor agonism
+C. β-adrenoceptor agonism
+D. β-adrenoceptor antagonism
+E. Muscarinic antagonism
 #### Answer: X. ?
 - ?
 
 ### Q167
+A Meckel's diverticulum:
+
+A. Is a remnant of the urachus - F
+B. Is found in 10 per cent of the population - F (2%)
+C. Is most commonly situated immediately adjacent to the vermiform appendix
+D. Is completely asymptomatic and an incidental finding
+E. May contain ectopic tissue
 #### Answer: X. ?
 - ?
 
 ### Q168
+With regard to the structure of cardiac muscle:
+
+A. The T-tubules are located at the junction of the A and I bands
+B. It has no visible striations in the cytoplasm
+C. It has an underdeveloped sarcoplasmic reticulum
+D. Specialized intercellular junctions exist between myocytes
+E. Muscle fibres are typically multinucleate with peripherally located nuclei
 #### Answer: X. ?
 - ?
 
 ### Q169
+With regard to the acute-phase response:
+
+A. Bacterial endotoxin induces the acute-phase response
+B. Exogenous pyrogens act on the liver to release tumour necrosis factor (TNF)α
+C. The acute-phase response is mediated through interleukin-10
+D. Serum albumin levels increase during the acute-phase response
+E. TNFα decreases catabolic activity
 #### Answer: X. ?
 - ?
 
 ### Q170
+Which one of the following areas of the central nervous system contains structures that are considered to be phylogenically the oldest parts of the brain:
+
+	A. Frontal lobe - F
+	B. Limbic system
+	C. Cerebellum
+	D. Visual cortex - F
+	E. Parietal lobe - F
 #### Answer: X. ?
 - ?
 
@@ -2251,6 +2320,7 @@ Questions 171-180
 -----------------
 
 ### Q171
+
 #### Answer: X. ?
 - ?
 

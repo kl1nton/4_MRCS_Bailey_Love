@@ -2548,43 +2548,110 @@ Questions 191-200
 ### Q191
 With regard to DNA:
 
-
+A Adenine pairs only with thymine
+B Cytosine always pairs with guanine
+C The DNA double helix has 12 base-pairs per turn
+D Uracil is an example of a purine base
+E All bases are paired by two non-covalent
 #### Answer: X. ?
 - ?
 
 ### Q192
-#### Answer: X. ?
+With regard to the parathyroid glands:
+
+A. They secrete calcitonin
+B. They are always four in number - F
+C. They are third branchial pouch derivatives - F
+D. They are all supplied by the inferior thyroid artery
+E. They have an invariable position in the neck - F
+#### Answer: A. They secrete calcitonin - ?
 - ?
 
 ### Q193
+A woman has warts caused by human papilloma virus (HPV). The infectious HPV is most likely to be found:
+
+A. In terminally differentiated squamous cells
+B. In the basal layer of the warts
+C. In the surface cell layer of the warts
+D. In transformed cancer cells
+E. Throughout the warts
 #### Answer: X. ?
 - ?
 
 ### Q194
+Hyperacute rejection:
+
+A. Is a cell-mediated response
+B. Occurs 48 hours after transplantation - F
+C. Can occur in autografts
+D. May be reversed by high-dose steroids
+E. May be minimized by blood-group matching
 #### Answer: X. ?
 - ?
 
 ### Q195
+A total of 100 hypertensive patients are followed over a 4-week period for the effects of a diuretic drug on potassium concentrations. The statistical test used to compare the potassium serum levels before and after medication is most likely to be:
+
+A. Discriminant analysis
+B. Paired t-test
+C. Regression analysis
+D. Pearson correlation
+E. Chi-squared test
 #### Answer: X. ?
 - ?
 
 ### Q196
+Gene transcription is initiated by:
+
+A. Exons
+B. Promoters
+C. Silencers
+D. Introns
+E. Enhancers
 #### Answer: X. ?
 - ?
 
 ### Q197
+With regard to extra-ocular muscles:
+
+A. Superior rectus is supplied by the trochlear nerve
+B. Levator palpebrae superioris is supplied solely by the occulomotor nerve
+C. The superior oblique muscle is innervated by the occulomotor nerve
+D. Lateral rectus is supplied by the abducens nerve - T
+E. The inferior oblique muscle moves the inferiorly
 #### Answer: X. ?
 - ?
 
 ### Q198
+Which of the following substances is a vasodilator?
+
+A. Angiotensin II
+B. Nitric oxide
+C. Noradrenaline
+D. Vasopressin
+E. Thromboxane A2
 #### Answer: X. ?
 - ?
 
 ### Q199
+Autoimmune disease:
+
+A. Are usually congenital
+B. Are overall more common in men than in women
+C. Arise when an immune response is mounted against a foreign antigen
+D. Result from a breakdown in immunological tolerance
+E. Are always humoral-mediated
 #### Answer: X. ?
 - ?
 
 ### Q200
+Hodgkin's lymphoma can be distinguished from other forms of lymphoma by the presence of:
+
+A. Reed–Sternberg cells
+B. Philadelphia chromosome
+C. Auer rods
+D. Decreased quantities of leukocyte alkaline phosphatase
+E. Pappenheimer bodies
 #### Answer: X. ?
 - ?
 

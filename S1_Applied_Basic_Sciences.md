@@ -104,18 +104,19 @@ During strenuous exercise, what else occurs besides tachycardia?
 	2. Stroke Volume (SV)
 	3. Cardiac Output (CO = HR x SV)
 - During exercise
-	- There is an increase in respiratory rate (_hyperventilation_) 
-		- Which will lead to a reduction in PaCO2
+	- Increase in respiratory rate (_hyperventilation_) 
+		- Reduced PaCO2
 	- Oxygen demand of skeletal muscle rises
-		- Leading to a reduction in mixed venous blood oxygen concentration
-	- Renal blood flow is autoregulated
-		- So renal blood flow is preserved and will tend to remain the same
+		- Reduced mixed venous blood oxygen concentration
+	- Renal blood flow is **autoregulated**
+		- So renal blood flow is preserved and will tend to remain constant
 
-- Mean arterial blood pressure is a function of 
-	1. Cardiac Output
+##### Mean Arterial Blood Pressure (MABP)
+- MABP is a function of 
+	1. Cardiac Output (CO)
 	2. Total Peripheral Resistance (TPR)
-- Mean arterial blood pressure will increase with exercise
-	- Mainly due to increase in cardiac output (CO)
+- MABP will increase with exercise
+	- Mainly due to increase in Cardiac Output (CO)
 
 **Notes**
 - Cardiac output (CO) is a function of heart rate (HR) and stroke volume (SV) 
@@ -486,24 +487,23 @@ A 70-year-old man suffers an ischiaemic stroke and develops a *LEFT homonymous h
 ### Q17
 When does the _heart rate decrease_?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. After a meal
+	B. On inspiration
+	C. Pressure on the eyeball
+	D. Pressure on the sinoatrial node
+	E. Exercise
 
 #### Answer: A. After a meal - *FALSE*
-- ?
 - ?
 
 ### Q18
 Which of the following suggest that _respiratory failure is chronic_ rather than acute?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Plasma bicarbonate of 39 mmol/L
+	B. PaO2 of 9 kPa
+	C. PaO2 of 7 kPa
+	D. Arterial pH of 7.2
+	E. Hypoventilation
 
 #### Answer: A. Plasma bicarbonate of 39 mmol/L - *TRUE*
 - ?
@@ -511,11 +511,11 @@ Which of the following suggest that _respiratory failure is chronic_ rather than
 ### Q19
 A 12-yo boy develops acute tonsillitis. He starts to complain of pain in the ear. Which nerve is likely to be involved?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Superior laryngeal
+	B. Glossopharyngeal
+	C. Facial
+	D. Hypoglossal
+	E. Lesser palatine
 
 #### Answer: C. Facial - *FALSE*
 - ?
@@ -523,11 +523,11 @@ A 12-yo boy develops acute tonsillitis. He starts to complain of pain in the ear
 ### Q20
 A man undergoes an open inguinal hernia repair. During the procedure the cord is visualised. What structures does is contain?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Dartos muscle
+	B. Femoral branch of the genitofemoral
+	C. Ilioinguinal nerve
+	D. Inferior epigastric artery
+	E. Pampiniform plexus
 
 #### Answer: E. Pampiniform plexus - TRUE
 - ?
@@ -538,11 +538,11 @@ Questions 21-30
 ### Q21
 When performing a LEFT Nephrectomy from a posterior approach, which if the following structures are encountered before reaching the kidney?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Peritoneum
+	B. Suprarenal gland
+	C. Subcostal nerve
+	D. Tail of pancreas
+	E. Right hemidiaphragm
 
 #### Answer - C. Subcostal Nerve
 - ?
@@ -550,22 +550,22 @@ When performing a LEFT Nephrectomy from a posterior approach, which if the follo
 ### Q22
 When performing a RIGHT hemicolectomy, which of the following structures is encountered during dissection?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Caudate lobe of liver
+	B. Inferior vena cava
+	C. Third part of duodenum
+	D. Right ureter
+	E. First part of duodenum
 
 #### Answer: E. First part of the duodenum
 
 ### Q23
 What structure does the Pancreas overly?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Right kidney
+	B. Left kidney
+	C. Right adrenal gland
+	D. Left adrenal gland
+	E. Gall bladder
 
 #### Answer: D. LEFT Adrenal Gland
 - ?
@@ -573,11 +573,11 @@ What structure does the Pancreas overly?
 ### Q24
 What causes a reduction in pulmonary functional residual capacity (FRC)?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Asthma
+	B. Pulmonary fibrosis
+	C. Emphysema
+	D. Pneumonia
+	E. Pulmonary oedema
 
 #### Answer: B. Pulmonary Fibrosis
 - ?
@@ -585,11 +585,11 @@ What causes a reduction in pulmonary functional residual capacity (FRC)?
 ### Q25
 Which is a feature of the physiology of Angiotensin II?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Stimulates renin release
+	B. Inhibits aldosterone release
+	C. Weak arteriolar vasoconstriction
+	D. Converted from angiotensin I in the liver
+	E. Released in hypovolaemia
 
 #### Answer: E. Released in Hypovolaemia
 - ?
@@ -597,11 +597,11 @@ Which is a feature of the physiology of Angiotensin II?
 ### Q26
 Which displaces the oxygen-haemoglobin curve to the left?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. A decrease in pH
+	B. Anaemia
+	C. A rise in PaCO2
+	D. A fall in PaCO2
+	E. Pyrexia
 
 #### Answer: B. Anaemia
 - ?
@@ -609,23 +609,23 @@ Which displaces the oxygen-haemoglobin curve to the left?
 ### Q27
 Which factor decreases coronary perfusion?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
-
+	A. Hypoxia
+	B. Antidiuretic hormone (ADH)
+	C. Alpha stimultion
+	D. Beta stimulation
+	E. Glyceryl trinitrate (GTN) spray
+	
 #### Answer: C. Alpha stimulation
 - ?
 
 ### Q28
 Resection of the _terminal ileum_ is associated with _malabsorption_ of which of the following substances?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Calcium
+	B. Folic acid
+	C. Cholesterol
+	D. Bile salts
+	E. Potassium
 
 #### Answer - B. Folic Acid
 - ?
@@ -633,11 +633,11 @@ Resection of the _terminal ileum_ is associated with _malabsorption_ of which of
 ### Q29
 Which is a feature of the action of insulin?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Promotes protein synthesis
+	B. Promotes gluconeogenesis
+	C. Inhibits potassium entry into cells
+	D. Promotes calcium release from bone
+	E. Promotes phosphate release from bone
 
 #### Answer: D. Promotes calcium release from bone 
 - ?
@@ -645,11 +645,11 @@ Which is a feature of the action of insulin?
 ### Q30
 Which causes prolonged vomiting due to pyloric stenosis?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. A drop in serum urea
+	B. A drop in bicarbonate
+	C. A rise in serum potassium
+	D. A rise in serum chloride
+	E. A rise in arterial PaCO2
 
 #### Answer: D. A rise in serum chloride
 - ?
@@ -660,11 +660,11 @@ Questions 31-40
 ### Q31 
 Extracellular fluid differs from intra cellular fluid by which of the following?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Lower chloride concentration
+	B. Higher potassium concentration
+	C. Greater volume
+	D. Lower protein concentration
+	E. Lower pH
 
 #### Answer: D. Lower protein concentration
 - ?
@@ -672,99 +672,108 @@ Extracellular fluid differs from intra cellular fluid by which of the following?
 ### Q32
 Which is a feature of raised intracranial pressure?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Caused by shearing injury to the scalp
+	B. Occurs immediately after an acute subdural haematoma
+	C. Leads to a rise in cerebral perfusion pressure
+	D. Causes constriction of the ipsilateral pupil
+	E. Can lead to a rise in blood pressure and bradycardia
+
 #### Answer: E. Can lead to a rise on blood pressure (BP) and Bradycardia
 - ?
 
 ### Q33
 Which is a feature of metabolic acidosis?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. There is negative base excess
+	B. Bicarbonate is the main intracellular buffer
+	C. Proteins and phosphates are the main extracellular buffer
+	D. Compensation occurs by a decrease in alveolar ventilation
+	E. Bicarbonate infusion is the mainstay of treatment
+
 #### Answer: A. There is negative base excess
 - ?
 
 ### Q34
 Which is a feature of the posterior third of the tongue?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
-#### Answer: E. Villiform papillae
+	A. Filiform papillae
+	B. Fungiform papillae
+	C. Sensory innervations from the internal laryngeal nerve
+	D. Sensory innervations from the chordae tympani
+	E. Villiform papillae
+
+# Answer: E. Villiform papillae
 - ?
 
 ### Q35
 Which is a feature of the knee joint?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. The popliteus tendon is extracapsular
+	B. The suprapatellar bursa does not communicate with the joint
+	C. The anterior cruciate ligament is supplied by the middle geniculate artery
+	D. The iliotibial tract inserts into the fibula
+	E. Rotation occurs above the meniscus
+
 #### Answer: A. The popliteus tendon is extracapsular
 - ?
 
 ### Q36
 Which is a feature of the Hepatic Artery?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Supplies the same amount of blood to the liver as the portal vein
+	B. Provides the same amount of oxygen to the liver as the portal vein
+	C. Contains blood with the same oxygenation as the portal vein
+	D. Does not supply blood to hepatic metastases
+	E. Divides the liver into anatomical segments
+
 #### Answer: E. Divides the Liver into anatomical segments
 - ?
 
 ### Q37
 Metabolic alkalosis is commonly seen in patients with which of the following?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Pancreatic fistula
+	B. Aspirin poisoning
+	C. Protracted vomiting
+	D. Hypoglycaemia
+	E. Hyperventilation
+
 #### Answer: C. Protracted vomiting
 - ?
 
 ### Q38
 Osteomyelitis is most commonly caused by which microbe in adults?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Staphylococcus aureus
+	B. Escherichia coli
+	C. Staphylococcus epidermidis
+	D. Pseudomonas sp.
+	E. Streptococcus viridans
+
 #### Answer: C. Staphylococcus epidermidis
 - ?
 
 ### Q39 
 Which is a feature of a keloid scar?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. May respond to pressure dressing
+	B. Occurs within the limits of the surgical wound
+	C. Is most common on flexure surfaces of the limbs
+	D. Can be prevented by subcuticular sutures
+	E. May be re-excised with good results
+
 #### Answer: A. May respond to pressure dressing
 - ?
 
 ### Q40
 Splenectomy patients are at particular risk of overwhelming sepsis from which organisms?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Anaerobic bacteria
+	B. Bacteroides fragilis
+	C. Haemophilus influenzae
+	D. Fungi
+	E. Staphylococcus aureus
+
 #### Answer: C. Haemophila influenzae
 - ?
 
@@ -774,110 +783,120 @@ Questions 41-50
 ### Q41
 A boy is found to have haemophila B. What pathological problem does he have?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Deficiency of platelets
+	B. Deficiency of factor VIII
+	C. Deficiency of factor IX
+	D. Deficiency of factor X
+	E. Deficiency of factor XI
+
 #### Answer: E. Deficiency of Factor XI
 - ?
 
 ### Q42
 A patient is found to have chronic iron deficiency anaemia. What symptom might he also describe?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Dysphagia
+	B. Vomiting
+	C. Diarrhoea
+	D. Dysuria
+	E. Nausea
+
 #### Answer: D. Dysuria
 - ?
 
 ### Q43
 What features would you expect to find in a patient with haemorrhagic shock?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Decrease in catecholamine secretion
+	B. Oxygen–haemoglobin dissociation curve shifted to the right
+	C. Stimulation of aortic chemoreceptors
+	D. Increase in tidal ventilation
+	E. Decrease in antidiuretic hormone (ADH) secretion
+
 #### Answer: D. Increase in Tidal Ventilation (TD)
 - ?
 
 ### Q44
 Gastrointestinal consequences of major burns include which of the following:
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Splanchnic vasodilation
+	B. Acute gastric dilatation
+	C. Cushing’s ulcers
+	D. Terminal ileal hyperplasia
+	E. Mechanical bowel obstruction
+
 #### Answer: B. Acute gastric dilatation
 - ?
 
 ### Q45
 When is nitrogen balance positive?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. In sepsis
+	B. During the first 3 days following surgery
+	C. During growth
+	D. While adrenocorticotropic hormone (ACTH) levels are high
+	E. Following bone fractures
+
 #### Answer: E. Following bone fractures
 - ?
 
 ### Q46
 Hormones of the anterior pituitary include which of the following?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Prolactin
+	B. Oxytocin
+	C. Thyroxin
+	D. Antidiuretic hormone (ADH)
+	E. Vasopressin
+
 #### Answer: D. Antidiuretic hormone
 - ?
 
 ### Q47
 Which is a features of the scalenus anterior muscle?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Attaches into the anterior tubercles of the transverse processes of C1–C7
+	B. Attaches to the scalene tubercle of the 2nd rib
+	C. Has the subclavian vein passing posterior to it
+	D. Has the subclavian artery passing anterior to it
+	E. Lies deep to the prevertebral layer of the deep cervical fascia
+
 #### Answer: D. Has the subclavian artery passing anterior to it.
 - ?
 
 ### Q48
 What is the normal glomerular filtration rate?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. 50 mL/min
+	B. 75 mL/min
+	C. 100 mL/min
+	D. 125 mL/min
+	E. 150 mL/min
+
 #### Answer: C. 100 mL/min
 - ?
 
 ### Q49
 Which is the commonest cancer in the UK?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Colorectal cancer
+	B. Lung cancer
+	C. Breast cancer
+	D. Melanoma
+	E. Leukaemia
+
 #### Answer: B. Lung Cancer
 - ?
 
 ### Q50
-What is the 5-year survival of the pancreas?
+What is the 5-year survival of the carcinoma of the pancreas?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. 5 per cent
+	B. 15 per cent
+	C. 30 per cent
+	D. 50 per cent
+	E. 60 per cent
+
 #### Answer: C. 30 per cent
 - ?
 
@@ -887,110 +906,120 @@ Questions 51-60
 ### Q51
 Regarding enteral tube feeding, which statement is true?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Requires just as much monitoring as parental feeding
+	B. Continuous feeding with iso-osmolar fluids may cause diarrhoea
+	C. Elemental fluids require minimal digestion by the patient
+	D. Maintains the structural, but not the functional integrity of the small bowel
+	E. Fluids should contain glucose rather than sucrose to lower the osmolality
+
 #### Answer D. Maintains the structural, but not the functional integrity of the small bowel
 - ?
 
 ### Q52
 Which statement applies to the original Dukes's classification for colorectal carcinoma?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+A. Is a tumour grading scale
+B. Accurately defines the number of lymph nodes involved
+C. Distinguishes tumours that penetrate the muscularis mucosa from those that are confined by the mucosa
+D. Does not take into account the presence of metastases
+E. Highlights the improved prognosis in those patients with villous rather than tubular carcinoma
+
 #### Answer: D. Does not take into account the presence of metastases
 - ?
 
 ### Q53
 In acute osteomyelitis of a long bone, which statement applies?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. If blood-borne, is usually caused by streptococci
+	B. Acute inflammation causes a rise in intraosseous pressure
+	C. The involucrum is a focus of dead bone
+	D. Early radiographs will demonstrate rarefaction and periosteal new bone formation
+	E. Pseudomonas tends to occur in patients with sickle cell disease
+
 #### Answer: X. ?
 - ?
 
 ### Q54
 In intestinal anastomotic leaks, which statement applies
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Are apparent 10–14 days after surgery
+	B. Abdominal pain, pyrexia and tachycardia are suggestive of a leak
+	C. The appearance of bowel contents through the abdominal wound is proof of an anastomatic leak
+	D. Early leaks are best tested by local surgical repair
+	E. Late leaks are treated by urgent laparotomy, abdominal washout and repair
+
 #### Answer: X. ?
 - ?
 
 ### Q55
 Which of the following chemotherapeutic drugs is an alkylating agent?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Cyclophosphamide
+	B. Doxorubicin (Adriamycin)
+	C. 5-Fluorouracil (5-FU)
+	D. Vincristine
+	E. 6-Mercaptopurine
+
 #### Answer: X. ?
 - ?
 
 ### Q56
 Which statement applies to metastatic calcification?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Occurs in normal tissue
+	B. Is characterized by psammoma bodies
+	C. Has normal blood levels of calcium
+	D. Characteristically occurs in osteoarthritis
+	E. Is associated with degenerated foci in leiomyomas and has caseous nodules
+
 #### Answer: X. ?
 - ?
 
 ### Q57
 Complications of an above-knee amputation include which of the following?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Joint contractures affecting the hip joint
+	B. Sudek’s atrophy
+	C. Myoglobinuria
+	D. Neuroma formation
+	E. Amyloid deposition
+
 #### Answer: X. ?
 - ?
 
 ### Q58
 Which statement applies to the cephalic vein?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+A. Begins in the region of the anatomical snuffbox
+B. At the elbow is deep to the lateral cutaneous nerve of the forearm
+C. Ends by joining the brachial vein
+D. Is medial to the biceps muscle in the arm
+E. Has no valves
+
 #### Answer: X. ?
 - ?
 
 ### Q59
 Thyrotoxicosis is characterised by which of the following?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
-#### Answer: X. ?
+	A. Weight gain
+	B. Proximal myopathy
+	C. Enopthalmos
+	D. Hypertrophy of the vascular elastic lamina
+	E. Nose bleeds
+
+## Answer: X. ?
 - ?
 
 ### Q60
 Which is a product of occlusion of the RIGHT posterior cerebral artery?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Blindness in the right eye
+	B. Left homonymous hemianopia
+	C. Bilateral hemianopia
+	D. An absent light reflex
+	E. Extraocular muscle paralysis
+
 #### Answer: X. ?
 - ?
 
@@ -1000,16 +1029,23 @@ Questions 61-70
 ### Q61
 The adductor (*sub-sartorial*) canal contains which of the following?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Vastus lateralis muscle in its lateral aspect
+	B. Profunda femoris vessels
+	C. Femoral arterial branch, which takes part in the anastomosis around the knee joint
+	D. Vastus medialis muscle
+	E. Adductor longus muscle
+
 #### Answer: X. ?
 - ?
 
 ### Q62
 Which is a feature of a cervical rib?
+
+	A. A cause of brachial artery aneurysm
+	B. Best diagnosed by posteroanterior (PA) chest radiograph
+	C. Compresses the upper trunk of the brachial plexus
+	D. A cause of thoracic outlet syndrome
+	E. Most commonly symptomatic in the 50–60 years age group
 
 #### Answer - X. ?
 - ?
@@ -1017,88 +1053,95 @@ Which is a feature of a cervical rib?
 ### Q63
 Which statement applies to a 5cm abdominal aortic aneurysm?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Has an annual risk of rupture of 80 per cent
+	B. Involves the renal artery origin in 15 per cent of cases
+	C. If the aortic aneursym grows at a rate of more than 5 mm/year, elective surgery should be considered
+	D. Is more common in builders
+	E. Is a cause of toe gangrene
+
 #### Answer: X. ?
 - ?
 
 ### Q64
 Which statement applies to the hepatic portal vein?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Is formed by the union of the splenic and superior mesenteric veins
+	E. Has no valves
+	C. Lies anterior to the common hepatic artery
+	D. Originates behind the body of the pancreas
+	E. Approximately 25 per cent of hepatic blood flow is derived from the hepatic portal vein
+
 #### Answer: X. ?
 - ?
 
 ### Q65
 Which statement applies to chronic lower limb ulceration?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Affects 10 per cent of the elderly population
+	B. Is most commonly caused by arterial disease
+	C. Is linked to varices
+	D. Predisposes to malignant change
+	E. Should be treated by compression bandaging if the ankle–brachial pressure index (ABPI) is less than 0.5
+
 #### Answer: X. ?
 - ?
 
 ### Q66
 Which statement applies to lymph oedema?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Affects the lower limbs in 80 per cent of cases
+	B. Presents with bilateral limb swelling
+	C. Is diagnosed by ultrasound
+	D. Is most commonly iatrogenic in aetiology
+	E. Is best treated by graded compression stockings
 #### Answer: X. ?
 - ?
 
 ### Q67
-Which statement regarding Hodgkinb�s disease is true?
+Which statement regarding Hodgkin's disease is true?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Typically seen in the gastrointestinal tract
+	B. May be classified using the Rappaport classification
+	C. Is characterized by Reed–Sternberg cells
+	D. The lymphocyte-depleted type is associated with a more favourable prognosis
+	E. Usually presents with painful lymphadenopathy
+
 #### Answer: X. ?
 - ?
 
 ### Q68
 What is supplied by the facial nerve?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Palatoglossus muscle
+	B. Medial pterygoid muscle
+	C. Masseter muscle
+	D. Temporalis
+	E. Parasympathetic fibres to the submandibular gland
+
 #### Answer: X. ?
 - ?
 
 ### Q69
 Which is a feature of the submandibular nerve?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Lies between mylohyoid and hyoglossus muscle
+	B. Is 10cm long
+	C. Develops from the endoderm
+	D. Is closely related to the facial nerve
+	E. Opens into the mouth at the side of the cheek
+
 #### Answer: X. ?
 - ?
 
 ### Q70
 Which is a feature of the Eustachian tube in a child?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Extends from the middle ear to the oropharynx
+	B. Is at more of a horizontal angle than in an adult
+	C. Is longer in length than in an adult
+	D. Is cartilagenous
+	E. Is derived from the second pharyngeal pouch
+
 #### Answer: X. ?
 - ?
 
@@ -1107,110 +1150,120 @@ Questions 71-80
 
 ### Q71 In intussusception in children, which statement applies?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Occurs more commonly in girls
+	B. The commonest form is ileo-ileal
+	C. Is characterized by severe colicky abdominal pain with pain-free intervals
+	D. There is an association with Henoch–Schönlein purpura
+	E. Usually occurs in the 2-3 years age group
+
 #### Answer: X. ?
 - ?
 
 ### Q72
-Which is true of Sjogrenb�s syndrome?
+Which is true of Sjogren's syndrome?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Is a condition in which the patient has wet eyes and mouth
+	B. Is most commonly seen in young men
+	C. Is characterized by beta-pleated sheets
+	D. Is associated with autoimmune diseases
+	E. Predisposes to adenocarcinoma
+
 #### Answer: X. ?
 - ?
 
 ### Q73
 Which applies to rigid sigmoidoscopy?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Is useful in the examination of haemorrhoids
+	B. Will usually demonstrate the first 25cm of sigmoid colon
+	C. Allows the biopsy of rectal tumours without anaesthetic
+	D. Is the best way of obtaining tissue to diagnose Hirschsprung’s disease
+	E. Causes perforation in about 5 per cent of patients
+
 #### Answer: X. ?
 - ?
 
 ### Q74
 Which of the following is associated with hyperparathyroidism?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Paravertebral ossification
+	B. Peptic ulcer
+	C. Retinal haemorrhages
+	D. Aortic stenosis
+	E. Hoarse voice
+
 #### Answer: X. ?
 - ?
 
 ### Q75
 Which statement applies to the posterior triangle of the neck?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Is bounded by the lateral third of the clavicle inferiorly
+	B. Has a roof formed by the prevertebral fascia
+	C. Has a roof pierced by the external jugular vein
+	D. Is bounded by the anterior border of sternocleidomastoid
+	E. Contains the carotid sheath
+
 #### Answer: X. ?
 - ?
 
 ### Q76
 Which statement applies to the tongue?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Develops from the first and third branchial arches
+	B. Has taste buds supplied by the hypoglossal nerve
+	C. Is supplied by the facial artery
+	D. Has a profuse anastomosis of blood vessels across the midline
+	E. Deviates to the left in lesions of the left glossopharyngeal nerve
+
 #### Answer: X. ?
 - ?
 
 ### Q77
 Which statement is true of postcricoid carcinoma?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Is more common in patients with Plummer–Vinson syndrome
+	B. Is highly radiosensitive
+	C. Is associated with workers exposed to iron
+	D. Has a 5-year survival rate of more than 60 per cent
+	E. Is more common in males
+
 #### Answer: X. ?
 - ?
 
 ### Q78
 In a 65-yo woman with a retrosternal goitre, which of the following statements is appropriate?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Thyroid dysfunction is unlikely
+	B. Stridor is likely if the trachea is deviated to one side
+	C. Thyroid antibodies will be present
+	D. Thyroid malignancy is common
+	E. Recurrent laryngeal nerve palsy is common
+
 #### Answer - X. ?
 - ?
 
 ### Q79
 Which of the following statement is true of salivary gland carcinoma?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Typically occurs in the minor salivary glands
+	B. Is related to smoking
+	C. Occurring in the parotid gland results in Frey’s syndrome
+	D. In the parotid gland can be reliably diagnosed by fine-needle aspiration
+	E. Is characteristically sensitive to radiotherapy
+
 #### Answer: X. ?
 - ?
 
 ### Q80
 Which of the following statements is true of Colles' fracture?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Is a cause of carpal tunnel syndrome
+	B. Results in palmar displacement of the distal fractured fragment
+	C. Extends into the wrist (radiocarpal) joint
+	D. Is typically associated with compression of the ulnar nerve
+	E. Involves the ulnar styloid process
+
 #### Answer: X. ?
 - ?
 
@@ -1340,25 +1393,26 @@ Which statement is true of the rectum?
 Questions 91-100
 ----------------
 
-### Q.91
+### Q91
 What is a characteristic feature of the liver?
 	
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. It weighs 750 g
+	B. It receives 60 per cent of the body’s total cardiac output
+	C. It drains through hepatic veins into the superior vena cava
+	D. It receives its nerve supply from the right vagus via the superior mesenteric ganglia
+	E. It is attached to the diaphragm by the falciform ligament
+
 #### Answer: X. ?
 - ?
 
-### Q1.92
+### Q92
 Which statement regarding choledochal cysts is true?
 	
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Rarely present beyond childhood
+	B. Iron deficiency may develop
+	C. Dumping syndrome may develop
+	D. Incapacitating diarrhoea is not infrequent
+	E. Recurrent duodenal ulcers usually follow an aggressive course
 	
 #### Answer: X. ?
 - ?
@@ -1366,11 +1420,11 @@ Which statement regarding choledochal cysts is true?
 ### Q93
 Which of the following is true of talipes equinovarus?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Is a structural deformity of the midfoot and forefoot
+	B. Is bilateral in fewer than 10 per cent of cases
+	C. Is more common in females
+	D. Is initially treated by correction of the equines deformity first
+	E. Is treated by operative correction and may result in articular damage and foot stiffness
 	
 #### Answer: X. ?
 - ?
@@ -1378,11 +1432,11 @@ Which of the following is true of talipes equinovarus?
 ### Q94
 Concerning bone tumours, which is true?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. There is an association between osteosarcoma and Paget’s disease of the bone
+	B. Chondosarcomas most commonly occur in young children
+	C. Chemotherapy has a limited role in overall management
+	D. Metastasis usually occurs via lymphatics
+	E. Pain is rarely a presenting feature
 	
 #### Answer: X. ?
 - ?
@@ -1390,11 +1444,11 @@ Concerning bone tumours, which is true?
 ### Q95 
 The posterior relations of the kidney include which structure?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Rectus abdominis muscle
+	B. Femoral nerve
+	C. Long thoracic nerve of Bell
+	D. Costodiaphragmatic recess of the pleura
+	E. Lumbar sympathetic trunk
 	
 #### Answer: X. ?
 - ?
@@ -1402,55 +1456,60 @@ The posterior relations of the kidney include which structure?
 ### Q96
 Which statement is true of Meckel's diverticulum?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Is present in 20 per cent of the population
+	B. Arises from the mesenteric border of the jejunum
+	C. May contain heterotropic pancreas
+	D. Is present only in males
+	E. Is a diverticulum of the bladder
+
 #### Answer: X. ?
 - ?
 
 ### Q97
 Which of the following is a recognised curative treatment option for localised carcinoma of the prostate?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Radiotherapy
+	B. Lithotripsy
+	C. Hormonal treatment
+	D. Cytotoxic therapy
+	E. Tamsulosin
+	
 #### Answer: X. ?
 - ?
 
 ### Q98
 Which of the following statement is true for a patient who has been maintained on haemodialysis for 10 years?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Will need a parathyroidectomy shortly after renal transplant
+	B. Will have vascular calcification, which will resolve after parathyroidectomy
+	C. Is no more likely to have secondary hyperparathyroidism than someone on continuous ambulatory peritoneal dialysis (CAPD) for the same period
+	D. Could have osteoporosis if has taken aluminium hydroxide over this time
+	E. Will need bisphosphonates after parathyroidectomy
+
 #### Answer: X. ?
 - ?
 
 ### Q99
 In relation to breast carcinoma, which statement is true?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. Will affect 1 in 15 women
+	B. Is more common in multiparous women
+	C. Is more common in women with late menarche
+	D. Is more common in women who breast-feed
+	E. Has a 60 per cent chance of occurring in patients with a first-degree relative who had a premenopausal breast cancer
+	
 #### Answer: X. ?
 - ?
 
 ### Q100
 Concerning statistical analysis of a population with a normal (Gaussian) distribution, which is true?
 
-	A. ?
-	B. ?
-	C. ?
-	D. ?
-	E. ?
+	A. The population may be uniquely defined by its mean and its median values
+	B. About 95 per cent of the population lies within one standard deviation of the mean
+	C. It would be inappropriate to apply a chi-squared test because the distribution is not linear
+	D. Non-parametric tests could be used
+	E. Fewer than 5 out of 1000 of the population would be expected to be more than two standard deviations from the mode
+
 #### Answer: X. ?
 - ?
 
@@ -1459,51 +1518,120 @@ Questions 101-110
 
 ### Q101
 Which of the following cells secrete intrinsic factor?
+
+	A. Goblet cells
+	B. Kupffer cells
+	C. Peptic cells
+	D. Chief (zymogenic) cells
+	E. Parietal cells
+
 #### Answer: X. ?
 - ?
 
 ### Q102
 Splenectomy increases susceptibility to which of the following organs?
+
+	A. Streptococcus pyogenes
+	B. Schistosoma haematobium
+	C. Bacteroides fragilis
+	D. Neisseria meningitidis
+	E. Staphylococcus aureus
 #### Answer: X. ?
 - ?
 
 ### Q103
 Cardiac output is decreased under what circumstances?
+
+	A. During stimulation of sympathetic nerves to the heart
+	B. On cutting the vagus nerves to the heart
+	C. By increasing the end-diastolic volume of the heart
+	D. As a result of decreased pressure within the carotid sinus
+	E. Upon assuming the upright position
+
 #### Answer: X. ?
 - ?
 
 ### Q104
 Which statement is true for flow through a vessel or lumen?
+
+	A. It is inversely proportional to the pressure head of flow
+	B. It is inversely proportional to the radius of the tube
+	C. It is directly proportional to the length of of blood passing through the tube
+	D. It is directly proportional to the viscosity of blood passing through the tube
+	E. It is directly proportional to the fourth power of the radius
+
 #### Answer: X. ?
 - ?
 
 ### Q105
 You request pre-operative lung function tests on  patient with longstanding emphysema. What is true of functional lung capacity?
+
+	A. It is the sum of the tidal volume and residual volume
+	B. It is the sum of the inspiratory reserve volume, the expiratory reserve volume
+	C. It can be measured directly by spirometry
+	D. It is the sum of the residual volume and the expiratory reserve volume
+	E. It is the volume of air that remains in the lung after forced expiration
+
 #### Answer: X. ?
 - ?
 
 ### Q106
 Which statement is true of lung compliance?
+
+	A. Is defined as the change in pressure per unit volume
+	B. Is synonymous with elastance
+	C. Is increased in emphysema
+	D. Is equal in inflation and deflation
+	E. Is reduced by the presence of surfactant
+
 #### Answer: X. ?
 - ?
 
 ### Q107
 Which of the following hormones is secreted by the anterior pituitary gland?
+
+	A. Testosterone
+	B. Oxytocin
+	C. Thyroid-stimulating hormone (TSH)
+	D. Corticotropin-releasing hormone (CRH)
+	E. Antidiuretic hormone (ADH)
+
 #### Answer: X. ?
 - ?
 
 ### Q108
 The oxygen-haemoglobin dissociation curve is shifted to the left by what?
+
+	A. An increase in PaCO2
+	B. A fall in pH
+	C. A rise in temperature
+	D. An increase in 2,3-DPG
+	E. Fetal haemoglobin
+
 #### Answer: X. ?
 - ?
 
-### Q1.109
+### Q109
 Which of the following cells are cytotoxic?
+
+	A. CD4 T-cells
+	B. CD8 T-cells
+	C. B-cells
+	D. TH1 cells
+	E. TH2 cells
+
 #### Answer: X. ?
 - ?
 
 ### Q110
 A 3-week old baby exhibits projective vomiting shortly after feeding, and failure to thrive, On examination, an olive-shaped mass is palpable in the right upper quadrant (RUQ) of the abdomen. A clinical diagnosis of pyloric stenosis is made. What biochemical laboratory features would support the diagnosis?
+
+	A. Hypokalaemia, metabolic alkalosis, low urinary pH
+	B. Hyperkalaemia, metabolic acidosis, high urinary pH
+	C. Hypokalaemia, metabolic acidosis, high urinary pH
+	D. Hyperkalaemia, metabolic alkalosis, low urinary pH
+	E. Hypokalaemia, metabolic alkalosis, high urinary pH
+
 #### Answer: X. ?
 - ?
 
@@ -1511,57 +1639,122 @@ Questions 111-120
 -----------------
 
 ### Q111
+A sample of cerebrospinal fluid (CSF) is obtained following a lumbar puncture. What is a feature of normal CSF?
 
+	A. Is produced within arachnoid granulations
+	B. Has a composition identical to that of plasma
+	C. Has a protein content that is 0.5 per cent that of plasma
+	D. Has a higher potassium content than that of plasma
+	E. Its pH is heavily buffered
 #### Answer: X. ?
 - ?
 
 ### Q112
+A patient on the surgical ward has chronic renal impairment. The plasma creatinine is 225 µmol/L and the glomerular filtration rate (GFR) is 25 mL/min. Which statement is correct regarding the patient's renal function?
 
+	A. The GFR is the main factor determining the rate of urine production
+	B. GFR can be measured by para-aminohippuric acid (PAH)
+	C. The normal GFR is 50 mL/min
+	D. Inulin clearance can be used to estimate GFR
+	E. A normal plasma creatinine implies normal renal function
 #### Answer: X. ?
 - ?
 
 ### Q113
+Gastric acid secretion is stimulated by which of the following?
 
+	A. Somatostatin
+	B. Gastrin
+	C. Secretin
+	D. The glossopharyngeal nerve
+	E. Cholecystokinin
 #### Answer: X. ?
 - ?
 
 ### Q114
+Carbon dioxide is principally transported in the blood in which form?
 
+	A. CO2 physically dissolved in solution
+	B. Carboxyhaemoglobin
+	C. Bicarbonate
+	D. Carbaminohaemoglobin
+	E. Carbonic anhydrase
 #### Answer: X. ?
 - ?
 
 ### Q115
-
+The plateau phase of the cardiac action potential is due to what?
+	
+	A. Magnesium influx
+	B. Postassium influx
+	C. Calcium influx
+	D. Chloride efflux
+	E. Sodium influx
 #### Answer: X. ?
 - ?
 
 ### Q116
+A patient with a 6cm abdominal aortic aneurysm is scheduled for elective repair. As part of the preoperative work-up, an echocardiogram (ECG) is requested. The *ejection fraction* is defined as what?
 
+	A. The ratio of end-diastolic volume to stroke volume
+	B. The ratio of stroke volume to end-diastolic volume
+	C. End-diastolic volume minus end-systolic volume
+	D. End-systolic volume divided by stroke volume
+	E. The ratio of stroke volume to end-systolic volume
 #### Answer: X. ?
 - ?
 
 ### Q117
-X
+Bile salt reuptake principally occurs where?
+
+	A. In the duodenum
+	B. In the jejenum
+	C. In the ileum
+	D. In the colon
+	E. In the caecum
 #### Answer: X. ?
 - ?
 
 ### Q118
+A 40-year-old patient is brought into the A&E with head injury. The cardiovascular effects of raised intracranial pressure include (BP = blood pressure; HR = heart rate; CCP = cerebral perfusion pressure):
+
+Option	| BP	| HR	| CPP	|
+--------|-------|-------|-------|
+A		| DOWN	| DOWN	| DOWN	|
+B		| DOWN	| UP	| DOWN	|
+C		| UP	| UP	| DOWN	|
+D		| UP	| DOWN	| DOWN	|
+E		| DOWN	| UP	| UP	|
 
 #### Answer: X. ?
 - ?
 
 ### Q119
+A patient is diagnosed with Conn's syndrome. Aldosterone is secreted from where?
 
+	A. Liver
+	B. Zona glomerulosa of the adrenal cortex
+	C. Juxtaglomerular apparatus
+	D. Adrenal medulla
+	E. Zona fasciculata of the adrenal cortex
 #### Answer: X. ?
 - ?
 
 ### Q120
+Which of the following gastrointestinal fluids is richest in potassium?
 
+	A. Salivary
+	B. Pancreatic
+	C. Gastric
+	D. Bile
+	E. Small bowel
 #### Answer: X. ?
 - ?
 
 Questions 121-130
 -----------------
+
+
 
 Questions 131-140
 -----------------

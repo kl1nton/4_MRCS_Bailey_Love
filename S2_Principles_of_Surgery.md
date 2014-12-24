@@ -5,11 +5,11 @@ Overall: ??/163 = ??% (?? errors)
 
 Group	| Score		| Errors			|
 --------|-----------|-------------------|
-1-5		|
-6-10	|
-11-15	|
-16-20	|
-21-25	|
+1-5		| 4/5 = 80%	| 2
+6-10	| 4/5 = 80%	| 8
+11-15	| 4/5 = 80%	| 14
+16-20	| 3/5 = 60%	| 16, 19
+21-25	| 2/5 = 40%	| 21, 23, 24
 26-29	|
 30-34	|
 35-39	|
@@ -55,10 +55,9 @@ Group	| Score		| Errors			|
 158-160	|
 161-163	|
 
-
-## Q1-5: Blood Transfusions
+## Q1-5: Blood Transfusions - Ch2: Shock and blood transfusions
     A. Group A RhD-negative
-    B. Group A RhD-negative
+    B. Group A RhD-positive
     C. Group O RhD-positive
     D. Group O RhD-negative
     E. Anti-D immunoglobin
@@ -68,20 +67,27 @@ For each of the patients described below, select the single best treatment from 
 
 ### Q1 
 A 35-year-old woman with blood group B RhD-negative following a left-sided nephrectomy is found to have a haemoglobin level of 6.5.
+#### Answer: D. Group O RhD-negative - TRUE
 
 ### Q2 
 A 66-year-old man with prostate carcinoma and blood group A RhD-positive is found to have a haemoglobin level of 7.1.
+#### Answer: B. Group A RhD-positive - *FALSE* - A. Group A RhD-negative - WHY?
+- Pt with group A blood has anti-B antibodies: **cannot** receive group B blood
+- Pt is also RhD-positive: **can** receive RhD-positive or negative blood
 
 ### Q3 
 A patient with blood group B RhD-positive following a right-sided hemicolectomy is found to have a haemoglobin level of 9.4.
+#### Answer: F. Iron sulphate tablets - TRUE
 
 ### Q4
 A 75-year-old man with metastatic colorectal carcinoma and blood group O RhD-negative is found to have a haemoglobin level of 7.3.
+#### Answer: D. Group O RhD-negative - TRUE
 
 ### Q5 
 A woman with blood group B RhD-negative and thyroid disease is found to have a haemoglobin level of 11.0 having just given birth to a baby with blood group B RhD-positive.
+#### Answer: E. Anti-D immunoglobin - TRUE
 
-## Q6-10: Lumps in the Groin
+## Q6-10: Lumps in the Groin - Ch75: Testis and scrotum
     A. Testicular cancer
     B. Testicular torsion
     C. Direct inguinal hernia
@@ -95,21 +101,34 @@ A woman with blood group B RhD-negative and thyroid disease is found to have a h
 For each of the patients described below, select the single most likely diagnosis from the options listed above. Each option may be used once, more than once or not at all.
 
 ### Q6 
-A 27-year-old man presents with a soft lump in the right scrotum. On examination there is a positive cough impulse and the doctor is unable to get above the lump. The patient is able to push the lump back, and when the doctor places his fingers over the right groin the lump does not reappear even when the patient coughs.
+A 27-year-old man presents with a soft lump in the right scrotum. On examination there is a *positive cough impulse* and the doctor is *unable to get above the lump*. The patient is able to *push the lump back*, and when the doctor places his fingers over the right groin the lump does not reappear even when the patient coughs.
+#### Answer: D. Indirect inguinal hermia - TRUE
+- Reducable back along Inguinal Canal --> Deep Ring --> Indirect Inguinal Hernia
 
 ### Q7 
-A 26-year-old man presents with a 3-day history of pain in the left scrotum. On examination the scrotum is hot, swollen and tender.
+A 26-year-old man presents with a *3-day history of pain* in the left scrotum. On examination the scrotum is *hot, swollen and tender*.
+#### Answer: I. Epididymo-orchitis - TRUE
+- Infection of epididymis + testis: can be mistaken for torsion
 
 ### Q8 
-A 22-year-old man presents with a painless swelling in the right scrotum. On examination the swelling is non-tender but contains a firm mass which does not seem separate from the testicle. The scrotal swelling brightly transilluminates.
+A 22-year-old man presents with a painless swelling in the right scrotum. On examination the swelling is non-tender but contains a *firm mass* which does *not seem separate* from the testicle. The scrotal swelling brightly transilluminates.
+#### Answer: H. Epididymal cyst - *FALSE* - A. Testicular cancer
+- Any firm scrotal mass is cancer *until proven otherwise*
+- Testicular cancer may often be associated with a hydrocele
 
 ### Q9 
-A 32-year-old man presents complaining of a ‘dragging’ sensation in the left scrotum. On examination, the doctor can palpate a soft mass which feels like a ‘bag of worms’ but only when the patient is standing.
+A 32-year-old man presents complaining of a *'dragging' sensation* in the left scrotum. On examination, the doctor can palpate a soft mass which feels like a *'bag of worms'* but only when the patient is standing.
+#### Answer: E. Varicocele - TRUE
+- Classic description of a variocele
+- More common on left: left testicular vein drains into left renal vein (not IVC)
 
 ### Q10 
 A 21-year-old man presents with sudden onset of left testicular pain which came on 2 hours ago. When the doctor tries to examine him, he almost jumps off the bed.
+#### Answer: B. Testicular torsion - TRUE
+- Sudden onset of severe testicular pain + short duration: testicular torsion until proven otherwise
+- **NOTE** a surgical emergency
 
-## Q11-15: Lumps in the Neck
+## Q11-15: Lumps in the Neck - Ch45: Pharynx, larynx and neck 
     A. Lymph node
     B. Branchial cyst
     C. Thyroglossal cyst
@@ -123,21 +142,28 @@ A 21-year-old man presents with sudden onset of left testicular pain which came 
 For each of the patients described below, select the single most likely diagnosis from the options listed above. Each option may be used once, more than once or not at all.
 
 ### Q11 
-A 34-year-old man presents with a firm lump in the right side of his neck just below the mandible. The lump measures 3 cm. The skin appears attached to the lump and there is a small punctum visible.
+A 34-year-old man presents with a firm lump in the right side of his neck just below the mandible. The lump measures 3 cm. The skin appears attached to the lump and there is a *small punctum visible*.
+#### Answer: E. Epidermal cyst - TRUE
 
 ### Q12 
-A 25-year-old man has a small lump in the midline of his neck. The lump is non-tender and rises on protruding the tongue.
+A 25-year-old man has a small lump in the midline of his neck. The lump is non-tender and *rises on protruding the tongue*.
+#### Answer: C. Thyroglossal cyst - TRUE
 
 ### Q13 
-A 33-year-old woman is referred by her GP with a 3 cm firm lump on the right side of her neck. The lump moves on swallowing but does not move on protruding the tongue. Her mother had thyroid cancer.
+A 33-year-old woman is referred by her GP with a 3 cm firm lump on the right side of her neck. The *lump moves on swallowing* but does not move on protruding the tongue. Her mother had thyroid cancer.
+#### Answer: I. Multinodular goitre - TRUE
 
 ### Q14 
-A 14-year-old girl presents with a 2 cm soft, fluctuant lump on the right side of her neck adjacent to the angle of the mandible. The lump transilluminates and is cystic on ultrasound.
+A 14-year-old girl presents with a 2 cm soft, fluctuant lump on the right *side of her neck* adjacent to the angle of the mandible. The lump *transilluminates* and is *cystic* on ultrasound.
+#### Answer: B. Branchial cyst - *FALSE*
+- Cystic Hygroma: lymphangioma which usually presents in childhood
+- Cystic Hygroma: typically occur in the neck and transilluminate
 
 ### Q15 
 A 45-year-old man complains of an intermittent swelling that is sometimes painful on the left side of his face and upper jaw. He has linked it to meal times and tried different foods but there has been no improvement.
+#### Answer: F. Salivary gland calculus - TRUE
 
-## Q16-20: Diseases of the hepatobiliary system
+## Q16-20: Diseases of the hepatobiliary system - Ch3: The gallbladder and bile ducts, Ch64: The pancreas
 	A. Plain abdominal X-ray
 	B. Pelvic X-ray
 	C. Ultrasound scan
@@ -151,24 +177,35 @@ For each of the patients described below, select the single best investigation f
 
 ### Q16 
 A 65-year-old woman is referred with a 4-month history of weight loss and progressive jaundice. Her CA19-9 is raised and her ultrasound reveals dilated hepatic ducts. ERCP was attempted but was abandoned due to failure of passage of the scope beyond the distal common bile duct stricture.
+#### Answer: E. Contrast-enhanced CT - *FALSE*
+- Pt has a tumour at the head of the pancreas
+- If retrograde stenting via ERCP is not possible then
+	- Antergrade stenting via a percutaneous approach (PTC) is used to relieve jaundice
 
 ### Q17 
 A 43-year-old woman who is rather overweight presents with a 3-day history of right upper quadrant pain, fevers and vomiting. Her liver biochemistry is within normal limits but she does demonstrate a neutrophilia.
+#### Answer: C. Ultrasound scan - TRUE
 
 ### Q18 
 A 60-year-old woman with a previous history of gallstones presents with colicky abdominal pain and vomiting. Her abdomen is distended and bowel sounds are increased. She is often constipated but feels that this is different.
+#### Answer: A. Plain abdominal X-ray - TRUE
 
 ### Q19 
 A 35-year-old man with a history of alcohol abuse presents to A&E with a 2-day history of epigastric pain. His amylase on admission is 1200 and he is pyrexial. His liver biochemistry demonstrates an obstructive picture.
-
+#### Answer: D. Non-contrast-enhanced CT - *FALSE*
+- This man has acute pacnreatitis: MCC are alcohol excess and gallstones
+- Obstructive picture: USS can confirm and may detect obstructing gallstone
+	- CT is used several days later to detect pancreatic necrosis
+ 
 ### Q20 
 A 45-year-old woman presents with right upper quadrant pain and vomiting. Her bilirubin and alkaline phosphatase are raised. A stone is seen in the common bile duct on ultrasound and measures 1.2 cm. The common bile duct itself measures 1.3 cm.
+#### Answer: F. Endoscopic retrograde cholangiopancreatogram (ERCP) - TRUE
 
-## Q21-25: Fractures of the hip
+## Q21-25: Fractures of the hip - Ch35: Hip and knee
 	A. Traction
-	B. Dynamic hip screw
+	B. Dynamic hip screw (DHS)
 	C. Cannulated screws
-	D. Intramedullary hip screw
+	D. Intramedullary (IM) hip screw 
 	E. Uncemented hemiarthroplasty
 	F. Cemented hemiarthroplasty
 	G. Total hip replacement
@@ -176,21 +213,28 @@ A 45-year-old woman presents with right upper quadrant pain and vomiting. Her bi
 For each of the patients described below, select the single best treatment from the options listed above. Each option may be used once, more than once or not at all.
 
 ### Q21 
-A 67-year-old woman suffers from rheumatoid arthritis which affects both hips. She falls when walking back from town. Her plain X-ray reveals an intracapsular fracture of the femoral neck.
+A 67-year-old woman suffers from *rheumatoid arthritis* which affects both hips. She falls when walking back from town. Her plain X-ray reveals an *intracapsular fracture* of the femoral neck.
+#### Answer: F. Cemented hemiarthroplasty - *FALSE* = G. Total hip replacement
+- In elderly Pt, intrascapular fracture indicates hemiarthroplasty (*uncemented*)  
+	- Unless there is a diseased acetabulum (RA): prefer total hip replacement (THR)
 
 ### Q22 
-A 62-year-old man is knocked off his bike and has an intertrochanteric fracture of the left femur which extends down the shaft.
+A 62-year-old man is knocked off his bike and has an intertrochanteric fracture of the left femur which *extends down the shaft*.
+#### Answer: D. Intramedullary (IM) hip screw - TRUE
 
 ### Q23 
 A 35-year-old woman is hit by a car. The plain X-ray shows an intracapsular fracture of the right femoral neck.
+#### Answer: E. Uncemented hemiarthroplasty - *FALSE* = C. Cannulated screws
 
 ### Q24 
 An 80-year-old woman trips on the pavement and falls. Her plain X-ray reveals an intracapsular femoral neck fracture.
+#### Answer: F. Cemented hemiarthroplasty - *FALSE* = E. Uncemented hemiarthroplasty
 
 ### Q25 
-An 80-year-old man slips in the bathroom and presents to A&E with a shortened left leg. The plain X-ray demonstrates an extracapsular fracture of the femoral neck.
+An 80-year-old man slips in the bathroom and presents to A&E with a shortened left leg. The plain X-ray demonstrates an extracapsular fracture of the femoral neck. 
+#### Answer: B. Dynamic hip screw (DHS) - TRUE
 
-## Q26-29: Arterial blood gases
+## Q26-29: Arterial blood gases - Ch??
 	A. Metabolic acidosis
 	B. Metabolic acidosis with compensation
 	C. Metabolic alkalosis

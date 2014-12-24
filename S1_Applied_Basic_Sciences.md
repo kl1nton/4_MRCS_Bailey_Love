@@ -3014,7 +3014,7 @@ E. Tremor
 #### Answer: X. ?
 - ?
 
-Questions 231-240 - HERE
+Questions 231-240
 -----------------
 
 ### Q231

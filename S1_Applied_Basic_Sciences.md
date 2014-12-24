@@ -3374,6 +3374,11 @@ E. Fertilization and formation of a zygote occurs in humans
 ### Q260
 A 42-year-old woman has a genetic defect and cannot produce J-chains that are important in the structure of immunoglobulins. Most likely she will have:
 
+A. Increased serum IgM and decreased IgE
+B. Increased IgA in the intestine
+C. Decreased serum IgM
+D. Decreased mature T-lymphocytes
+E. Decreased mature B-cells
 
 #### Answer: X. ?
 - ?
@@ -3382,42 +3387,122 @@ Questions 261-270
 -----------------
 
 ### Q261
+The decline in incidence of serious infections during the nineteenth and twentieth centuries is mainly due to:
+
+A. Better sanitation
+B. Antibiotics
+C. Immunization programmes - F
+D. A decline in the virulence of organisms - F
+E. Advances in medical science
+
 #### Answer: X. ?
 - ?
 
 ### Q262
+With regard to oesophageal constrictions:
+
+A. The lower oesophageal sphincter is a true anatomical sphincter - F
+B. They may be caused by the right principal bronchus - F
+C. The narrowest part of the oesophagus is at the level of cricopharyngeus
+D. They may be caused normally by the left atrium
+E. Thy may be caused by the descending thoracic aorta
+
 #### Answer: X. ?
 - ?
 
 ### Q263
+Which one of the following is true of the haemoglobin/oxygen dissociation curve?
+
+A. It is a rectangular hyperbola - F
+B. It is shifted to the left by an increase in PaCO2
+C. Fetal haemoglobin shifts the curve to the right
+D. The Haldane effect describes the changes in affinity of the haemoglobin chain for oxygen following variations in PCO2 - F
+E. The shape of the curve is explained by the physico-chemical properties of haemoglobin
+
 #### Answer: X. ?
 - ?
 
 ### Q264
+With regard to schistosomiasis:
+
+A. It is caused by a protozoan
+B. The intermediate host is the sandfly
+C. Schistosoma mansoni causes urinary schistosomiasis
+D. Disease results from the immune response to schistosome eggs
+E. It is treated with quinine - F
+
 #### Answer: X. ?
 - ?
 
 ### Q265
+A 83-year-old man has chest pain, breathless and ankle oedema. On clinical examination, cardiomegaly is identified and a subsequent diagnosis of viral myocarditis is made. Which of the following micro-organisms is most likely responsible for this illness:
+
+A. Rhinovirus
+B. Mumps
+C. Coronavirus
+D. Adenovirus
+E. Coxsackie B
+
 #### Answer: X. ?
 - ?
 
 ### Q266
-#### Answer: X. ?
+Which one of the following *changes in disease patterns* have occurred in Europe and North America over the past 50 years?
+
+A. The death rate from lung cancer in females has fallen - F
+B. The death rate from lung cancer in males has risen in recent years - F
+C. The numbers infected with the HIV virus has fallen - F
+D. The death rate from suicide has fallen - F
+E. The death rate from gastric carcinoma has fallen
+
+#### Answer: E. The death rate from gastric carcinoma has fallen - ?
 - ?
 
 ### Q267
+With regard to the diaphragm:
+
+A. It is composed of smooth muscle
+B. It contracts with expiration - F
+C. It forms the main muscle of respiration at rest - T
+D. Motor innervation is through right and left phrenic nerves and lower intercostal nerves
+E. Sensation is via lower intercostals nerves
+
 #### Answer: X. ?
 - ?
 
 ### Q268
+At high altitude when the atmospheric pressure is halved, which one of the following changes occurs?
+
+A. Decreased pulmonary arterial pressure
+B. Decreased arterial pH
+C. Increased arterial P o2
+D. Decreased pulmonary ventilation
+E. Increased blood viscosity
+
 #### Answer: X. ?
 - ?
 
 ### Q269
+Prions:
+
+A. Are infectious microorganisms
+B. Are destroyed by sterilization
+C. Contain nucleic acid
+D. Cause disease by inducing mutations in the DNA of the host
+E. Are responsible for causing Kuru in humans
+
 #### Answer: X. ?
 - ?
 
 ### Q270
+Which of the following is the best neutrophil and macrophage chemotactant?
+
+A. C5a
+B. HLA-A
+C. HLA-B
+D. J-chain
+E. Variable region of heavy-chain IgG
+
 #### Answer: X. ?
 - ?
 
@@ -3425,129 +3510,369 @@ Questions 271-280
 -----------------
 
 ### Q271
+The most common cause of death from cancer in woman is currently:
+
+A. Ovarian cancer
+B. Breast cancer
+C. Lung cancer
+D. Endometrial cancer
+E. Colon cancer
+
 #### Answer: X. ?
 - ?
 
 ### Q272
-#### Answer: X. ?
+With regard to diaphragmatic openings:
+
+A. The inferior vena cava passes through the muscular part of the diaphragm at T8 - F
+B. The aortic opening lies at the T10 level - F
+C. The oesophageal opening transmits the right phrenic nerve - F
+D. The left phrenic nerve passes with the oesophagus through the oesophageal opening
+E. The sympathetic trunks pass posterior to the medial arcuate ligament - F
+
+#### Answer: D. The left phrenic nerve passes with the oesophagus through the oesophageal opening - ?
 - ?
 
 ### Q273
+With regard to gas exchange:
+
+A. The rate of diffusion across the alveolar wall is directly proportional to its thickness - F
+B. Under resting conditions, equilibration between alveoli PaO2 and red blood cell PaO2 occurs one-third of the way along the pulmonary capillary
+C. At rest, the red blood cell spends approximately 5 seconds within the pulmonary capillary - F
+D. The rate of diffusion across the alveolar wall is inversely proportional to the surface area available for diffusion - F
+E. Chlorine is the gas of choice for measuring the diffusion properties of the lung - F
+
 #### Answer: X. ?
 - ?
 
 ### Q274
+Which of the following definitions is correct?
+
+A. Hyperplasia is an increase in tissue growth through an increase in cell size
+B. Dysplasia is a change from one type of differentiated tissue to another - F
+C. Carcinoma-in-situ is a carcinoma with stromal invasion - F
+D. Anaplasia is almost a complete lack of differentiation
+E. Metaplasia is the disordered development of cells with loss of organization
+
 #### Answer: X. ?
 - ?
 
 ### Q275
+A 92-year-old man has died secondary to lobar pneumonia. At post-morten he is diagnosed with red hepatization. What pathological process within the lung was responsible?
+
+A. Desquamation of tracheal and bronchial epithelial cells
+B. Fibroblast proliferation
+C. Alcoholic toxic necrosis
+D. Leucocytes, erythrocytes and fibrin filling of the alveolar spaces
+E. Pleural deposits of fibrin and low-molecular proteins
+
 #### Answer: X. ?
 - ?
 
 ### Q276
+Which one of the following diseases is water-borne?
+
+A. Tuberculosis
+B. Cholera
+C. Hepatitis C
+D. Bubonic plague
+E. Malaria
+
 #### Answer: X. ?
 - ?
 
 ### Q277
+With regard to the thoracic duct:
+
+A. It drains into the confluence of the right internal jugular and subclavian veins - F
+B. It lies anterior to the oesophagus as it passes through the diaphragm - F
+C. It crosses the midline at the level of T5
+D. It has no valves
+E. If it is injured, a haemothorax may result - F
+
 #### Answer: X. ?
 - ?
 
 ### Q278
+With regard to the mechanics of respiration:
+
+A. Compliance is defined as the change in pressure per unit volume
+B. Compliance is synonymous with elastance
+C. Sighing serves no physiological purpose
+D. The lung follows the same behaviour in inflation and deflation
+E. Emphysema results in increased lung compliance
+
 #### Answer: X. ?
 - ?
 
 ### Q279
+Which one of the following statements is true?
+
+A. Adenoma is a malignant tumour of glandular epithelium - F
+B. Sarcoma is a benign tumour of connective tissue
+C. Leiomyosarcoma is a malignant tumour of skeletal muscle - F
+D. Lymphoma is a benign tumour of lymphoid cells
+E. Liposarcoma is a malignant tumour of adipose tissue
+
 #### Answer: X. ?
 - ?
 
 ### Q280
-#### Answer: X. ?
+Budd-Chiari syndrome is:
+
+A. A congenital inability to metabolize bilirubin - F
+B. A dietary deficiency of an essential amino - F
+C. Agenesis of the hepatic lobe - F
+D. Occlusion of the hepatic venous drainage - TRUE
+E. Malignant transformation of the biliary epithelium - F
+
+#### Answer: D. Occlusion of the hepatic venous drainage - ?
 - ?
 
 Questions 281-290
 -----------------
 
 ### Q281
+Which one of the following is true concerning retrospective and prospective studies?
+
+A. Prospective studies are also known as case–control studies
+B. Prospective studies allow direct determination of incidence rates
+C. The retrospective approach has the advantage that there is little or no bias
+D. In a prospective study, the cohort consists of people who are found to have the disease in question
+E. The prospective approach is usually used to determine the aetiology of a rare disease
+
 #### Answer: X. ?
 - ?
 
 ### Q282
-#### Answer: X. ?
+With regard to the lungs:
+
+A. The left lung has three lobes - F
+B. The horizontal fissure is present in the left lung - F
+C. Each lung has eight bronchopulmonary segments - ?
+D. A foreign body is more likely to enter the left bronchus than the right - F
+E. The lungs receive a dual blood supply - TRUE
+
+#### Answer: E. The lungs receive a dual blood supply - ?
 - ?
 
 ### Q283
-#### Answer: X. ?
+Which one of the following is true of haemoglobin:
+
+A. Most haemoglobin circulates as free protein in plasma - F
+B. Oxygen attaches to the globin chains - F
+C. Each haemoglobin molecule combines with eight oxygen atoms - F
+D. In normal adult haemoglobin, iron exists in the ferric state
+E. Normal adult haemoglobin contains two alpha and two gamma chains - F
+
+#### Answer: D. In normal adult haemoglobin, iron exists in the ferric state - ?
 - ?
 
 ### Q284
-#### Answer: X. ?
+With regard to metaplasia:
+
+A. It is irreversible - F
+B. It is most important in the upper oesophagus - F
+C. Metaplasia in the bronchus involves a change from columnar to stratified squamous epithelium
+D. It is harmless - F
+E. Barrett’s oesophagus involves a change from glandular to stratified squamous - F
+
+#### Answer: C. Metaplasia in the bronchus involves a change from columnar to stratified squamous epithelium - ?
 - ?
 
 ### Q285
+A 52-year-old man presents with episodic hypertension, an adrenal mass and elevated catacholamines. The most likely diagnosis is:
+
+A. Adrenal cortical carcinoma
+B. Adrenal cortical hyperplasia
+C. Phaeochromocytoma
+D. Ganglioneuroma
+E. Neuroblastoma
+
 #### Answer: X. ?
 - ?
 
 ### Q286
+Which one of the following studoes is regarded as the gold standard in epidemiological research?
+
+A. Cross-sectional study
+B. Case–control study
+C. Case report - F
+D Randomized controlled trial
+E. Non-randomized controlled trial - F
+
 #### Answer: X. ?
 - ?
 
 ### Q287
-#### Answer: X. ?
+With regard to the pleura:
+
+A. The pleura ends level with the 12th rib posteriorly - F
+B. It extends above the clavicle superiorly - TRUE
+C. The visceral layer is richly innervated - F
+D. It extends above the neck of the 1st rib superiorly - ?
+E. The pleural reflection on the right side matches that on the left side identically - F
+
+#### Answer: B. It extends above the clavicle superiorly - ?
 - ?
 
 ### Q288
+Which one of the following is true of erythropoietin?
+
+A. It is a polypeptide
+B. Secretion is decreased at high altitude - F
+C. In adults, it is mainly made in the liver - F
+D. It acts via a secondary messenger
+E. Production is decreased by local hypoxia - F
+
 #### Answer: X. ?
 - ?
 
 ### Q289
-#### Answer: X. ?
+Which of the following is a defining characteristic of a malignant tumour:
+
+A. Increase in size with time - F
+B. Chromosomal abnormalities
+C. Presence of a pseudo-capsule - F
+D. Invasion beyond the basement membrane - F
+E. Well-ordered maturation - F
+
+#### Answer: B. Chromosomal abnormalities - ?
 - ?
 
 ### Q290
-#### Answer: X. ?
+Following a lethal overdose of paracetamol, the post-mortem will demonstrate:
+
+A. Pulmonary necrosis
+B. Hepatic necrosis
+C. Acute renal tubular necrosis
+D. Splenic infarction
+E. Meningeal inflammation
+
+#### Answer: B. Hepatic necrosis - ?
 - ?
 
 Questions 291-300
 -----------------
 
 ### Q291
+You are involved in running a diabetes screening service. Two thousand people aged between 60 and 75, are screened. Both the mean and median random glucose measurement is 9.5 and standard deviation is 1.4. Which statement is correct?
+
+A. Five per cent of subjects will have a glucose greater than 10.9
+B. The distribution is not a normal distribution - F
+C. Ninety-five per cent of subjects will have a blood glucose between 6.7 and 12.3
+D. Sixty-eight per cent of subjects have a blood glucose between 6.7 and 12.3
+E. Ninety-five per cent of the observations lie between two standard errors of the mean
+
 #### Answer: X. ?
 - ?
 
 ### Q292
-#### Answer: X. ?
+With regard to the pericardium:
+
+A. It is two layers thick - F
+B. It is poorly innervated - F
+C. It is responsible for the formation of the transverse and oblique sinuses
+D. Pericardiocentesis may be detrimental in the management of cardiac tamponade
+E. It is essential in order to maintain a normal cardiac output - T
+
+#### Answer: D. Pericardiocentesis may be detrimental in the management of cardiac tamponade - ?
 - ?
 
 ### Q293
+Which one of the following is true of aldosterone?
+
+A. It is a steroid hormone secreted by the adrenal medulla
+B. Production is decreased by angiotensin-converting enzyme inhibitors
+C. Secretion results in increased potassium reabsorption from the nephron - F
+D. Secretion results in a rise in urinary pH
+E. Production ceases following the removal of the kidneys and their juxtaglomerular cells
+
 #### Answer: X. ?
 - ?
 
 ### Q294
+Which of the following are cytological features of malignancy?
+
+A. Hyperchromatism
+B. Pyknosis
+C. Karyorrhexis
+D. Decreased nuclear to cytoplasmic ratio
+E. Low mitotic index
+
 #### Answer: X. ?
 - ?
 
 ### Q295
+A 63-year-old male has a progressive history of congestive cardiac failure. At post-mortem, the heart demonstrates extensive replacement of the myocardium by an *acellular eosinophilic material*. This material is most likely:
+
+A. Cholesterol
+B. Calcium salt deposits
+C. Myocyte fibrinoid necrosis
+D. Post-infarctive cicatrix (scar)
+E. Amyloid
+
 #### Answer: X. ?
 - ?
 
 ### Q296
+Which one of the following statements is true?
+
+A The standard error provides a measure of the spread of observations around the mean - F
+B. The standard deviation is equal to the standard error divided by the square-root of the sample size - F
+C. The standard error is generally larger than the standard deviation - F
+D. In a positively skewed distribution, the median is greater than the mode, but greater than the mean
+E. The mean and standard deviation of a random sample will generally be different from the mean and standard deviation of the true population
+
 #### Answer: X. ?
 - ?
 
 ### Q297
+Which of the following regarding the coronary arteries is correct:
+
+A. The sinoatrial node is supplied by the left coronary artery in most cases - ?
+B. The atrioventricular node is supplied by the left coronary artery in most cases - F
+C. The circumflex artery is a branch of the right coronary artery - F
+D. Occlusion of the anterior interventricular artery (left anterior descending artery) results in an anterior myocardial infarction
+E. Angina is always due to atherosclerosis of the coronary vessels
+
 #### Answer: X. ?
 - ?
 
 ### Q298
+With regard to the renin-angiotensin system:
+
+A. Angiotensinogen is secreted by the juxtaglomerular apparatus - F
+B. The lung catalyses the conversion of angiotensinogen to angiotensin I - F
+C. Activation results in the stimulation of aldosterone release
+D. Angiotensin II is a potent vasodilator - F
+E. Angiotensin-converting enzyme (ACE) is found principally in the liver - F
+
 #### Answer: X. ?
 - ?
 
 ### Q299
+Carcinomas most often metastasize by which of the following routes?
+
+A. Bloodstream
+B. Lymphatics
+C. Trans-coelomic
+D. Peri-neural
+E. Implantation
+
 #### Answer: X. ?
 - ?
 
 ### Q300
-#### Answer: X. ?
+A 73-year-old man works in a plastics factor and is exposed to vinyl chloride. This industrial exposure has increased his likelihood of developing:
+
+A. Focal nodular hyperplasia
+B. Hepatic adenoma
+C. Hepatic angiosarcoma
+D. Hepatic fibroma
+E. Hepatocellular carcinoma
+
+#### Answer: E. Hepatocellular carcinoma - ?
 - ?
 
 Questions 301-310

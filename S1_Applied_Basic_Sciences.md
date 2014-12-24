@@ -2659,42 +2659,112 @@ Questions 201-210
 -----------------
 
 ### Q201
-#### Answer: X. ?
+A disease inherited as an autosomal dominant disorder:
+
+A. Requires that both parents carry the abnormality - F
+B. Usually prevents reproduction - F
+C. Affects males and females equally - T
+D. Affects all the children of the affected adult - F
+E. May be transmitted by a carrier who does not manifest the disease - F
+#### Answer: C. Affects males and females equally - ?
 - ?
 
 ### Q202
+With regard to the Palatine tonsil:
+
+A. It lies on the middle pharyngeal constrictor muscle
+B. It is supplied by the superior pharyngeal artery
+C. It is lined by columnar epithelium
+D. Inflammation may cause referred pain to the ear
+E. Bleeding after tonsillectomy is usually due to arterial bleeding
 #### Answer: X. ?
 - ?
 
 ### Q203
+With regard to coronary blood flow:
+
+A. Blood flow to the left ventricle increases in early systole
+B. Local metabolic activity is the chief factor determining rate of blood flow to the
+C. Coronary blood flow to the left ventricle increases in hypothermia
+D. Coronary blood flow is increased in aortic
+E.The myocardium extracts 25 per cent of the oxygen from the coronary blood
 #### Answer: X. ?
 - ?
 
 ### Q204
+With regard to bacterial structure and classification:
+
+A. Gram-positive bacteria contain lipopolysaccharide
+B. Gram-positive bacteria retain an iodine purple dye complex
+C. Gram-negative bacteria possess thicker layers of peptigoglycan than Gram-negative bacteria
+D. The endotoxin part of lipopolysaccaride is the O-antigen portion
+E. All cocci are Gram-positive
 #### Answer: X. ?
 - ?
 
 ### Q205
-#### Answer: X. ?
+Derivates of hindgut are typically supplied by the:
+
+A. Coeliac artery
+B. Ductus arteriosus
+C. Inferior mesenteric artery - T
+D. Superior mesenteric artery
+E. Umbilical artery
+#### Answer: C. Inferior mesenteric artery - ?
 - ?
 
 ### Q206
+Which one of the following is an autosomal dominant disorder?
+
+A. Christmas disease
+B. Phenylketonuria
+C. Haemophilia A
+D. Cystic fibrosis
+E. Marfan’s syndrome
 #### Answer: X. ?
 - ?
 
-### Q207
+### Q207 - TODO
+The spinal accessory nerve (CM ??) supplies which of the following muscles?
+
+A. Buccinator
+B. Latissimus dorsi - F
+C. Trapezius
+D. Stylopharyngeus
+E. Palatoglossus
 #### Answer: X. ?
 - ?
 
 ### Q208
+With regard to cardiac conducting tissue:
+
+A. Purkinje fibres lead to contraction of the apex before the base of the heart
+B. Sinoatrial node cells are found in both atria - F
+C. Sinoatrial node cells are unable to generate impulses when completely denervated - F
+D. Sinoatrial node cells are connected to the AV node by fine bundles of Purkinje tissue
+E. The pacemaker of the heart is the region of the heart that has the slowest intrinsic firing rate
 #### Answer: X. ?
 - ?
 
 ### Q209
+*Splenectomy* increases susceptibility to which of the following organisms?
+
+A. Streptococcus pyogenes
+B. Schistosoma haematobium
+C. Bacteroides fragilis
+D. Neisseria meningitidis
+E. Staphylococcus aureus
 #### Answer: X. ?
 - ?
 
 ### Q210
+During a cholecystectomy, the cystic artery must be located and ligated. This arterial supply most commonly arises from the:
+
+A. Gastroduodenal artery
+B. Hepatic artery proper
+C. Right hepatic artery
+D. Left hepatic artery
+E. Superior pancreatico-duodenal artery
 #### Answer: X. ?
 - ?
 
@@ -2702,128 +2772,368 @@ Questions 211-220
 -----------------
 
 ### Q211
+A teenager would like genetic counselling. His mother has phenylketonuria  or PKU (which is inherited as autosomal recessive). He has a brother with PKU. What is the chance that he is a carrier of the disease?
+
+A. 0 per cent
+B. 25 per cent
+C. 50 per cent
+D. 75 per cent
+E. 100 per cent
 #### Answer: X. ?
 - ?
 
 ### Q212
+With regard to the parotid gland:
+
+A. It contains within it branches of the facial nerve deep to the retromandibular vein
+B. It consists of superficial, middle and deep lobes
+C. Secreto-motor innervation is via the glossopharyngeal and auriculotemporal nerves
+D. Its duct pierces the masseter muscle to enter the mouth opposite the upper second molar tooth
+E. It produces mainly a mucous secretion
+
 #### Answer: X. ?
 - ?
 
 ### Q213
+With regard to circulating red blood cells (*erythrocytes*):
+
+A. They have a normal lifespan of 6–8 weeks
+B. They are broken down in the bone marrow
+C. They contain the enzyme glutaldehyde anhydrase
+D. They lack nuclei and mitochondria
+E. They swell to bursting point when suspended in 0.9% saline - F
+
 #### Answer: X. ?
 - ?
 
 ### Q214
+With regard to *Helicobacter pylori* (H. pylori)
+
+A. It is a Gram-positive organism
+B. It is a known carcinogen
+C. Approximately 5per cent of the population are infected with H. pylori - ?
+D. It is destroyed by the acidic environment present within the stomach - F
+E. Infection can be prevented through vaccination
+
 #### Answer: X. ?
 - ?
 
 ### Q215
+Cells in the pancreas that secrete glucagon and insulin are:
+
+A. A- and B-cells
+B. Acinar cells
+C. D cells
+D. Pancreatic D1 cells
+E. Pancreatic polypeptide cells
+
 #### Answer: X. ?
 - ?
 
 ### Q216
+Which one of the following karyotypes is associated with short stature?
+
+A. 45XO
+B. 46YO
+C. 46XO
+D. 47XYY
+E. 47XXY
+
 #### Answer: X. ?
 - ?
 
 ### Q217
+With regard to the cavernous sinus:
+
+A. It contains the external carotid artery
+B. It lies within the anterior cranial fossa
+C. The pituitary and sphenoidal air sinus lie in its medial wall
+D. Blood flows from anterior to posterior by way of valves
+E. It contains the optic nerve
+
 #### Answer: X. ?
 - ?
 
 ### Q218
+Which of the following is true of erythrocytes?
+
+A. They travel at slower velocity in venules than in capillaries
+B. They are normally spherical
+C. They make little contribution to the buffering capacity of the blood
+D. Following haemolysis, erythrocytes release erythropoietin which stimulates the production of more erythrocytes
+E. They deform as they pass through the
+
 #### Answer: X. ?
 - ?
 
 ### Q219
+Cholera:
+
+A. Is transmitted by the blood-borne route
+B. Is caused by infection with Shigella sonnei
+C. Is usually accompanied by marked mucosal inflammation and ulceration
+D. Is caused by a toxin which increases adenylate cyclase activity
+E. Is caused by endotoxin
+
 #### Answer: X. ?
 - ?
 
 ### Q220
+The glossopharyngeal nerve provides the parasympathetic innervation of the:
+
+A. Submandibular salivary gland
+B. Sublingual salivary gland
+C. Parotid salivary gland
+D. Lacrimal gland
+E. Nasal mucous glands
+
 #### Answer: X. ?
 - ?
 
 Questions 221-230
 -----------------
 
-### Q211
+### Q221
+With regard to Down's syndrome
+
+A. Alzheimer’s in seen in all individuals by the age of 45 years
+B. It is caused by trisomy 23
+C. It most commonly results from a chromosomal translocation
+D. The risk of having a child with Down’s syndrome is approximately 1 in 1000 if the mother is 30 years old
+E. Individuals most commonly die prematurely from lung cancer
+
 #### Answer: X. ?
 - ?
 
-### Q212
+### Q222
+Which of the following muscles is **not** a muscle of mastication?
+
+A. Medial pterygoid
+B. Buccinator
+C. Masseter
+D. Lateral pterygoid
+E. Temporalis
+
 #### Answer: X. ?
 - ?
 
-### Q213
+### Q223
+With regard to blood clotting:
+
+A. The haemostatic response comprises two key events
+B. Blood platelets have a small single-lobed nucleus
+C. The conversion of fibrinogen to fibrin is catalysed by prothrombin
+D. It is reversed by plasmin (fibrinolysin)
+E. Liver failure results in a prothrombotic state
+
 #### Answer: X. ?
 - ?
 
-### Q214
+### Q224
+With regard to hepatitis B:
+
+A. It is an RNA virus
+B. Infection is more commonly cleared if acquired in childhood than later in life
+C. It is the second commonest human carcinogen worldwide
+D. It is commonly acquired by the faeco-oral route
+E. It is effectively treated by hepatitis B vaccination
+
 #### Answer: X. ?
 - ?
 
-### Q215
+### Q225
+
+A skydiver lands forcefully on his right lower limb and suffers a fracture of the acetabulum, with a dislocation of the femoral head into the pelvis. The acetabulum is formed by the ilium, ischium and pubis. These three bones are completely fused by:
+
+A. Birth
+B. 6 years of age
+C. Puberty
+D. 16 years of age
+E. 23 years of age
+
 #### Answer: X. ?
 - ?
 
-### Q216
+### Q226
+Huntington's disease (Huntington's chorea):
+
+A. Is an autosomal recessive condition
+B. Is a CTG trinucleotide repeat disorder - F
+C. Causes polyglutamine repeats within the fibrillin protein
+D. Is characterized clinically by a triad of bradykinesia, rigidity and tremor - F
+E. Exhibits a genetic phenomenon known as ‘anticipation’
+
 #### Answer: X. ?
 - ?
 
-### Q217
+### Q227
+With regard to the Circle of Willis (*circulus arteriosus*):
+
+A. It is formed from the anastomosis of the internal and external carotid arteries
+B. The anterior communicating artery joins the two anterior cerebral arteries - T
+C. The posterior cerebral artery is the terminal branch of the internal carotid artery
+D. The posterior communicating artery joins the two posterior cerebral arteries
+E. It is fascinating, but clinically unimportant - F
+
+#### Answer: B. The anterior communicating artery joins the two anterior cerebral arteries - ?
+- ?
+
+### Q228
+With regard to the microcirculation and formation of lymph:
+
+A. At the arterial end of the capillary, the plasma colloid osmotic pressure exceeds the capillary hydrostatic pressure
+B. At the venous end of the capillary, the capillary hydrostatic pressure exceeds the plasma colloid osmotic pressure
+C. Oedema results from a rise in colloid osmotic pressure
+D. Interstitial fluid hydrostatic pressure is normally negative
+E. All the fluid that is filtered from the capillary flows into lymph vessels
+
 #### Answer: X. ?
 - ?
 
-### Q218
+### Q229
+Human Immunodeficiency Virus (HIV):
+
+A. Is a DNA virus
+B. Contains RNA polymerase
+C. Is transmitted by the faeco-oral route - F
+D. Establishes persistence through antigenic variation
+E. Principally targets CD8 T-cells - F
+
 #### Answer: X. ?
 - ?
 
-### Q219
+### Q230
+Typical physical and laboratory findings in hyperthyroidism include which of the following:
+
+A. Bradycardia
+B. Delayed reflexes
+C. High serum cholesterol
+D. Thick, rough skin
+E. Tremor
+
 #### Answer: X. ?
 - ?
 
-### Q220
-#### Answer: X. ?
-- ?
-
-Questions 231-240
+Questions 231-240 - HERE
 -----------------
 
 ### Q231
+With regard to cystic fibrosis:
+
+A. Inheritance is sex-linked - F
+B. It is caused by a genetic defect on chromosome 6
+C. It is the most common inherited disease in Caucasians
+D. Patients can expect a normal life expectancy - F
+E. Gene therapy is a well established treatment option - F
+
 #### Answer: X. ?
 - ?
 
 ### Q232
+With regard to the cranial meninges:
+
+A. The dura mater is a single layer thick - ?
+B. The pia mater is the outermost layer (closest to the skull) - F
+C. A subdural haematoma lies in the plane between the dura and arachnoid mater
+D. A subarachnoid haematoma forms on the outside of the dura mater - F
+E. The dura mater is poorly innervated
+
 #### Answer: X. ?
 - ?
 
 ### Q233
+With regard to the cerebral circulation:
+
+A. Cerebral blood flow is mainly governed by cardiovascular reflexes
+B. Cerebral blood flow is very sensitive to changes in the p CO of the perfusing blood
+C. Cerebral blood flow increases steeply with increasing blood pressure
+D. It comprises functional end-arteries
+E. Raised intracranial pressure results in hypotension and tachycardia
+
 #### Answer: X. ?
 - ?
 
 ### Q234
+With regard to influenza:
+
+A. It is a DNA virus
+B. It belongs to the Picornaviridae family of viruses
+C. Antigenic drift is responsible for pandemics
+D. Mutations in the haemagglutinin molecule are responsible for antigenic drift
+E. It can be prevented by administration of a live vaccine - F
+
 #### Answer: X. ?
 - ?
 
 ### Q235
+Risk factors for developing osteoporosis include:
+
+A. Obesity
+B. Low calcium intake
+C. Late menopause - F
+D. Excessive rigorous physical exercise
+E. Abstinence from alcohol - F
+
 #### Answer: X. ?
 - ?
 
 ### Q236
+Haemophilia A:
+
+A. Is more common in females than males - F
+B. Is due to an abnormal gene on the Y chromosome
+C. Is synonymous with Christmas disease
+D. Is due to a deficiency in factor IX
+E. Affects the intrinsic, rather than the extrinsic, pathway for blood coagulation
+
 #### Answer: X. ?
 - ?
 
 ### Q237
+With regard to the facial nerve:
+
+A. It carries taste sensation from the posterior third of the tongue
+B. It innervates the levator palpebrae superioris muscle
+C. It is secreto-motor to the lacrimal gland
+D. It is associated with the third branchial arch
+E. It supplies the principal muscles of mastication - F (mandibular branch of CN Vc)
+
 #### Answer: X. ?
 - ?
 
 ### Q238
+Which one of the following statements concerning lung volumes is true?
+
+A. The functional residual capacity is the sum of the tidal volume and residual volume
+B. The vital capacity is the sum of the inspiratory reserve volume, the expiratory reserve volume and the tidal volume
+C. The functional residual capacity can be measured directly by spirometry
+D. The residual volume is the volume of air left in the lungs after normal quiet expiration
+E. The normal tidal volume is approximately 2 L
+
 #### Answer: X. ?
 - ?
 
 ### Q239
+The pathogenicity of tubercle bacillus is primarily due to which one of the following?
+
+A. Ability to multiply within macrophages
+B. Delayed hypersensitivity reaction against the bacteria
+C. Direct toxic effect on host cells
+D. Effective antibody response
+E. Necrosis caused by expanding granulomas
+
 #### Answer: X. ?
 - ?
 
 ### Q240
+A 46-year-old man has a neck tumour. It has damaged his left cervical sympathetic chain ganglion. Which of the following physical signs would you expect:
+
+A. Increased sweat secretion on the left side of the face
+B. Lateral deviation of the left eye
+C. Pale skin on the left side of his face
+D. Ptosis on the left
+E. Pupil dilatation of the left eye
+
 #### Answer: X. ?
 - ?
 

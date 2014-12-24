@@ -3137,46 +3137,126 @@ E. Pupil dilatation of the left eye
 #### Answer: X. ?
 - ?
 
-Questions 241-250
+Questions 241-250 - HERE
 -----------------
 
 ### Q241
+With regard to sickle-cell anaemia:
+
+A. The inheritance pattern is autosomal dominant
+B. It is caused by a mutation within the haemoglobin alpha chain
+C. Mutation is a valine–alanine substitution - ?
+D. It is more common in regions of the world in which malaria is endemic - F
+E. It causes splenomegaly in adulthood
+
 #### Answer: X. ?
 - ?
 
 ### Q242
+With regard to the spinal cord and vertebral column:
+
+A. The spinal cord terminates at the level of L4 - F
+B. The intervertebral joints are secondary cartilaginous joints - ?
+C. It is supplied by two anterior spinal arteries and one posterior spinal artery
+D. Batson’s vertebral venous plexus contains valves - F
+E. Intervertebral disc prolapse at L4/5 causes L4 root compression
+
 #### Answer: X. ?
 - ?
 
 ### Q243
+With regard to surfactant:
+
+A. It increases the surface tension of the film of liquid lining the alveoli - F
+B. It reduces lung compliance
+C. It is secreted by type I pneumocytes
+D. The surface tension of fluid containing surfactant increases as the surface area of the 
+E. It helps to prevent the formation of pulmonary oedema
+
 #### Answer: X. ?
 - ?
 
 ### Q244
+Mycobacterium tuberculosis:
+
+A. Is a Gram-negative organism
+B. Is an anaerobic microorganism - F
+C. Typically affects the apical lung in post-primary TB
+D. Is treated with penicillin
+E. Is impossible to acquire following BCG vaccination - F
+
 #### Answer: X. ?
 - ?
 
 ### Q245
+What are the insensible losses of water (i.e. skin and lung) over 24 hours in a typical adult male at room temperature?
+
+A. 0 mL
+B. 100–300 mL
+C. 500–1000 mL
+D. 2500–3500 mL
+E. 4000–5000 mL
+
 #### Answer: X. ?
 - ?
 
 ### Q246
+With regard to disorders of haemoglobin:
+
+A. Sickle cell disease is due to the decreased production of normal globin
+B. Haemoglobin binds more avidly to oxygen than carbon monoxide - F
+C. Defective haem synthesis results in porphyria
+D. Thalassaemia is due to the production of abnormal globin
+E. Cyanide kills by blocking the interaction between oxygen and haemoglobin
+
 #### Answer: X. ?
 - ?
 
 ### Q247
+With regard to the breast:
+
+A. It drains to the tracheobronchial group of lymph nodes - F
+B. It is supplied mainly by the anterior intercostal arteries
+C. It sits on the pectoralis minor muscle - F
+D. Lymphatics of the breast have connections with those of the opposite breast
+E. It involutes during pregnancy - F
+
 #### Answer: X. ?
 - ?
 
 ### Q248
+With regard to pulmonary blood flow:
+
+A. Dilatation of pulmonary blood vessels occurs in response to hypoxia - F
+B. The pulse pressure in the pulmonary artery is about the same as that in the aorta - F
+C. During exercise, blood flow to the upper portion of the lung increases
+D. The ventilation/perfusion ratio is the same in all parts of the lung in a standing - F
+E. Pulmonary vascular resistance is six times greater than that of the systemic
+
 #### Answer: X. ?
 - ?
 
 ### Q249
+With regard to tetanus:
+
+A. It is caused by a Gram-negative bacillus
+B. It is caused by an aerobic organism
+C. It results from the secretion of exotoxin
+D. It is caused by Clostridium perfringens
+E. It is caused by bacterial invasion of the nervous system
+
 #### Answer: X. ?
 - ?
 
 ### Q250
+Nitric oxide (NO) results in induction of vascular smooth muscle relaxation in response to acetylcholine. The production of NO requires which amino acid?
+
+A. Lysine
+B. Glutamine
+C. Cysteine
+D. Aspargine
+E. Arginine
+
 #### Answer: X. ?
 - ?
 
@@ -3184,42 +3264,117 @@ Questions 251-260
 -----------------
 
 ### Q251
+With regard to ABO blood grouping:
+
+A. Blood group O is the universal recipient - F
+B. The mode of inheritance is autosomal recessive - F
+C. Blood group AB is the universal donor - F
+D. Blood group O is recessive to A and B
+E. Individuals of blood group O are resistant to Plasmodium vivax
+
 #### Answer: X. ?
 - ?
 
 ### Q252
+With regard to the intercostal spaces:
+
+A. The neurovascular bundle lies between the external intercostal and inner intercostal muscle layers
+B. The direction of fibres of the external intercostal muscle is downwards and medial
+C. The intercostal vein lies below the intercostal nerve - ?
+D. The neurovascular bundle lies in a groove just above each rib - F
+E. The intercostals are the main muscles of respiration
+
 #### Answer: X. ?
 - ?
 
 ### Q253
+With regard to chemoreceptors:
+
+A. The carotid bodies have a blood flow per unit volume similar to that of the brain
+B. The carotid bodies are stretch receptors in the walls of the carotid arteries
+C. Central chemoreceptors are located in the aortic arch
+D. Carotid bodies primarily respond to hypoxia
+E. The response of the peripheral chemoreceptors to arterial pCO2 is more important than that of the central chemoreceptors
+
 #### Answer: X. ?
 - ?
 
 ### Q254
+With regard to malaria:
+
+A. It is caused by a virus - F
+B. It is transmitted by the Aedes mosquito vector
+C. The most virulent strain is Plasmodium malariae
+D. It may cause blackwater fever
+E. It is effectively prevented by vaccination
+
 #### Answer: X. ?
 - ?
 
 ### Q255
+The neurotransmitters adrenaline, noradrenaline and dopamine are derived from which amino acid?
+
+A. Tyrosine
+B. Arginine
+C. Aspargine
+D. Phenylalanine
+E. Tryptophan
+
 #### Answer: X. ?
 - ?
 
 ### Q256
+Adult polycystic kidney disease (APKD):
+
+A. Is inherited as an autosomal recessive - ?
+B. Affects only one kidney - F
+C. Is associated with berry aneurysms of the Circle of Willis
+D. Commonly presents at birth - F
+E. Is due to a mutation in polycystin-1 in all cases - F
+
 #### Answer: X. ?
 - ?
 
 ### Q257
-#### Answer: X. ?
+With regard to the oesophagus:
+
+A. It is a segmental muscular tube composed entirely of smooth muscle - F
+B. Epithelium is always stratified squamous throughout its whole length - F
+C. Blood supply is from the descending thoracic aorta along its entire length - F
+D. It lacks a true serosal surface - F
+E. It measures approximately 40cm in length
+
+#### Answer: E. It measures approximately 40cm in length - ?
 - ?
 
 ### Q258
+With regard to carbon dioxide transport:
+
+A. Carbon dioxide is mainly carried in the blood in its dissolved form
+B. It is carried as carboxyhaemoglobin on the haemoglobin molecule
+C. The Haldane effect describes changes in the affinity of the blood for CO2 with variations in the PaO2
+D. Venous blood has a higher pH than arterial blood
+E. Carbon dioxide is less soluble in plasma than is oxygen
+
 #### Answer: X. ?
 - ?
 
 ### Q259
-#### Answer: X. ?
+With regard to the malaria life cycle:
+
+A. Sporozoites invade erythrocytes
+B. Parasites may remain dormant in the liver as hypnozoites - T
+C. Trophozoites invade hepatocytes
+D. Schizonts are contained within the mosquito’s salivary glands
+E. Fertilization and formation of a zygote occurs in humans
+
+#### Answer: B. Parasites may remain dormant in the liver as hypnozoites - ?
 - ?
 
 ### Q260
+A 42-year-old woman has a genetic defect and cannot produce J-chains that are important in the structure of immunoglobulins. Most likely she will have:
+
+
 #### Answer: X. ?
 - ?
 

@@ -1017,17 +1017,17 @@ For each of the patients described below, select the single most likely diagnosi
 
 ### Q122
 A 42-year-old African male has recently been diagnosed with malaria and is taking quinine. He presents with fatigue, dark urine and shortness of breath.
-#### Answer:
+#### Answer: B. Hereditary spherocytosis - ?
 
 ### Q123 
 An 11-year-old Scottish, Caucasian girl presents with mild anaemia and jaundice. Her blood tests reveal a normal MCV, but her red cell osmotic fragility test is increased.
-#### Answer:
+#### Answer: G. Glucose-6-phosphate dehydrogenase deficiency - ?
 
 ### Q124 
 A 25-year-old African man presents with severe lumbar back pain and jaundice. His blood tests demonstrate a normocytic, normochromic anaemia, high reticulocyte count. His ESR is low.
-#### Answer:
+#### Answer: D. Sickle cell disease - ?
 
-## Q125-127: Complications of blood transfusions
+## Q125-127: Complications of blood transfusions - Ch??: ?
 	A. Immediate haemolytic reaction
 	B. Febrile reaction
 	C. Allergic reaction
@@ -1040,14 +1040,17 @@ For each of the patients described below, select the single most likely diagnosi
 
 ### Q125 
 A 72-year-old male is transfused with blood for an acute gastrointestinal bleed. Thirty minutes later he develops a temperature of 39.5°C, tachycardia and hypotension. There is no evidence of haemolysis on blood film.
+#### Answer: A. Immediate haemolytic reaction - ?
 
 ### Q126 
 An 82-year-old woman develops a temperature of 38°C and a moderate headache three hours after her blood transfusion is administered.
+#### Answer: B. Febrile reaction - ?
 
 ### Q127 
 A 65-year-old woman presents one week post-transfusion with anaemia, jaundice and fever.
+#### Answer: G. Delayed haemolytic reaction - ?
 
-## Q128-130: Fractures
+## Q128-130: Fractures - Ch??: ?
 	A. Transverse
 	B. Spiral
 	C. Stress
@@ -1060,14 +1063,17 @@ For each of the patients described below, select the single most likely diagnosi
 
 ### Q128 
 A marathon runner presents with a fractured metatarsal bone. There is no history of trauma.
+#### Answer: C. Stress - ?
 
 ### Q129 
 A 13-year-old boy falls while playing football. He has an abrasion over the site of tenderness and an X-ray shows a fracture through one of the cortices.
+#### Answer: G. Incomplete - ?
 
 ### Q130 
 An 84-year-old woman presents with a painful right tibia. Her X-ray shows abnormal cortical thickening, a visible fracture and thickening in a bowed tibia.
+#### Answer: D. Pathological - ?
 
-## Q130-133: Acid–base balance
+## Q130-133: Acid–base balance - Ch??: ?
 	A. Metabolic alkalosis
 	B. Metabolic acidosis
 	C. Uncompensated respiratory alkalosis
@@ -1078,15 +1084,21 @@ An 84-year-old woman presents with a painful right tibia. Her X-ray shows abnorm
 For each of the case scenarios described below, select the single most likely diagnosis from the options listed above. Each option may be used once, more than once or not at all.
 
 ### Q131 
-pH 7.3, PaO2 8.5 kPa, PaCO2 9.8 kPa, HCO 33 mmol/L.
+pH 7.3, PaO2 8.5 kPa, PaCO2 9.8 kPa, HCO3 33 mmol/L.
+#### Answer: F. Compensated respiratory acidosis - ?
+- low pH: acidosis, high CO2: acid, high HCO3: alkali => R acidosis + M alkalosis
 
 ### Q132 
-pH 7.55, PaO2 10 kPa, PaCO2 7.3 kPa, HCO 43 mmol/L.
+pH 7.55, PaO2 10 kPa, PaCO2 7.3 kPa, HCO3 43 mmol/L.
+#### Answer: A. Metabolic alkalosis - ?
+- high pH: alkali, high CO2: acid, high HCO3: alkali => M alkalosis (+ R compensation)
 
 ### Q133 
-pH 7.3, PaO2 8.5 kPa, PaCO2 8.0 kPa, HCO 27 mmol/L.
+pH 7.3, PaO2 8.5 kPa, PaCO2 8.0 kPa, HCO3 27 mmol/L.
+#### Answer: D. Uncompensated respiratory acidosis - ?
+- low pH: acidosis, high CO2: acid, HCO3: normal => R acidosis
 
-## Q134-136: Informed consent
+## Q134-136: Informed consent - CH??: ?
 	A. Patient
 	B. Partner
 	C. Parents
@@ -1099,14 +1111,17 @@ For each of the case scenarios described below, select the single most likely pe
 
 ### Q134 
 A 15-year-old girl refuses to have an appendicectomy.
+#### Answer: C. Parents - ?
 
 ### Q135 
 An unconscious stabbed patient needs an emergency thoracotomy.
+#### Answer: D. Surgeon - ?
 
 ### Q136 
 A diabetic patient with chronic, stable schizophrenia presents with a gangrenous toe which requires an amputation. He understands the implications but refuses surgery.
+#### Answer: E. Psychiatrist - ?
 
-## Q137-139: Neck anatomy
+## Q137-139: Neck anatomy - Ch??: ?
 	A. Phrenic nerve
 	B. Stellate ganglion
 	C. Thoracic duct
@@ -1118,14 +1133,17 @@ For each of the case scenarios described below, select the single most likely st
 
 ### Q137 
 The patient is complaining of tingling in the tips of their fingers.
+#### Answer: B. Stellate ganglion - ?
 
 ### Q138 
 An opera singer complains that her voice is becoming weak after singing for a short period of time.
+#### Answer: F. External laryngeal nerve - ? 
 
 ### Q139 
 A smoker presents with unilateral ptosis and a small pupil.
+#### Answer: A. Phrenic nerve - ?
 
-## Q140-142: Innervation of lower limb muscles
+## Q140-142: Innervation of lower limb muscles - Ch??: ?
 	A. Obturator nerve
 	B. Saphenous nerve
 	C. Femoral nerve
@@ -1137,15 +1155,18 @@ A smoker presents with unilateral ptosis and a small pupil.
 For each of the muscles below, select the single most likely nerve from the options listed above. Each option may be used once, more than once or not at all.
 
 ### Q140 
-Tibilis anterior
+Tibialis anterior
+#### Answer: E. Superficial peroneal nerve - ?
 
 ### Q141
 Quadratus femoris
+#### Answer: C. Femoral nerve - ?
 
 ### Q142 
 Adductor magnus
+#### Answer: A. Obturator nerve - ?
 
-## Q143-145: Brachial plexus injuries
+## Q143-145: Brachial plexus injuries - Ch??: ?
 	A. C5
 	B. C5–6
 	C. C5–7
@@ -1158,14 +1179,18 @@ For each of the case scenarios described below, select the single most likely di
 
 ### Q143 
 A healthy full-term baby was born 5 hours ago after a prolonged labour. The child’s right arm is medially rotated with the palm of the hand facing backwards.
+#### Answer: C. C5–7 - ?
+- Waiter's Tip position
 
 ### Q144 
 While the patient is holding on to the overhead railing, the bus suddenly stops. The patient presents with weakness of the small muscles of the hand and sensory loss over the medial aspect of the hand and forearm.
+#### Answer: D. C7–8, T1 - ?
 
 ### Q145 
 A motorcyclist is involved in an accident. His right upper limb is paralysed and insensate.
+#### Answer: G. C5–8, T1 - ?
 
-## Q146-148: Herniae
+## Q146-148: Herniae - Ch??: ?
 	A. Direct inguinal
 	B. Indirect inguinal
 	C. Obturator
@@ -1179,14 +1204,17 @@ For each of the anatomical locations described below, select the single most lik
 
 ### Q146 
 Arising in the upper, inner thigh.
+#### Answer: C. Obturator - ?
 
 ### Q147 
 Arising from the umbilicus in the adult.
+#### Answer: F. Para-umbilical - ?
 
 ### Q148 
 Arising below and lateral to the pubic tubercle.
+#### Answer: D. Femoral - ?
 
-## Q149-151: Tumour markers
+## Q149-151: Tumour markers - Ch??: ?
 	A. CA-125
 	B. Ca19-9
 	C. PSA
@@ -1199,14 +1227,17 @@ For each of the neoplasms below, select the single most likely diagnosis from th
 
 ### Q149 
 Ovarian carcinoma
+#### Answer: A. CA-125 - ?
 
 ### Q150 
 Hepatocellular carcinoma
+#### Answer: F. Alpha-fetoprotein - ?
 
 ### Q151 
 Colorectal cancer
+#### Answer: D. CEA - ?
 
-## Q152-154: Adrenal pathology
+## Q152-154: Adrenal pathology - Ch??: ?
 	A. Cushing’s syndrome
 	B. Phaeochromocytoma
 	C. Conn’s syndrome
@@ -1219,13 +1250,17 @@ For each of the case scenarios below, select the single most likely diagnosis fr
 
 ### Q152 
 A 42-year-old woman presents with epigastric pain. Her past medical history includes duodenal ulcers, hirsutism and bilateral pitting leg oedema. Investigations reveal hypercalcaemia.
+#### Answer: C. Conn’s syndrome - ?
 
 ### Q153 
 A 72-year-old smoker presents with polydipsia and polyuria. On clinical examination he has a moon face, buffalo hump, abdominal striae and hypertension.
+#### Answer: A. Cushing’s syndrome - ?
 
-### Q154 A 42-year-old woman (with known pernicious anaemia) faints. She is hypotensive and her blood tests demonstrate hyperkalaemia.
+### Q154 
+A 42-year-old woman (with known pernicious anaemia) faints. She is hypotensive and her blood tests demonstrate hyperkalaemia.
+#### Answer: G. Multiple endocrine neoplasia 2b - ?
 
-## Q155-157: Chest pain
+## Q155-157: Chest pain - Ch??: ?
 	A. Myocardial infarction
 	B. Pneumonia
 	C. Pulmonary embolus
@@ -1238,14 +1273,17 @@ For each of the case scenarios below, select the single most likely diagnosis fr
 
 ### Q155 
 A 16-year-old girl presents with a history of asthma and epilepsy with anterior chest pain and shortness of breath. On percussion her anterior chest wall is tender.
+#### Answer: E. Tietze’s syndrome (*costochondritis*) - ?
 
 ### Q156 
 A 63-year-old man presents with crushing, retrosternal chest pain which radiates to his jaw. A coronary angiogram 3 months previously was normal.
+#### Answer: A. Myocardial infarction - ?
 
 ### Q157 
 A 32-year-old woman presents 3 weeks post-partum with pleuritic chest pain, breathlessness
+#### Answer: C. Pulmonary embolus - ?
 
-## Q158-160: Metabolic abnormalities
+## Q158-160: Metabolic abnormalities - Ch??: ?
 	A. Hypokalaemia
 	B. Hyperkalaemia
 	C. Hyponatraemia
@@ -1258,14 +1296,17 @@ For each of the case scenarios below, select the single most likely diagnosis fr
 
 ### Q158 
 A 63-year-old woman with congestive cardiac failure is commenced on oral steroids for an acute exacerbation of COPD. She takes regular furosemide and aspirin.
+#### Answer: C. Hyponatraemia - ?
 
 ### Q159 
 A 51-year-old alcoholic man with Boerhaave’s syndrome receives a feeding jejunostomy.
+#### Answer: D. Hypernatraemia - ?
 
 ### Q160 
 A 25-year-old man sustains a partial-thickness burn in his left arm. He has proteinuria and his creatine kinase is elevated.
+#### Answer: B. Hyperkalaemia - ?
 
-## Q161-163: Lung volumes
+## Q161-163: Lung volumes - Ch??: ?
 	A. Inspiratory reserve volume
 	B. Tidal volume
 	C. Functional residual capacity
@@ -1278,41 +1319,14 @@ For each of the equations described below, select the single most likely option 
 
 ### Q161 
 Residual volume + expiratory reserve volume = ?
+#### Answer: C. Functional residual capacity - ?
 
 ### Q162 
 Total lung capacity − vital capacity = ?
+#### Answer: A. Inspiratory reserve volume - ?
 
 ### Q163 
 Vital capacity − (expiratory reserve volume + inspiratory reserve volume) = ?
+#### Answer: B. Tidal volume - ?
 
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+===
